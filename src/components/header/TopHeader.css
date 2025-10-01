@@ -1,0 +1,26 @@
+.nav-link {
+  cursor: pointer;
+  color: #adadad !important;
+  font-weight: 100;
+  background-color: transparent !important;
+  &:hover {
+    color: #fff !important;
+    background-color: transparent !important;
+  }
+}
+
+/* .sub-active {
+  color: #fff !important;
+} */
+
+.active {
+  color: #fff !important;
+  font-weight: 700;
+  background-color: transparent !important;
+}
+
+@media screen and (max-width: 991px) {
+  .top-header {
+    display: none !important;
+  }
+}

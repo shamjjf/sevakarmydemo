@@ -1,0 +1,774 @@
+{
+  "home": {
+    "title": "Sevak Army - Connect Volunteers with NGOs for Social Work",
+    "description": "Sevak Army connects verified NGOs with skilled volunteers, offering a platform for NGOs to post tasks and volunteers to engage in impactful work based on their expertise.",
+    "keywords": "Connect Volunteers with NGO, Social Impact Platform, Community Engagement Platform, Social Contribution Platform, NGO volunteer platform, Volunteer social work",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/",
+    "h1": "Welcome to Sevak Army - Your Platform for Volunteering",
+    "openGraph": {
+      "title": "Sevak Army - Connect Volunteers with NGOs for Social Work",
+      "description": "Sevak Army connects verified NGOs with skilled volunteers, offering a platform for NGOs to post tasks and volunteers to engage in impactful work based on their expertise.",
+      "url": "https://sevakarmy.com/",
+      "images": ["/images/og-home.png"],
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sevak Army - Connect Volunteers with NGOs for Social Work",
+      "description": "Sevak Army connects verified NGOs with skilled volunteers, offering a platform for NGOs to post tasks and volunteers to engage in impactful work based on their expertise.",
+      "images": ["/images/twitter-home.png"]
+    }
+  },
+  "volunteer": {
+    "title": "Sevak Army - Volunteer Opportunities for Everyone",
+    "description": "Discover volunteer opportunities with Sevak Army. Support causes like education, healthcare, and the environment while giving back to society.",
+    "keywords": "Volunteers Platform, Volunteering opportunities, Skill-based volunteering, Community service, Social impact volunteering",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/volunteer",
+    "h1": "Volunteer Opportunities for Everyone",
+    "openGraph": {
+      "title": "Sevak Army - Volunteer Opportunities for Everyone",
+      "description": "Discover volunteer opportunities with Sevak Army. Support causes like education, healthcare, and the environment while giving back to society.",
+      "url": "https://sevakarmy.com/volunteer",
+      "images": ["/images/og-volunteer.png"],
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sevak Army - Volunteer Opportunities for Everyone",
+      "description": "Discover volunteer opportunities with Sevak Army. Support causes like education, healthcare, and the environment while giving back to society.",
+      "images": ["/images/twitter-volunteer.png"]
+    }
+  },
+  "volunteer/about-us": {
+    "title": "About Sevak Army - Connecting Volunteers with NGOs",
+    "description": "Learn how Sevak Army connects volunteers with trusted NGOs, creating meaningful social impact through skills and community service.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/volunteer/about-us",
+    "h1": "Connecting Volunteers with Impactful Causes",
+    "openGraph": {
+      "title": "About Sevak Army - Connecting Volunteers with NGOs",
+      "description": "Learn how Sevak Army connects volunteers with trusted NGOs, creating meaningful social impact through skills and community service.",
+      "url": "https://sevakarmy.com/volunteer/about-us",
+      "images": ["/images/og-about.png"],
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary",
+      "title": "About Sevak Army - Connecting Volunteers with NGOs",
+      "description": "Learn how Sevak Army connects volunteers with trusted NGOs, creating meaningful social impact through skills and community service.",
+      "images": ["/images/twitter-about.png"]
+    }
+  },
+  "volunteer/key-features": {
+    "title": "Key Features - Volunteer with Purpose",
+    "description": "Explore key features of Sevak Army - Volunteer with verified NGOs, Track Impact, Earn Rewards, and find tasks that match your skills. Join today and give back.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/volunteer/features",
+    "h1": "Volunteer Easily with Sevak Army",
+    "openGraph": {
+      "title": "Key Features - Volunteer with Purpose",
+      "description": "Explore key features of Sevak Army - Volunteer with verified NGOs, Track Impact, Earn Rewards, and find tasks that match your skills. Join today and give back.",
+      "url": "https://sevakarmy.com/volunteer/features",
+      "images": ["/images/og-features.png"],
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary",
+      "title": "Key Features - Volunteer with Purpose",
+      "description": "Explore key features of Sevak Army - Volunteer with verified NGOs, Track Impact, Earn Rewards, and find tasks that match your skills. Join today and give back.",
+      "images": ["/images/twitter-features.png"]
+    }
+  },
+  "volunteer/benefits": {
+    "title": "Volunteering Benefits - Volunteer, Earn Rewards & Grow Skills",
+    "description": "See how Sevak Army benefits you - Volunteer Flexibly, Earn Certificates, Grow Skills, Inspire Change & support trusted NGOs. Make an impact today.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/volunteer/benefits",
+    "h1": "Key Benefits of Volunteering",
+    "openGraph": {
+      "title": "Sevak Army Benefits - Volunteer, Earn Rewards & Grow Skills",
+      "description": "See how Sevak Army benefits you - Volunteer Flexibly, Earn Certificates, Grow Skills, Inspire Change & support trusted NGOs. Make an impact today.",
+      "url": "https://sevakarmy.com/volunteer/benefits",
+      "images": ["/images/og-benefits.png"],
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary",
+      "title": "Sevak Army Benefits - Volunteer, Earn Rewards & Grow Skills",
+      "description": "See how Sevak Army benefits you - Volunteer Flexibly, Earn Certificates, Grow Skills, Inspire Change & support trusted NGOs. Make an impact today.",
+      "images": ["/images/twitter-benefits.png"]
+    }
+  },
+  "volunteer/leaderboard": {
+    "title": "Volunteers Leaderboard - Track & Earn Rewards",
+    "description": "Volunteer, earn points, and track your rank on the Sevak Army leaderboard. Get badges, e-certificates & rewards for making a difference.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/volunteer/leaderboard",
+    "h1": "Volunteer, Earn Rewards & Lead",
+    "openGraph": {
+      "title": "Volunteers Leaderboard - Track & Earn Rewards",
+      "description": "Volunteer, earn points, and track your rank on the Sevak Army leaderboard. Get badges, e-certificates & rewards for making a difference.",
+      "url": "https://sevakarmy.com/volunteer/leaderboard",
+      "images": ["/images/og-leaderboard.png"],
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary",
+      "title": "Volunteers Leaderboard - Track & Earn Rewards",
+      "description": "Volunteer, earn points, and track your rank on the Sevak Army leaderboard. Get badges, e-certificates & rewards for making a difference.",
+      "images": ["/images/twitter-leaderboard.png"]
+    }
+  },
+  "volunteer/recognition-event": {
+    "title": "Volunteers Recognition & Awards",
+    "description": "Be recognized for your volunteer work at Sevak Army’s Recognition Event! Earn awards, share stories & connect with changemakers. Join the celebration.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/volunteer/recognition-event",
+    "h1": "Join the Celebration of Changemakers",
+    "openGraph": {
+      "title": "Volunteers Recognition & Awards",
+      "description": "Be recognized for your volunteer work at Sevak Army’s Recognition Event! Earn awards, share stories & connect with changemakers. Join the celebration.",
+      "url": "https://sevakarmy.com/volunteer/recognition-event",
+      "images": ["/images/og-event.png"],
+      "type": "event"
+    },
+    "twitter": {
+      "card": "summary",
+      "title": "Volunteers Recognition & Awards",
+      "description": "Be recognized for your volunteer work at Sevak Army’s Recognition Event! Earn awards, share stories & connect with changemakers. Join the celebration.",
+      "images": ["/images/twitter-event.png"]
+    }
+  },
+  "volunteer/become-volunteer": {
+    "title": "Sevak Army - Your Path to Volunteering",
+    "description": "Sign up with Sevak Army, find volunteer tasks that match your skills & make an impact. Connect with NGOs, track progress & earn recognition.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/volunteer/become-volunteer",
+    "h1": "Your Path to Meaningful Volunteering",
+    "openGraph": {
+      "title": "Sevak Army - Your Path to Volunteering",
+      "description": "Sign up with Sevak Army, find volunteer tasks that match your skills & make an impact. Connect with NGOs, track progress & earn recognition.",
+      "url": "https://sevakarmy.com/volunteer/become-volunteer",
+      "images": ["/images/og-volunteer.png"],
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary",
+      "title": "Sevak Army - Your Path to Volunteering",
+      "description": "Sign up with Sevak Army, find volunteer tasks that match your skills & make an impact. Connect with NGOs, track progress & earn recognition.",
+      "images": ["/images/twitter-volunteer.png"]
+    }
+  },
+  "volunteer/faqs": {
+    "title": "FAQs - Everything About Sevak Army Volunteering",
+    "description": "Find answers to all your questions about Sevak Army - volunteers. Explore our FAQs for clear and quick insights.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/volunteer/faqs",
+    "h1": "Volunteers - All You Need to Know",
+    "openGraph": {
+      "title": "FAQs - Everything About Sevak Army Volunteering",
+      "description": "Find answers to all your questions about Sevak Army - volunteers. Explore our FAQs for clear and quick insights.",
+      "url": "https://sevakarmy.com/volunteer/faqs",
+      "images": ["/images/og-faqs.png"],
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary",
+      "title": "FAQs - Everything About Sevak Army Volunteering",
+      "description": "Find answers to all your questions about Sevak Army - volunteers. Explore our FAQs for clear and quick insights.",
+      "images": ["/images/twitter-faqs.png"]
+    }
+  },
+  "influencer": {
+    "title": "Sevak Army Influencers| Social Impact & Community Engagement",
+    "description": "Encourage community engagement and social impact! Share your referral link, promote causes, and inspire others with Sevak Army’s influencer volunteering.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/influencer",
+    "h1": "Inspire Change with Your Influence",
+    "openGraph": {
+      "title": "Sevak Army Influencers| Social Impact & Community Engagement",
+      "description": "Encourage community engagement and social impact! Share your referral link, promote causes, and inspire others with Sevak Army’s influencer volunteering.",
+      "url": "https://sevakarmy.com/influencer",
+      "images": ["/images/og-influencer-home.png"],
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Sevak Army Influencers| Social Impact & Community Engagement",
+      "description": "Encourage community engagement and social impact! Share your referral link, promote causes, and inspire others with Sevak Army’s influencer volunteering.",
+      "images": ["/images/twitter-influencer-home.png"]
+    }
+  },
+  "influencer/about-us": {
+    "title": "Influencers Inspire Volunteerism - Encouraging followers to Serve",
+    "description": "Discover how Sevak Army helps influencers motivate followers to engage in community service & make a meaningful difference.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/influencer/about-us",
+    "h1": "Empowering Followers to Create Change Through Volunteerism",
+    "openGraph": {
+      "title": "Influencers Inspire Volunteerism - Encouraging followers to Serve",
+      "description": "Discover how Sevak Army helps influencers motivate followers to engage in community service & make a meaningful difference.",
+      "url": "https://sevakarmy.com/influencer/about-us",
+      "images": ["/images/og-influencer-about.png"],
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary",
+      "title": "Influencers Inspire Volunteerism - Encouraging followers to Serve",
+      "description": "Discover how Sevak Army helps influencers motivate followers to engage in community service & make a meaningful difference.",
+      "images": ["/images/twitter-influencer-about.png"]
+    }
+  },
+  "influencer/key-features": {
+    "title": "Sevak Army - Key Features for Influencers",
+    "description": "Encourage your followers to volunteer with Sevak Army. Get a referral link, track impact, engage with NGOs, and earn recognition for social change.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/influencer/features",
+    "h1": "Inspire Action, Make Impact",
+    "openGraph": {
+      "title": "Sevak Army - Key Features for Influencers",
+      "description": "Encourage your followers to volunteer with Sevak Army. Get a referral link, track impact, engage with NGOs, and earn recognition for social change.",
+      "url": "https://sevakarmy.com/influencer/features",
+      "images": ["/images/og-influencer-features.png"],
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary",
+      "title": "Sevak Army - Key Features for Influencers",
+      "description": "Encourage your followers to volunteer with Sevak Army. Get a referral link, track impact, engage with NGOs, and earn recognition for social change.",
+      "images": ["/images/twitter-influencer-features.png"]
+    }
+  },
+  "influencer/benefits": {
+    "title": "Track, Earn & Lead – Influencer Benefits on Sevak Army",
+    "description": "Influencers earn points, digital badges & track their impact. Strengthen your personal brand while inspiring social change through Sevak Army!",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/influencer/benefits",
+    "h1": "Earn Rewards for Inspiring Change",
+    "openGraph": {
+      "title": "Track, Earn & Lead – Influencer Benefits on Sevak Army",
+      "description": "Influencers earn points, digital badges & track their impact. Strengthen your personal brand while inspiring social change through Sevak Army!",
+      "url": "https://sevakarmy.com/influencer/benefits",
+      "images": ["/images/og-influencer-benefits.png"],
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary",
+      "title": "Track, Earn & Lead – Influencer Benefits on Sevak Army",
+      "description": "Influencers earn points, digital badges & track their impact. Strengthen your personal brand while inspiring social change through Sevak Army!",
+      "images": ["/images/twitter-influencer-benefits.png"]
+    }
+  },
+  "influencer/leaderboard": {
+    "title": "Influencer Leaderboard | Track Your Volunteer Impact & Rank",
+    "description": "Encourage sign-ups, earn points, & track your influence on the Sevak Army Leaderboard. Gain digital badges & rewards for growing social impact.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/influencer/leaderboard",
+    "h1": "Rise as a Top Influencer & Track Your Impact",
+    "openGraph": {
+      "title": "Influencer Leaderboard | Track Your Volunteer Impact & Rank",
+      "description": "Encourage sign-ups, earn points, & track your influence on the Sevak Army Leaderboard. Gain digital badges & rewards for growing social impact.",
+      "url": "https://sevakarmy.com/influencer/leaderboard",
+      "images": ["/images/og-influencer-leaderboard.png"],
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary",
+      "title": "Influencer Leaderboard | Track Your Volunteer Impact & Rank",
+      "description": "Encourage sign-ups, earn points, & track your influence on the Sevak Army Leaderboard. Gain digital badges & rewards for growing social impact.",
+      "images": ["/images/twitter-influencer-leaderboard.png"]
+    }
+  },
+  "influencer/recognition-event": {
+    "title": "Influencer Awards & Community Networking Event",
+    "description": "Celebrate top influencers at Sevak Army’s recognition events! Earn awards, network with leaders & showcase your impact in social change.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/influencer/recognition-event",
+    "h1": "Recognizing Your Influence & Impact",
+    "openGraph": {
+      "title": "Influencer Awards & Community Networking Event",
+      "description": "Celebrate top influencers at Sevak Army’s recognition events! Earn awards, network with leaders & showcase your impact in social change.",
+      "url": "https://sevakarmy.com/influencer/recognition-event",
+      "images": ["/images/og-influencer-event.png"],
+      "type": "event"
+    },
+    "twitter": {
+      "card": "summary",
+      "title": "Influencer Awards & Community Networking Event",
+      "description": "Celebrate top influencers at Sevak Army’s recognition events! Earn awards, network with leaders & showcase your impact in social change.",
+      "images": ["/images/twitter-influencer-event.png"]
+    }
+  },
+  "influencer/join-sevak-army": {
+    "title": "Sign Up as a Sevak Army Influencer & Track Impact",
+    "description": "Join Sevak Army as an influencer, promote social causes & engage followers in volunteering. Share your link & track your impact today.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/influencer/join-sevak-army",
+    "h1": "Become a Sevak Army Influencer Today",
+    "openGraph": {
+      "title": "Sign Up as a Sevak Army Influencer & Track Impact",
+      "description": "Join Sevak Army as an influencer, promote social causes & engage followers in volunteering. Share your link & track your impact today.",
+      "url": "https://sevakarmy.com/influencer/join-sevak-army",
+      "images": ["/images/og-influencer-join.png"],
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary",
+      "title": "Sign Up as a Sevak Army Influencer & Track Impact",
+      "description": "Join Sevak Army as an influencer, promote social causes & engage followers in volunteering. Share your link & track your impact today.",
+      "images": ["/images/twitter-influencer-join.png"]
+    }
+  },
+  "influencer/faqs": {
+    "title": "Influencer FAQs | Sevak Army",
+    "description": "Get answers to all your questions about joining Sevak Army as an influencer, earning rewards, tracking impact, and inspiring volunteers.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://sevakarmy.com/influencer/faqs",
+    "h1": "Everything You Need to Know as a Sevak Army Influencer",
+    "openGraph": {
+      "title": "Influencer FAQs | Sevak Army",
+      "description": "Get answers to all your questions about joining Sevak Army as an influencer, earning rewards, tracking impact, and inspiring volunteers.",
+      "url": "https://sevakarmy.com/influencer/faqs",
+      "images": ["/images/og-influencer-faqs.png"],
+      "type": "article"
+    },
+    "twitter": {
+      "card": "summary",
+      "title": "Influencer FAQs | Sevak Army",
+      "description": "Get answers to all your questions about joining Sevak Army as an influencer, earning rewards, tracking impact, and inspiring volunteers.",
+      "images": ["/images/twitter-influencer-faqs.png"]
+    }
+  },
+  "school-college": {
+    "slug": "/school-college",
+    "title": "School & College Volunteer Programs | SevakArmy Social Impact",
+    "description": "Empower students to create real change with SevakArmy’s School & College platform. Discover volunteer opportunities, leadership programs, and recognition events to foster social responsibility and leadership skills.",
+    "keywords": "student volunteering India, school social service program, college volunteer opportunities, youth community service, NGO student projects, ambassador volunteer program",
+    "robots": "index, follow",
+    "canonical": "/school-college",
+    "openGraph": {
+      "title": "School & College Volunteer Programs | SevakArmy Social Impact",
+      "description": "Empower students to create real change with SevakArmy’s School & College platform. Discover volunteer opportunities, leadership programs, and recognition events to foster social responsibility and leadership skills.",
+      "images": ["/images/og-school-college.png"]
+    },
+    "twitter": {
+      "title": "School & College Volunteer Programs | SevakArmy Social Impact",
+      "description": "Empower students to create real change with SevakArmy’s School & College platform. Discover volunteer opportunities, leadership programs, and recognition events to foster social responsibility and leadership skills.",
+      "images": ["/images/twitter-school-college.png"]
+    }
+  },
+  "school-college/about-us": {
+    "slug": "/school-college/about-us",
+    "title": "About Us | SevakArmy – Empowering Schools & Colleges to Drive Social Change",
+    "description": "SevakArmy connects schools and colleges with NGOs across India, enabling students to volunteer, develop leadership skills, and contribute to meaningful social causes through structured programs.",
+    "keywords": "school volunteer platform India, college NGO partnerships, student social impact, educational institution volunteering, promote student social responsibility, school college volunteer management",
+    "robots": "index, follow",
+    "canonical": "/school-college/about-us",
+    "openGraph": {
+      "title": "About Us | SevakArmy – Empowering Schools & Colleges to Drive Social Change",
+      "description": "SevakArmy connects schools and colleges with NGOs across India, enabling students to volunteer, develop leadership skills, and contribute to meaningful social causes through structured programs.",
+      "images": ["/images/og-school-college-about.png"]
+    },
+    "twitter": {
+      "title": "About Us | SevakArmy – Empowering Schools & Colleges to Drive Social Change",
+      "description": "SevakArmy connects schools and colleges with NGOs across India, enabling students to volunteer, develop leadership skills, and contribute to meaningful social causes through structured programs.",
+      "images": ["/images/twitter-school-college-about.png"]
+    }
+  },
+  "school-college/key-features": {
+    "slug": "/school-college/key-features",
+    "title": "Key Features | SevakArmy – Volunteer Platform for Schools & Colleges",
+    "description": "SevakArmy offers student-centric features for schools and colleges: easy volunteer matching, student ambassador programs, recognition events, and structured reporting to promote meaningful contributions.",
+    "keywords": "school volunteer management system, college student ambassador program, student volunteer matching, educational institution NGO collaboration, school social impact platform, promote volunteering in colleges",
+    "robots": "index, follow",
+    "canonical": "/school-college/key-features",
+    "openGraph": {
+      "title": "Key Features | SevakArmy – Volunteer Platform for Schools & Colleges",
+      "description": "SevakArmy offers student-centric features for schools and colleges: easy volunteer matching, student ambassador programs, recognition events, and structured reporting to promote meaningful contributions.",
+      "images": ["/images/og-school-college-features.png"]
+    },
+    "twitter": {
+      "title": "Key Features | SevakArmy – Volunteer Platform for Schools & Colleges",
+      "description": "SevakArmy offers student-centric features for schools and colleges: easy volunteer matching, student ambassador programs, recognition events, and structured reporting to promote meaningful contributions.",
+      "images": ["/images/twitter-school-college-features.png"]
+    }
+  },
+  "school-college/benefits": {
+    "slug": "/school-college/benefits",
+    "title": "Benefits of Volunteering | SevakArmy – Student Growth Through Social Service",
+    "description": "Students volunteering with SevakArmy gain personal growth, leadership skills, skill development, and formal recognition, while schools and colleges foster social responsibility and community impact.",
+    "keywords": "student volunteer benefits, school community service impact, leadership through volunteering, skill development for students, college volunteer recognition, educational institution social service",
+    "robots": "index, follow",
+    "canonical": "/school-college/benefits",
+    "openGraph": {
+      "title": "Benefits of Volunteering | SevakArmy – Student Growth Through Social Service",
+      "description": "Students volunteering with SevakArmy gain personal growth, leadership skills, skill development, and formal recognition, while schools and colleges foster social responsibility and community impact.",
+      "images": ["/images/og-school-college-benefits.png"]
+    },
+    "twitter": {
+      "title": "Benefits of Volunteering | SevakArmy – Student Growth Through Social Service",
+      "description": "Students volunteering with SevakArmy gain personal growth, leadership skills, skill development, and formal recognition, while schools and colleges foster social responsibility and community impact.",
+      "images": ["/images/twitter-school-college-benefits.png"]
+    }
+  },
+  "school-college/ambassador-programme": {
+    "slug": "/school-college/ambassador-programme",
+    "title": "Ambassador Programme | SevakArmy – Lead Change at Your School or College",
+    "description": "The Ambassador Programme empowers students to promote volunteerism in their schools and colleges. Organize events, inspire peers, and gain formal recognition for driving social impact within educational institutions.",
+    "keywords": "student ambassador program, volunteer leadership India, promote social responsibility, ambassador volunteer role, youth leadership program, school college social initiatives",
+    "robots": "index, follow",
+    "canonical": "/school-college/ambassador-programme",
+    "openGraph": {
+      "title": "Ambassador Programme | SevakArmy – Lead Change at Your School or College",
+      "description": "The Ambassador Programme empowers students to promote volunteerism in their schools and colleges. Organize events, inspire peers, and gain formal recognition for driving social impact within educational institutions.",
+      "images": ["/images/og-school-college-ambassador.png"]
+    },
+    "twitter": {
+      "title": "Ambassador Programme | SevakArmy – Lead Change at Your School or College",
+      "description": "The Ambassador Programme empowers students to promote volunteerism in their schools and colleges. Organize events, inspire peers, and gain formal recognition for driving social impact within educational institutions.",
+      "images": ["/images/twitter-school-college-ambassador.png"]
+    }
+  },
+  "school-college/leaderboard": {
+    "slug": "/school-college/leaderboard",
+    "title": "Leaderboard | SevakArmy – Top Student Volunteers Driving Social Impact",
+    "description": "See the top schools, colleges, and student contributors on SevakArmy’s Leaderboard. Recognizing students who actively lead and participate in social change projects, promoting volunteerism across India.",
+    "keywords": "top student volunteers India, school college volunteer ranking, student social impact leaderboard, recognize school volunteering, student achievement in social work, best college volunteers",
+    "robots": "index, follow",
+    "canonical": "/school-college/leaderboard",
+    "openGraph": {
+      "title": "Leaderboard | SevakArmy – Top Student Volunteers Driving Social Impact",
+      "description": "See the top schools, colleges, and student contributors on SevakArmy’s Leaderboard. Recognizing students who actively lead and participate in social change projects, promoting volunteerism across India.",
+      "images": ["/images/og-school-college-leaderboard.png"]
+    },
+    "twitter": {
+      "title": "Leaderboard | SevakArmy – Top Student Volunteers Driving Social Impact",
+      "description": "See the top schools, colleges, and student contributors on SevakArmy’s Leaderboard. Recognizing students who actively lead and participate in social change projects, promoting volunteerism across India.",
+      "images": ["/images/twitter-school-college-leaderboard.png"]
+    }
+  },
+  "school-college/recognition-events": {
+    "slug": "/school-college/recognition-events",
+    "title": "Recognition Events | SevakArmy – Celebrating Student Volunteer Achievements",
+    "description": "SevakArmy’s Recognition Events honor students and schools making a difference. Celebrate leadership in social responsibility, inspiring more students to contribute to impactful community service through structured programs.",
+    "keywords": "volunteer recognition events, celebrate social impact, award volunteer leaders, honor community service, volunteer achievement ceremony, recognize student volunteers",
+    "robots": "index, follow",
+    "canonical": "/school-college/recognition-events",
+    "openGraph": {
+      "title": "Recognition Events | SevakArmy – Celebrating Student Volunteer Achievements",
+      "description": "SevakArmy’s Recognition Events honor students and schools making a difference. Celebrate leadership in social responsibility, inspiring more students to contribute to impactful community service through structured programs.",
+      "images": ["/images/og-school-college-recognition.png"]
+    },
+    "twitter": {
+      "title": "Recognition Events | SevakArmy – Celebrating Student Volunteer Achievements",
+      "description": "SevakArmy’s Recognition Events honor students and schools making a difference. Celebrate leadership in social responsibility, inspiring more students to contribute to impactful community service through structured programs.",
+      "images": ["/images/twitter-school-college-recognition.png"]
+    }
+  },
+  "school-college/register-institute": {
+    "slug": "/school-college/register",
+    "title": "Register Your School or College | SevakArmy – Empower Student Volunteering",
+    "description": "Register your school or college with SevakArmy to enable students to participate in structured volunteer opportunities. Promote social responsibility, leadership, and community impact in your institution.",
+    "keywords": "institution registration India, school college volunteer program, promote student volunteering, NGO collaboration with institutions, social service for students, educational institution volunteer platform",
+    "robots": "index, follow",
+    "canonical": "/school-college/register",
+    "openGraph": {
+      "title": "Register Your School or College | SevakArmy – Empower Student Volunteering",
+      "description": "Register your school or college with SevakArmy to enable students to participate in structured volunteer opportunities. Promote social responsibility, leadership, and community impact in your institution.",
+      "images": ["/images/og-school-college-register.png"]
+    },
+    "twitter": {
+      "title": "Register Your School or College | SevakArmy – Empower Student Volunteering",
+      "description": "Register your school or college with SevakArmy to enable students to participate in structured volunteer opportunities. Promote social responsibility, leadership, and community impact in your institution.",
+      "images": ["/images/twitter-school-college-register.png"]
+    }
+  },
+  "organisation": {
+    "slug": "/organisation",
+    "title": "Partner Your NGO with SevakArmy | Empower Social Impact",
+    "description": "Join SevakArmy to connect your NGO or social organization with skilled volunteers. Post tasks, manage projects, and expand your community impact by collaborating with a network dedicated to driving positive change across India.",
+    "keywords": "NGO volunteer platform, social organization India, volunteer task management, community service collaboration, register NGO for volunteers, expand social impact",
+    "robots": "index, follow",
+    "canonical": "/organisation",
+    "openGraph": {
+      "title": "Partner Your NGO with SevakArmy | Empower Social Impact",
+      "description": "Join SevakArmy to connect your NGO or social organization with skilled volunteers. Post tasks, manage projects, and expand your community impact by collaborating with a network dedicated to driving positive change across India.",
+      "images": ["/images/og-organisation.png"]
+    },
+    "twitter": {
+      "title": "Partner Your NGO with SevakArmy | Empower Social Impact",
+      "description": "Join SevakArmy to connect your NGO or social organization with skilled volunteers. Post tasks, manage projects, and expand your community impact by collaborating with a network dedicated to driving positive change across India.",
+      "images": ["/images/twitter-organisation.png"]
+    }
+  },
+  "organisation/about-us": {
+    "slug": "/organisation/about-us",
+    "title": "About Us | SevakArmy – Empowering NGOs & Social Impact",
+    "description": "Learn about SevakArmy’s mission to connect NGOs and social organizations with passionate volunteers across India. We help organizations amplify their social impact by providing easy access to skilled volunteers and structured task management.",
+    "keywords": "about SevakArmy, NGO volunteer platform India, social impact organization, support NGOs India, community service collaboration, volunteer empowerment platform",
+    "robots": "index, follow",
+    "canonical": "/organisation/about-us",
+    "openGraph": {
+      "title": "About Us | SevakArmy – Empowering NGOs & Social Impact",
+      "description": "Learn about SevakArmy’s mission to connect NGOs and social organizations with passionate volunteers across India. We help organizations amplify their social impact by providing easy access to skilled volunteers and structured task management.",
+      "images": ["/images/og-organisation-about.png"]
+    },
+    "twitter": {
+      "title": "About Us | SevakArmy – Empowering NGOs & Social Impact",
+      "description": "Learn about SevakArmy’s mission to connect NGOs and social organizations with passionate volunteers across India. We help organizations amplify their social impact by providing easy access to skilled volunteers and structured task management.",
+      "images": ["/images/twitter-organisation-about.png"]
+    }
+  },
+  "organisation/key-features": {
+    "slug": "/organisation/key-features",
+    "title": "Key Features for Organisations | SevakArmy – Streamline Volunteer Management",
+    "description": "Explore SevakArmy’s key features for NGOs and social organizations: easy volunteer matching, task management system, impact tracking, and community engagement tools. Simplify your volunteer operations and amplify your social impact.",
+    "keywords": "NGO volunteer management, volunteer matching system, task management for NGOs, impact tracking tools, community service platform, streamline NGO operations",
+    "robots": "index, follow",
+    "canonical": "/organisation/key-features",
+    "openGraph": {
+      "title": "Key Features for Organisations | SevakArmy – Streamline Volunteer Management",
+      "description": "Explore SevakArmy’s key features for NGOs and social organizations: easy volunteer matching, task management system, impact tracking, and community engagement tools. Simplify your volunteer operations and amplify your social impact.",
+      "images": ["/images/og-organisation-features.png"]
+    },
+    "twitter": {
+      "title": "Key Features for Organisations | SevakArmy – Streamline Volunteer Management",
+      "description": "Explore SevakArmy’s key features for NGOs and social organizations: easy volunteer matching, task management system, impact tracking, and community engagement tools. Simplify your volunteer operations and amplify your social impact.",
+      "images": ["/images/twitter-organisation-features.png"]
+    }
+  },
+  "organisation/benefits": {
+    "slug": "/organisation/benefits",
+    "title": "Benefits for Organisations | SevakArmy – Maximize Social Impact",
+    "description": "Discover the benefits of partnering with SevakArmy: access to a wide volunteer network, efficient task management, enhanced community engagement, and increased impact visibility. Empower your organization to create lasting social change.",
+    "keywords": "NGO benefits India, volunteer network for NGOs, social impact growth, task management system, community engagement platform, increase NGO reach",
+    "robots": "index, follow",
+    "canonical": "/organisation/benefits",
+    "openGraph": {
+      "title": "Benefits for Organisations | SevakArmy – Maximize Social Impact",
+      "description": "Discover the benefits of partnering with SevakArmy: access to a wide volunteer network, efficient task management, enhanced community engagement, and increased impact visibility. Empower your organization to create lasting social change.",
+      "images": ["/images/og-organisation-benefits.png"]
+    },
+    "twitter": {
+      "title": "Benefits for Organisations | SevakArmy – Maximize Social Impact",
+      "description": "Discover the benefits of partnering with SevakArmy: access to a wide volunteer network, efficient task management, enhanced community engagement, and increased impact visibility. Empower your organization to create lasting social change.",
+      "images": ["/images/twitter-organisation-benefits.png"]
+    }
+  },
+  "organisation/registration": {
+    "slug": "/organisation/register",
+    "title": "Organisation Registration | SevakArmy – Connect with Volunteers",
+    "description": "Register your NGO or social organization with SevakArmy to start accessing a network of passionate volunteers. Post tasks, manage projects, and enhance your social impact through seamless collaboration.",
+    "keywords": "NGO registration India, register social organization, connect with volunteers, volunteer task platform, NGO project management, expand social impact",
+    "robots": "index, follow",
+    "canonical": "/organisation/register",
+    "openGraph": {
+      "title": "Organisation Registration | SevakArmy – Connect with Volunteers",
+      "description": "Register your NGO or social organization with SevakArmy to start accessing a network of passionate volunteers. Post tasks, manage projects, and enhance your social impact through seamless collaboration.",
+      "images": ["/images/og-organisation-register.png"]
+    },
+    "twitter": {
+      "title": "Organisation Registration | SevakArmy – Connect with Volunteers",
+      "description": "Register your NGO or social organization with SevakArmy to start accessing a network of passionate volunteers. Post tasks, manage projects, and enhance your social impact through seamless collaboration.",
+      "images": ["/images/twitter-organisation-register.png"]
+    }
+  },
+  "organisation/ambassador-programme": {
+    "slug": "/organisation/ambassador-programme",
+    "title": "Ambassador Programme for Organisations | SevakArmy – Lead Social Change",
+    "description": "Empower your organization through SevakArmy’s Ambassador Programme. Engage motivated individuals to represent your cause, spread awareness, and mobilize volunteers, creating a strong network for greater social impact.",
+    "keywords": "NGO ambassador program, promote social causes, volunteer leadership roles, organization ambassador India, expand NGO outreach, lead social impact initiatives",
+    "robots": "index, follow",
+    "canonical": "/organisation/ambassador-programme",
+    "openGraph": {
+      "title": "Ambassador Programme for Organisations | SevakArmy – Lead Social Change",
+      "description": "Empower your organization through SevakArmy’s Ambassador Programme. Engage motivated individuals to represent your cause, spread awareness, and mobilize volunteers, creating a strong network for greater social impact.",
+      "images": ["/images/og-organisation-ambassador.png"]
+    },
+    "twitter": {
+      "title": "Ambassador Programme for Organisations | SevakArmy – Lead Social Change",
+      "description": "Empower your organization through SevakArmy’s Ambassador Programme. Engage motivated individuals to represent your cause, spread awareness, and mobilize volunteers, creating a strong network for greater social impact.",
+      "images": ["/images/twitter-organisation-ambassador.png"]
+    }
+  },
+  "organisation/employee-engagement": {
+    "slug": "/organisation/employee-engagement",
+    "title": "Employee Engagement | SevakArmy – Corporate Volunteering & Impact",
+    "description": "Boost your organization’s social responsibility with SevakArmy’s Employee Engagement programs. Encourage staff participation in volunteering, community projects, and CSR initiatives to create meaningful impact and team growth.",
+    "keywords": "corporate volunteering India, employee social responsibility, staff volunteer programs, NGO corporate partnerships, employee engagement initiatives, CSR volunteering projects",
+    "robots": "index, follow",
+    "canonical": "/organisation/employee-engagement",
+    "openGraph": {
+      "title": "Employee Engagement | SevakArmy – Corporate Volunteering & Impact",
+      "description": "Boost your organization’s social responsibility with SevakArmy’s Employee Engagement programs. Encourage staff participation in volunteering, community projects, and CSR initiatives to create meaningful impact and team growth.",
+      "images": ["/images/og-organisation-employee.png"]
+    },
+    "twitter": {
+      "title": "Employee Engagement | SevakArmy – Corporate Volunteering & Impact",
+      "description": "Boost your organization’s social responsibility with SevakArmy’s Employee Engagement programs. Encourage staff participation in volunteering, community projects, and CSR initiatives to create meaningful impact and team growth.",
+      "images": ["/images/twitter-organisation-employee.png"]
+    }
+  },
+  "organisation/leaderboard": {
+    "slug": "/organisation/leaderboard",
+    "title": "Leaderboard for Organisations | SevakArmy – Top Performing NGOs",
+    "description": "Track and celebrate the most active and impactful organisations on SevakArmy. Our Leaderboard recognizes NGOs driving meaningful social change and engaging volunteers effectively.",
+    "keywords": "top NGOs India, volunteer impact ranking, organisation recognition, NGO performance leaderboard, community service leaders, best performing organisations",
+    "robots": "index, follow",
+    "canonical": "/organisation/leaderboard",
+    "openGraph": {
+      "title": "Leaderboard for Organisations | SevakArmy – Top Performing NGOs",
+      "description": "Track and celebrate the most active and impactful organisations on SevakArmy. Our Leaderboard recognizes NGOs driving meaningful social change and engaging volunteers effectively.",
+      "images": ["/images/og-organisation-leaderboard.png"]
+    },
+    "twitter": {
+      "title": "Leaderboard for Organisations | SevakArmy – Top Performing NGOs",
+      "description": "Track and celebrate the most active and impactful organisations on SevakArmy. Our Leaderboard recognizes NGOs driving meaningful social change and engaging volunteers effectively.",
+      "images": ["/images/twitter-organisation-leaderboard.png"]
+    }
+  },
+  "organisation/certificates-recognition": {
+    "slug": "/organisation/certificates-recognition",
+    "title": "Certificates & Recognition | SevakArmy – Honoring Organisations",
+    "description": "SevakArmy provides certificates and recognition to organisations for their outstanding contribution to social causes. Celebrate achievements, acknowledge volunteer impact, and showcase your organisation’s commitment to community service.",
+    "keywords": "NGO recognition India, volunteer impact certificates, organisation awards, acknowledge social contribution, community service recognition, honour top NGOs",
+    "robots": "index, follow",
+    "canonical": "/organisation/certificates-recognition",
+    "openGraph": {
+      "title": "Certificates & Recognition | SevakArmy – Honoring Organisations",
+      "description": "SevakArmy provides certificates and recognition to organisations for their outstanding contribution to social causes. Celebrate achievements, acknowledge volunteer impact, and showcase your organisation’s commitment to community service.",
+      "images": ["/images/og-organisation-recognition.png"]
+    },
+    "twitter": {
+      "title": "Certificates & Recognition | SevakArmy – Honoring Organisations",
+      "description": "SevakArmy provides certificates and recognition to organisations for their outstanding contribution to social causes. Celebrate achievements, acknowledge volunteer impact, and showcase your organisation’s commitment to community service.",
+      "images": ["/images/twitter-organisation-recognition.png"]
+    }
+  },
+  "ngo": {
+  "slug": "/ngo",
+  "title": "NGO Registration & Volunteer Platform | SevakArmy",
+  "description": "Register your NGO with SevakArmy to connect with passionate volunteers across India. Post tasks, manage projects, track impact, and enhance your organization’s community engagement through a dedicated volunteer network.",
+  "keywords": "NGO volunteer platform, register NGO India, volunteer task management, community service NGO, impact tracking for NGOs, NGO engagement platform",
+  "robots": "index, follow",
+  "canonical": "/ngo",
+  "openGraph": {
+    "title": "NGO Registration & Volunteer Platform | SevakArmy",
+    "description": "Register your NGO with SevakArmy to connect with passionate volunteers across India. Post tasks, manage projects, track impact, and enhance your organization’s community engagement through a dedicated volunteer network.",
+    "images": ["/images/og-ngo.png"]
+  },
+  "twitter": {
+    "title": "NGO Registration & Volunteer Platform | SevakArmy",
+    "description": "Register your NGO with SevakArmy to connect with passionate volunteers across India. Post tasks, manage projects, track impact, and enhance your organization’s community engagement through a dedicated volunteer network.",
+    "images": ["/images/twitter-ngo.png"]
+  }
+},
+"ngo/about-us": {
+  "slug": "/ngo/about-us",
+  "title": "About Us | SevakArmy – Supporting NGOs & Social Change",
+  "description": "Learn about SevakArmy’s mission to empower NGOs across India by connecting them with volunteers. We help organizations streamline volunteer management, amplify social impact, and engage communities effectively.",
+  "keywords": "about SevakArmy, NGO support platform, volunteer engagement India, social impact for NGOs, community service platform, empower NGOs India",
+  "robots": "index, follow",
+  "canonical": "/ngo/about-us",
+  "openGraph": {
+    "title": "About Us | SevakArmy – Supporting NGOs & Social Change",
+    "description": "Learn about SevakArmy’s mission to empower NGOs across India by connecting them with volunteers. We help organizations streamline volunteer management, amplify social impact, and engage communities effectively.",
+    "images": ["/images/og-ngo-about.png"]
+  },
+  "twitter": {
+    "title": "About Us | SevakArmy – Supporting NGOs & Social Change",
+    "description": "Learn about SevakArmy’s mission to empower NGOs across India by connecting them with volunteers. We help organizations streamline volunteer management, amplify social impact, and engage communities effectively.",
+    "images": ["/images/twitter-ngo-about.png"]
+  }
+},
+"ngo/key-features": {
+  "slug": "/ngo/key-features",
+  "title": "Key Features for NGOs | SevakArmy – Streamline Volunteer Management",
+  "description": "Explore SevakArmy’s key features for NGOs: volunteer matching, task management, impact tracking, and community engagement tools. Simplify volunteer operations and maximize your organization’s social impact.",
+  "keywords": "NGO volunteer management, volunteer matching system, task management for NGOs, impact tracking tools, community engagement platform, streamline NGO operations",
+  "robots": "index, follow",
+  "canonical": "/ngo/key-features",
+  "openGraph": {
+    "title": "Key Features for NGOs | SevakArmy – Streamline Volunteer Management",
+    "description": "Explore SevakArmy’s key features for NGOs: volunteer matching, task management, impact tracking, and community engagement tools. Simplify volunteer operations and maximize your organization’s social impact.",
+    "images": ["/images/og-ngo-features.png"]
+  },
+  "twitter": {
+    "title": "Key Features for NGOs | SevakArmy – Streamline Volunteer Management",
+    "description": "Explore SevakArmy’s key features for NGOs: volunteer matching, task management, impact tracking, and community engagement tools. Simplify volunteer operations and maximize your organization’s social impact.",
+    "images": ["/images/twitter-ngo-features.png"]
+  }
+},
+"ngo/benefits": {
+  "slug": "/ngo/benefits",
+  "title": "Benefits for NGOs | SevakArmy – Maximize Volunteer Impact",
+  "description": "Discover the benefits of partnering with SevakArmy: access to a wide volunteer network, efficient task management, enhanced community engagement, and measurable impact. Empower your NGO to create lasting social change.",
+  "keywords": "NGO benefits India, volunteer network for NGOs, social impact growth, task management system, community engagement platform, increase NGO reach",
+  "robots": "index, follow",
+  "canonical": "/ngo/benefits",
+  "openGraph": {
+    "title": "Benefits for NGOs | SevakArmy – Maximize Volunteer Impact",
+    "description": "Discover the benefits of partnering with SevakArmy: access to a wide volunteer network, efficient task management, enhanced community engagement, and measurable impact. Empower your NGO to create lasting social change.",
+    "images": ["/images/og-ngo-benefits.png"]
+  },
+  "twitter": {
+    "title": "Benefits for NGOs | SevakArmy – Maximize Volunteer Impact",
+    "description": "Discover the benefits of partnering with SevakArmy: access to a wide volunteer network, efficient task management, enhanced community engagement, and measurable impact. Empower your NGO to create lasting social change.",
+    "images": ["/images/twitter-ngo-benefits.png"]
+  }
+},
+"ngo/registration-process": {
+  "slug": "/ngo/registration-process",
+  "title": "NGO Registration Process | SevakArmy – Join Our Volunteer Network",
+  "description": "Learn how to register your NGO with SevakArmy and start connecting with passionate volunteers. Follow our simple registration process to post tasks, manage projects, and enhance your organization’s social impact.",
+  "keywords": "NGO registration India, register NGO online, volunteer network for NGOs, NGO onboarding process, connect with volunteers, NGO platform India",
+  "robots": "index, follow",
+  "canonical": "/ngo/registration-process",
+  "openGraph": {
+    "title": "NGO Registration Process | SevakArmy – Join Our Volunteer Network",
+    "description": "Learn how to register your NGO with SevakArmy and start connecting with passionate volunteers. Follow our simple registration process to post tasks, manage projects, and enhance your organization’s social impact.",
+    "images": ["/images/og-ngo-register.png"]
+  },
+  "twitter": {
+    "title": "NGO Registration Process | SevakArmy – Join Our Volunteer Network",
+    "description": "Learn how to register your NGO with SevakArmy and start connecting with passionate volunteers. Follow our simple registration process to post tasks, manage projects, and enhance your organization’s social impact.",
+    "images": ["/images/twitter-ngo-register.png"]
+  }
+},
+"dummy": {  
+  "slug": "",
+  "description": "",
+  "keywords": "",
+  "canonical": "",
+  "openGraph": {
+    "title": "",
+    "description": ""
+  },
+  "twitter": {
+    "title": "",
+    "description": ""
+  }
+}
+
+
+}
+
+
+

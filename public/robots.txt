@@ -1,0 +1,17 @@
+User-agent: *
+
+# Disallowed URLs and parameters
+Disallow: /*?*
+Disallow: /cgi-bin/
+Disallow: /*?s=
+Disallow: /*&filter=
+Disallow: /*&sort=
+Disallow: /dist/
+Disallow: /temp/
+Disallow: /build/
+Disallow: /test/
+Disallow: /beta/
+Disallow: /staging/
+
+# Sitemap location
+Sitemap: https://sevakarmy.com/sitemap.xml

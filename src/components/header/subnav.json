@@ -1,0 +1,173 @@
+{
+  "volunteer": [
+    {
+      "name": "Home",
+      "route": "/volunteer"
+    },
+    {
+      "name": "About Us",
+      "route": "/volunteer/about-us"
+    },
+    {
+      "name": "Key Features",
+      "route": "/volunteer/key-features"
+    },
+    {
+      "name": "Benefits",
+      "route": "/volunteer/benefits"
+    },
+    {
+      "name": "Leaderboard",
+      "route": "/volunteer/leaderboard"
+    },
+    {
+      "name": "Recognition Events",
+      "route": "/volunteer/recognition-events"
+    },
+    {
+      "name": "Become a Volunteer",
+      "route": "/volunteer/become-volunteer"
+    },
+    {
+      "name": "FAQs",
+      "route": "/volunteer/faqs"
+    }
+  ],
+  "influencer": [
+    {
+      "name": "Home",
+      "route": "/influencer"
+    },
+    {
+      "name": "About Us",
+      "route": "/influencer/about-us"
+    },
+    {
+      "name": "Key Features",
+      "route": "/influencer/key-features"
+    },
+    {
+      "name": "Benefits",
+      "route": "/influencer/benefits"
+    },
+    {
+      "name": "Leaderboard",
+      "route": "/influencer/leaderboard"
+    },
+    {
+      "name": "Recognition Events",
+      "route": "/influencer/recognition-events"
+    },
+    {
+      "name": "Join Sevak Army",
+      "route": "/influencer/join-sevak-army"
+    },
+    {
+      "name": "FAQs",
+      "route": "/influencer/faqs"
+    }
+  ],
+  "school-college": [
+    {
+      "name": "Home",
+      "route": "/school-college"
+    },
+    {
+      "name": "About Us",
+      "route": "/school-college/about-us"
+    },
+    {
+      "name": "Key Features",
+      "route": "/school-college/key-features"
+    },
+    {
+      "name": "Benefits ",
+      "route": "/school-college/benefits"
+    },
+    {
+      "name": "Ambassador Programme",
+      "route": "/school-college/ambassador-programme"
+    },
+    {
+      "name": "Leaderboard ",
+      "route": "/school-college/leaderboard"
+    },
+    {
+      "name": "Recognition Events ",
+      "route": "/school-college/recognition-events"
+    },
+    {
+      "name": "Register Your Institution",
+      "route": "/school-college/register-institute"
+    },
+    {
+      "name": "FAQs",
+      "route": "/school-college/faqs"
+    }
+  ],
+  "organisation": [
+    {
+      "name": "Home",
+      "route": "/organisation"
+    },
+    {
+      "name": "About Us",
+      "route": "/organisation/about-us"
+    },
+    {
+      "name": "Key Features",
+      "route": "/organisation/key-features"
+    },
+    {
+      "name": "Benefits",
+      "route": "/organisation/benefits"
+    },
+    {
+      "name": "Registration",
+      "route": "/organisation/registration"
+    },
+    {
+      "name": "Ambassador Programme",
+      "route": "/organisation/ambassador-programme"
+    },
+    {
+      "name": "Employee Engagement",
+      "route": "/organisation/employee-engagement"
+    },
+    {
+      "name": "Leaderboard",
+      "route": "/organisation/leaderboard"
+    },
+    {
+      "name": "Certificates and Recognition",
+      "route": "/organisation/certificates-recognition"
+    }
+  ],
+  "ngo": [
+    {
+      "name": "Home",
+      "route": "/ngo"
+    },
+    {
+      "name": "About Us",
+      "route": "/ngo/about-us"
+    },
+    {
+      "name": "Key Features",
+      "route": "/ngo/key-features"
+    },
+    {
+      "name": "Benefits",
+      "route": "/ngo/benefits"
+    },
+    {
+      "name": "Registration Process",
+      "route": "/ngo/registration-process"
+    },
+    {
+      "name": "FAQs",
+      "route": "/ngo/faqs"
+    }
+  ],
+  "home": []
+}
