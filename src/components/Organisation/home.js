@@ -46,7 +46,8 @@ import HeroSlide2 from "../../../public/assets/images1/organisation/home/sevak-a
 import HeroSlide3 from "../../../public/assets/images1/organisation/home/sevak-army-organization-home-slider-33.webp";
 import HeroSlide4 from "../../../public/assets/images1/organisation/home/sevak-army-organization-home-slider-14.webp";
 
-import About4 from "../../../public/assets/images1/organisation/home/sevak-army-organization-home-1.webp";
+// import About4 from "../../../public/assets/images1/organisation/home/sevak-army-organization-home-1.webp";
+import About4 from "../../../public/assets/new-images/organizations/hero-image-1.jpg";
 import About4s2 from "../../../public/assets/images/slider/stick-man.svg";
 import image1 from "../../../public/assets/images1/team/sevak-army-team-8.webp";
 import image2 from "../../../public/assets/images1/team/sevak-army-team-4.webp";
@@ -299,7 +300,7 @@ const Home = (props) => {
               <div className="col-lg-6 col-md-12  order-lg-2">
                 <div className="wpo-about-img-s5">
                   <div className="image">
-                    <Image src={About4} width={498} style={{height:'auto', }} alt="Achive Organisation CSR Goals with Sevak Army" />
+                    <Image src={About4} width={498} height={498} style={{height:'auto', }} alt="Achive Organisation CSR Goals with Sevak Army" />
                   </div>
                   <div className="wpo-supporter">
                     <div className="wpo-supporter-text">

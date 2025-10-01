@@ -19,9 +19,9 @@ import Logo from "../../../public/assets/images/logo.svg";
 
 function NgoAbout({path}) {
 
-  const ClickHandler = () => {
-    window.scrollTo(10, 0);
-  };
+  // const ClickHandler = () => {
+  //   window.scrollTo(10, 0);
+  // };
 
   const [metaData, setMetaData] = useState({title: "Loading...."})
 

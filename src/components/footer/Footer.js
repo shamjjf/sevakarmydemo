@@ -258,9 +258,12 @@ const Footer = (props) => {
                   </li>
                   <li className="justify-content-start d-flex" style={{ flexWrap: "nowrap" }}>
                     <i className="flaticon-location"></i>{" "}
-                    <a href="https://maps.app.goo.gl/Ld5n2ds8xKMZe1tT7" target="_blank" rel="noreferrer" style={{fontSize:'16px'}}>
+                    <a href="https://maps.app.goo.gl/oVRTouCpHxFcknBd7" target="_blank" rel="noreferrer" style={{fontSize:'16px'}}>
                       <span className="d-flex">
-                        Jainam Tower, Sai Park, Thergaon, Pune - 411033, Maharashtra, India
+                        Jainam Jivika Foundation <br />
+                        3, Jainam Tower, 3, Sai Park, <br />
+                        Belthika Nagar, Thergaon (Chinchwad), <br />
+                        Pune - 411033, Maharashtra, India.
                       </span>
                     </a>
                   </li>

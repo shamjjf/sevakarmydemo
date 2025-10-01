@@ -2,7 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Image from "next/image";
 
-import Image1 from "../../../public/assets/images1/ngo/home/sevak-army-ngo-home-1.webp";
+// import Image1 from "../../../public/assets/images1/ngo/home/sevak-army-ngo-home-1.webp";
+import Image1 from "../../../public/assets/new-images/ngo/hero.jpg";
 import Videobg from "../../../public/assets/images1/ngo/home/sevak-army-ngo-home-2.webp";
 
 import ShapeBg from "../../../public/assets/images/slider/stick-man.svg";

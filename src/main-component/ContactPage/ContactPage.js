@@ -9,8 +9,8 @@ import Logo from "../../../public/assets/images/logo.svg"
 const ContactPage = ({show, setShow}) => {
     return (
         <Fragment>
-            <Navbar Logo={Logo} hclass={'wpo-site-header-s5'}/>
-            <PageTitle pageTitle={'Contact Us'} pagesub={"Volunteer"}/>
+            <Navbar Logo={Logo} hclass={'wpo-site-header-s5'} />
+            <PageTitle pageTitle={'Contact Us'} pagesub={"Volunteer"}  />
             <ContactSection show={show} setShow={setShow}/>
             <Footer />
             <Scrollbar />

@@ -13,7 +13,8 @@ import Honour from "../../../public/assets/images1/volunteer/home/honour.webp";
 import Certificates from "../../../public/assets/images1/volunteer/home/certificates.webp";
 import Stories from "../../../public/assets/images1/volunteer/home/stories.webp";
 import abImg6 from "../../../public/assets/new-images/volunteer/recognition-event/celebration.jpg";
-import Networking from "../../../public/assets/images1/volunteer/home/networking.webp";
+// import Networking from "../../../public/assets/images1/volunteer/home/networking.webp";
+import Networking from "../../../public/assets/new-images/common/networking.jpg";
 import MeetNetwork from "../../../public/assets/new-images/volunteer/recognition-event/celebration-img.jpg";
 
 // import icon from "../../../public/assets/images/cta/top-icon.png";

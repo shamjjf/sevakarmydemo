@@ -99,9 +99,9 @@ const AllRoute = () => {
             <Route path="/ngo/about-us" element={<NgoAbout path="ngo/about-us" show={show} setShow={setShow} />} />
             <Route path="/ngo/benefits" element={<NgoBenefits path="ngo/benefits" show={show} setShow={setShow} />} />
             <Route path="/ngo/key-features" element={<NgoKeyFeatures path="ngo/key-features" show={show} setShow={setShow} />} />
-            {/* <Route path="/ngo/contact-us" element={<ContactUsNgo show={show} setShow={setShow} />} /> */}
             <Route path="/ngo/registration-process" element={<NgoRegistrationProcess path="ngo/registration-process" show={show} setShow={setShow} />} />
             <Route path="/ngo/faqs" element={<NgoFaqPage path="ngo/faqs" show={show} setShow={setShow} />} />
+            {/* <Route path="/ngo/contact-us" element={<ContactUsNgo show={show} setShow={setShow} />} /> */}
             {/* <Route path="/ngo/get-involved" element={<NgoMainInvlved show={show} setShow={setShow} />} /> */}
             
             {/* Influencer related all the pagese are here */}
@@ -146,6 +146,7 @@ const AllRoute = () => {
             {/* <Route path="volunteer/download-resources" element={<DownloadResources show={show} setShow={setShow} />} /> */}
             <Route path="volunteer/refer-and-earn" element={<ReferAndEarn show={show} setShow={setShow} />} />
             
+            {/* Root routes  */}
             <Route path="forgot-password" element={<ForgotPassword show={show} setShow={setShow} />} />
             <Route path="terms-and-conditions" element={<TermsAndConditions show={show} setShow={setShow} />} />
             <Route path="cookie-policy" element={<Cookies show={show} setShow={setShow} />} />

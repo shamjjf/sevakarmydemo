@@ -58,7 +58,7 @@ const Hero = () => {
                       </i>
                     </div>
                     <div className="content">
-                      <h3>63823+</h3>
+                      <h3>63283+</h3>
                       <p>Happy Volunteers</p>
                     </div>
                   </div>

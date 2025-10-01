@@ -4,7 +4,8 @@ import React from "react";
 import NgoPromotes from "../NgoPromotes/NgoPromotes";
 import Image from "next/image";
 
-import abImg1 from "../../../public/assets/images1/ngo/home/ngo-home.webp";
+// import abImg1 from "../../../public/assets/images1/ngo/home/ngo-home.webp";
+import abImg1 from "../../../public/assets/new-images/ngo/together.jpg";
 import Vision from "../../../public/assets/images/service/arrow.webp";
 
 function NgoHomeAbout({ show, setShow }) {

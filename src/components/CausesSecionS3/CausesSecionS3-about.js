@@ -1,8 +1,8 @@
 // import {causesDataAbout} from "../../api/causes";
 import SectionTitle from "../SectionTitle/SectionTitle";
 
-// import School from "../../../public/assets/images1/volunteer/home/school.webp";
-import School from "../../../public/assets/new-images/organizations/make-deference.jpg";
+import School from "../../../public/assets/images1/volunteer/home/school.webp";
+// import School from "../../../public/assets/new-images/organizations/make-deference.jpg";
 import Sustainability from "../../../public/assets/images1/volunteer/home/sustainability.webp";
 import Donation from "../../../public/assets/images1/volunteer/home/food-donation.webp";
 import Image from "next/image";

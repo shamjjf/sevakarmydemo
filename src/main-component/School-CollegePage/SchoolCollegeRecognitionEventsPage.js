@@ -12,7 +12,8 @@ import SectionTitle from "../../components/SectionTitle/SectionTitle";
 import Honour from "../../../public/assets/images1/volunteer/home/honour.webp";
 import Certificates from "../../../public/assets/images1/volunteer/home/certificates.webp";
 import Stories from "../../../public/assets/images1/volunteer/home/stories.webp";
-import Networking from "../../../public/assets/images1/volunteer/home/networking.webp";
+// import Networking from "../../../public/assets/images1/volunteer/home/networking.webp";
+import Networking from "../../../public/assets/new-images/common/networking.jpg";
 
 // import MeetNetwork from "../../../public/assets/images1/volunteer/home/meet-network.webp";
 import MeetNetwork from "../../../public/assets/new-images/common/celebration-img.jpg";

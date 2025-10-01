@@ -4,7 +4,8 @@ import Image from "next/image";
 
 import SectionTitle from "../SectionTitle/SectionTitle";
 
-import About1 from "../../../public/assets/images1/ngo/about-us/sevak-army-ngo-about-us-3.webp";
+// import About1 from "../../../public/assets/images1/ngo/about-us/sevak-army-ngo-about-us-3.webp";
+import About1 from "../../../public/assets/new-images/ngo/about/about.jpg";
 import Collaboration from '../../../public/assets/images1/ngo/home/collab.webp'
 import Simplicity from '../../../public/assets/images1/ngo/home/like.webp'
 import Trust from '../../../public/assets/images1/ngo/home/trust.webp'

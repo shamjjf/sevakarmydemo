@@ -19,7 +19,7 @@ const menus = [
     submenu: [
       { id: 30, title: "Home", link: "/volunteer" },
       { id: 31, title: "About Us", link: "/volunteer/about-us" },
-      // { id: 32, title: "Key Features", link: "/volunteer/key-features" },
+      { id: 32, title: "Key Features", link: "/volunteer/key-features" },
       { id: 33, title: "Benefits", link: "/volunteer/benefits" },
       { id: 35, title: "Leaderboard", link: "/volunteer/leaderboard" },
       { id: 36, title: "Recognition Events", link: "/volunteer/recognition-events" },

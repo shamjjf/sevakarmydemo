@@ -19,7 +19,8 @@ import NewsletterPopup from "../NewsletterPopup";
 
 // All image imports starts from here
 import Vision from "../../../public/assets/images/service/arrow.webp";
-import ShareInspire from "../../../public/assets/images1/volunteer/home/share-inspire-2.webp";
+// import ShareInspire from "../../../public/assets/images1/volunteer/home/share-inspire-2.webp";
+import ShareInspire from "../../../public/assets/new-images/volunteer/social-share.jpg";
 import NGO from "../../../public/assets/images1/volunteer/home/ngo.webp";
 import Opportunities from "../../../public/assets/images1/volunteer/home/Opportunities.webp";
 import Progress from "../../../public/assets/images1/volunteer/home/progress.webp";
@@ -145,6 +146,8 @@ const Volunteerhome = ({ path }) => {
   }, []);
 
   
+
+
   return (
     <>
       {/* <Helmet>

@@ -388,7 +388,8 @@ const Services = [
                             style={{
                               backgroundColor: "#FFFCF4",
                               border: "1px solid #EBB011",
-                            }}>
+                            }}
+                          >
                             <Image src={HelpingNgos} width={60} alt="img" />
                           </div>
                         </div>
@@ -397,7 +398,8 @@ const Services = [
                         </h2>
                         <p
                           className="w-100 text-center ms-0"
-                          style={{ maxWidth: "100%" }}>
+                          style={{ maxWidth: "100%" }}
+                        >
                           NGOs often need skilled and committed volunteers. Sevak
                           Army makes it simple for NGOs to post tasks and connect
                           with volunteers who are a perfect fit for both
@@ -426,7 +428,8 @@ const Services = [
               {Services.slice(0, 5).map((Service, sitem) => (
                 <div
                   className="col col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12 align-items-stretch gy-4"
-                  key={sitem}>
+                  key={sitem}
+                >
                   <div className="service-card-wrapper d-flex flex-column h-100">
                     <ServiceCard
                       // width="301px"
