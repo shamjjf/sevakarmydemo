@@ -508,17 +508,17 @@ const OrganisationRegistration = (props) => {
               <div className="row justify-content-center">
                 <div className="col-lg-8">
                   <div className="cta-wrap">
-                    <h2 className="mb-2">Organization Registration</h2>
+                    <h2 className="mb-2">Organisation Registration</h2>
                     <p
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
                     >
-                      Join Sevak Army today and amplify your organization’s impact!
-                      By registering, your organization can collaborate with changemakers, participate in community-driven initiatives, and gain access to a network of passionate volunteers. Get involved and make a difference in your community!
+                      Join Sevak Army today and amplify your Organisation impact!
+                      By registering, your Organisation can collaborate with changemakers, participate in community-driven initiatives, and gain access to a network of passionate volunteers. Get involved and make a difference in your community!
                     </p>
                     <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
                         <Link to="https://app.sevakarmy.com/" target="_blank" className="theme-btn" style={{ width: "fit-content" }}>
-                          Register Your Organization
+                          Register Your Organisation
                         </Link>
                     </div>
                   </div>

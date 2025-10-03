@@ -139,9 +139,8 @@ const SchoolContact = () => {
                           <p>
                             {" "}
                             Jainam Jivika Foundation <br />
-                            3, Jainam Tower, 3, Sai Park, <br />
-                            Belthika Nagar, Thergaon (Chinchwad), <br />
-                            Pune - 411033, Maharashtra, India.
+                            Jainam Tower, Sai Park, Thergaon, <br />
+                            Pune - 411033, Maharashtra, India <br />
                           </p>
                         </div>
                       </a>

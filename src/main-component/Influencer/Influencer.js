@@ -709,8 +709,7 @@ const Influencer = ({ path }) => {
                   <h3>Stay Tuned for Upcoming Awards & Recognition Events</h3>
                   <div className="mt-4">
                     <Link
-                      className="theme-btn"
-                      to="https://app.sevakarmy.com/" target="_blank"
+                      className="theme-btn" to="https://sevakarmy.com/" 
                     >
                       Know More
                     </Link>

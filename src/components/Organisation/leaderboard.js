@@ -271,14 +271,14 @@ const LeaderboardPage = (props) => {
               <div className="row justify-content-center">
                 <div className="col-lg-8">
                   <div className="cta-wrap">
-                    <h2 className="mb-2">Organization Leaderboard</h2>
+                    <h2 className="mb-2">Organisation Leaderboard</h2>
                     <p
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
                     >
-                      Sevak Army is all about recognizing outstanding organizations that are making the biggest impact in their communities.
-                      Check out the top organizations on our leaderboard, track their progress, and get inspired by their incredible work!
-                      Want your organization to be featured? Step up your engagement and make a real difference!
+                      Sevak Army is all about recognizing outstanding Organisation that are making the biggest impact in their communities.
+                      Check out the top Organisations on our leaderboard, track their progress, and get inspired by their incredible work!
+                      Want your Organisation to be featured? Step up your engagement and make a real difference!
                     </p>
                     <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
                       <Link to="https://app.sevakarmy.com/" target="_blank" className="theme-btn" style={{ width: "fit-content" }}>
@@ -292,7 +292,6 @@ const LeaderboardPage = (props) => {
           </div>
         </div>
       </section>
-
 
     </>
   );

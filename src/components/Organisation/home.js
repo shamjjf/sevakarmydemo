@@ -477,9 +477,9 @@ const Home = (props) => {
               </h2>
               <p className="text-center">Take the first step towards building a socially responsible organisation.</p>
               <div className="d-flex justify-content-center mt-3">
-                <button className="theme-btn" to="https://app.sevakarmy.com/" target="_blank">
+                <Link className="theme-btn" to="https://app.sevakarmy.com/" target="_blank">
                   Register Your organisation Now
-                </button>
+                </Link>
               </div>
             </div>
           </div>
@@ -541,7 +541,6 @@ const Home = (props) => {
       </div>
 
       
-
       <div className="container section-padding pt-0">
         <div className="wpo-about-wrap">
           <div className="row ">

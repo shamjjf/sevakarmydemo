@@ -18,6 +18,7 @@ import kImg4 from "../../../public/assets/images1/influencer/features/volunteeri
 import kImg6 from "../../../public/assets/images1/influencer/features/reward.webp";
 import kImg7 from "../../../public/assets/images1/influencer/features/community-building.webp";
 import kImg8 from "../../../public/assets/images1/influencer/features/chat.webp";
+import { Link } from "react-router-dom";
 
 const Services = [
     {
@@ -171,13 +172,13 @@ const OrganisationKeyFeaturesPage = (props) => {
                                             Join Sevak Army today and let’s build a better future, together.
                                         </p>
                                         <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
-                                            <button
+                                            <Link
                                                 to="https://app.sevakarmy.com/" target="_blank"
                                                 className="theme-btn"
                                                 style={{ width: "fit-content" }}
                                             >
                                                 Register now
-                                            </button>
+                                            </Link>
                                         </div>
                                     </div>
                                 </div>

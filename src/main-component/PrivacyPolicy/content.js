@@ -17,9 +17,9 @@ const PrivacyPolicyContent = () => {
         <li>4. <span>Company Website.:</span> <a href="https://jjfindia.com/" target="_blank">JJFIndia.com </a></li>
         <li>5. <span>Product Website:</span> <a href="https://sevakarmy.com/" target="_blank">SevakArmy.com</a></li>
         <li>6. <span>Registered Address:</span> <a href="https://maps.app.goo.gl/mCvV6mqmRgEaRtLL6" target="_blank">Jainam Jivika Foundation <br /> <span style={{ paddingLeft: '15px' }}></span>
-          3, Jainam Tower, 3, Sai Park, <br />  <span style={{ paddingLeft: '15px' }}></span>
-          Belthika Nagar, Thergaon (Chinchwad), <br />  <span style={{ paddingLeft: '15px' }}></span>
-          Pune - 411033, Maharashtra, India</a></li>
+          Jainam Tower, Sai Park, Thergaon, <br />  <span style={{ paddingLeft: '15px' }}></span>
+          Pune - 411033, Maharashtra, India <br />  <span style={{ paddingLeft: '15px' }}></span>
+         </a></li>
         <li>7. <span>Registered Country:</span> India</li>
       </ol>
 

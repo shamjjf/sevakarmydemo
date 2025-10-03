@@ -486,7 +486,10 @@ const Volunteerhome = ({ path }) => {
                   ))}
                 </div>
                 <div className="w-100 d-flex justify-content-center mt-5">
-                  <Link onClick={ClickHandler} to="become-volunteer" className="theme-btn">
+                  {/* <Link onClick={ClickHandler} to="become-volunteer" className="theme-btn">
+                    Know more
+                  </Link> */}
+                  <Link to="https://sevakarmy.com/"  className="theme-btn">
                     Know more
                   </Link>
                 </div>

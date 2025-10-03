@@ -447,7 +447,7 @@ const Services = [
           </div>
 
           <div className="w-100 d-flex justify-content-center align-items-center mb-2 mt-5">
-            <Link to="/volunteer/about-us" onClick={ClickHandler} className="theme-btn">
+            <Link to="https://sevakarmy.com/" onClick={ClickHandler} className="theme-btn">
               Learn More
             </Link>
           </div>

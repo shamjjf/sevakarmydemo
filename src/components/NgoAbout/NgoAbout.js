@@ -79,7 +79,7 @@ function NgoAbout({path}) {
                       Sevak Army is an NGO dedicated to empowering individuals and communities through volunteerism. Our mission is to inspire collective action for a better society. Join us in making a lasting impact!
                     </p>
                     <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
-                        <Link  to="https://app.sevakarmy.com/" target="_blank" className="theme-btn" style={{ width: "fit-content" }}>
+                        <Link  to="https://sevakarmy.com/" target="_blank" className="theme-btn" style={{ width: "fit-content" }}>
                           Learn More About Us
                         </Link>
                     </div>
