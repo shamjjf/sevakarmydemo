@@ -48,7 +48,7 @@ const EmployeeEngagementPage = (props) => {
                       </h2>
                     </div>
                     <p className="mb-0" style={{ textAlign: 'justify' }}>
-                      At Sevak Army, we believe every employee can help make the
+                      At SevakArmy, we believe every employee can help make the
                       world a better place. By encouraging your employees to join
                       volunteer activities, your organisation can improve its
                       social responsibility and make employees feel good about
@@ -66,7 +66,7 @@ const EmployeeEngagementPage = (props) => {
                 <div className="col-lg-6  col-md-12 col-12">
                   <div className="wpo-about-img justify-content-center">
                     <div className="wpo-about-right pt-0 d-flex justify-content-start">
-                      <Image src={abImg2} alt="Invite them to register & Volunteer on Sevak Army" height={520} />
+                      <Image src={abImg2} alt="Invite them to register & Volunteer on SevakArmy" height={520} />
                     </div>
                   </div>
                 </div>
@@ -94,7 +94,7 @@ const EmployeeEngagementPage = (props) => {
                     </div>
                     <p className="mb-0" style={{ textAlign: 'justify' }}>
                       Getting your employees involved in volunteering is easy
-                      with Sevak Army. Once your organisation is registered, you
+                      with SevakArmy. Once your organisation is registered, you
                       can invite employees to choose volunteer tasks through our
                       platform. Here's how we help:
                     </p>
@@ -109,7 +109,7 @@ const EmployeeEngagementPage = (props) => {
                       many hours they’ve volunteered and the tasks they've
                       completed.
                     </p>
-                    <p className="mb-1"> Sevak Army makes it simple for organisations to encourage
+                    <p className="mb-1"> SevakArmy makes it simple for organisations to encourage
                       meaningful volunteer work while keeping employees engaged
                       in causes they care about.</p>
                   </div>
@@ -131,7 +131,7 @@ const EmployeeEngagementPage = (props) => {
                 <div className="w-lg-50 w-100">
                   <div className="wpo-about-text mt-0">
                     <div className="wpo-section-title">
-                      {/* <span>Welcome to Sevak Army!</span> */}
+                      {/* <span>Welcome to SevakArmy!</span> */}
                       <h2 className="about-heading-third text-titleeee">
                         Celebrate Volunteer Work with Digital Badges
                       </h2>
@@ -165,7 +165,7 @@ const EmployeeEngagementPage = (props) => {
                     <Image src={abImg6} alt="img" />
                   </div> */}
                     <div className="wpo-about-right pt-lg-5">
-                      <Image src={abImg5} width={726} height={426} alt="Celebrate Volunteer Work with Sevak Army Digital Badges" />
+                      <Image src={abImg5} width={726} height={426} alt="Celebrate Volunteer Work with SevakArmy Digital Badges" />
                     </div>
                   </div>
                 </div>
@@ -235,7 +235,7 @@ const EmployeeEngagementPage = (props) => {
                   <div className="cta-wrap">
                     <h2 className="mb-2">Get started with employee engagement today.</h2>
                     <p className="text-center text-white pt-3">
-                      Sevak Army helps your organisation motivate, engage and
+                      SevakArmy helps your organisation motivate, engage and
                       track employee volunteering. Our easy-to-use tools makes
                       it simple to encourage volunteerism and build a culture of
                       giving back that benefits your organisation and the

@@ -146,7 +146,7 @@ const InfluencerBlogPage = (props) => {
               <div className="col-lg-6 col-md-12 col-12">
                 <div className="wpo-about-text">
                   <div className="wpo-section-title">
-                    <h2 className="text-titleeee">Welcome to  Sevak Army Influencer Blogs.</h2>
+                    <h2 className="text-titleeee">Welcome to  SevakArmy Influencer Blogs.</h2>
                   </div>
                   <p>
                     Discover insights, stories and strategies on influencers transforming social impact. Our blog

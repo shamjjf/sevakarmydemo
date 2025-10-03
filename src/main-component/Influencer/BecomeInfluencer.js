@@ -23,7 +23,7 @@ function BecomeInfluencer({show, setShow, path}) {
     
       if (!data) {
         data =  {
-           title: "Page Not Found - Sevak Army",
+           title: "Page Not Found - SevakArmy",
            description: "The page you are looking for does not exist.",
            robots: "noindex, nofollow",
          }
@@ -48,7 +48,7 @@ function BecomeInfluencer({show, setShow, path}) {
     return (
         <Fragment>
             <Navbar Logo={Logo} hclass={"wpo-site-header"} />
-            <PageTitle pageTitle={"Join Sevak Army"} pagesub={"Join Sevak Army"} link={"/influencer"} />
+            <PageTitle pageTitle={"Join SevakArmy"} pagesub={"Join SevakArmy"} link={"/influencer"} />
             <BecomeInfluencerPage show={show} setShow={setShow} />
             <Footer />
             <Scrollbar />

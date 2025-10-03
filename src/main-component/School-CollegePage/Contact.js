@@ -99,10 +99,10 @@ const SchoolContact = () => {
                 <div className="wpo-about-text">
                   <div className="wpo-section-title">
                     <span>Connect with us</span>
-                    <h2 className="text-titleeee"> Sevak Army Schools/Colleges</h2>
+                    <h2 className="text-titleeee"> SevakArmy Schools/Colleges</h2>
                   </div>
                   <p className="volunteer-home-text">
-                    At Sevak Army, we are always here to assist you. Whether you're interested in volunteering, need
+                    At SevakArmy, we are always here to assist you. Whether you're interested in volunteering, need
                     help with school/college registration or looking to partner with us, we have multiple ways to
                     connect with you. Explore the sections below to find the right contact method for your needs.
                   </p>

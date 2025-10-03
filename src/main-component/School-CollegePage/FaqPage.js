@@ -3,30 +3,30 @@ import CtaSection from '../../components/CtaSection/CtaSection'
 
 const accordionData1 = [
     {
-        "title": "What is  Sevak Army Schools/Colleges platform?",
-        "content": "This platform enables schools and colleges to register on Sevak Army, encouraging students to engage in structured volunteer activities that align with their interests and skills."
+        "title": "What is  SevakArmy Schools/Colleges platform?",
+        "content": "This platform enables schools and colleges to register on SevakArmy, encouraging students to engage in structured volunteer activities that align with their interests and skills."
     },
     {
-        "title": "Why should schools and colleges join Sevak Army?",
-        "content": "By joining Sevak Army, schools and colleges can foster a culture of social responsibility, helping students gain valuable life skills through community service."
+        "title": "Why should schools and colleges join SevakArmy?",
+        "content": "By joining SevakArmy, schools and colleges can foster a culture of social responsibility, helping students gain valuable life skills through community service."
     },
     {
-        "title": "Is there a fee for schools and colleges to join Sevak Army?",
-        "content": "No, registration on Sevak Army is free of charge."
+        "title": "Is there a fee for schools and colleges to join SevakArmy?",
+        "content": "No, registration on SevakArmy is free of charge."
     },
     {
-        "title": "What are the main benefits for students participating in Sevak Army?",
+        "title": "What are the main benefits for students participating in SevakArmy?",
         "content": "Students gain real-world experience, build skills, earn digital certificates and contribute positively to society, which enhances their personal and academic growth."
     }
 ]
 
 const accordionData2 = [
     {
-        "title": "How can our school or college register on Sevak Army?",
+        "title": "How can our school or college register on SevakArmy?",
         "content": "Schools and colleges can register by visiting SevakArmy.com, submitting institutional information and completing the verification process."
     },
     {
-        "title": "Will our institution have a specific profile on Sevak Army?",
+        "title": "Will our institution have a specific profile on SevakArmy?",
         "content": "Yes, registered schools/colleges have profiles where they can view student participation, track hours and monitor collective impact."
     },
     {
@@ -34,19 +34,19 @@ const accordionData2 = [
         "content": "No, registration is generally a one-time process, but institutions may be asked to update information occasionally."
     },
     {
-        "title": "Can our institution view students' progress and volunteer hours on Sevak Army?",
-        "content": "Yes, institutions have access to a profile on Sevak Army where they can monitor each student’s volunteer hours, task completions and overall contributions."
+        "title": "Can our institution view students' progress and volunteer hours on SevakArmy?",
+        "content": "Yes, institutions have access to a profile on SevakArmy where they can monitor each student’s volunteer hours, task completions and overall contributions."
     }
 ]
 
 const accordionData3 = [
     {
-        "title": "How do students register for Sevak Army under their school/college?",
+        "title": "How do students register for SevakArmy under their school/college?",
         "content": "Students can register using a unique referral link provided by their school/college or by selecting their institution during registration."
     },
     {
         "title": "Is there an age requirement for students to volunteer?",
-        "content": "Sevak Army welcomes students of all ages, although certain tasks may specify age-related requirements."
+        "content": "SevakArmy welcomes students of all ages, although certain tasks may specify age-related requirements."
     },
     {
         "title": "Can students choose which tasks to volunteer for?",
@@ -74,17 +74,17 @@ const accordionData3 = [
     },
     {
         "title": "Can students pause or withdraw from a task if needed?",
-        "content": "Students should notify the NGO or Sevak Army support if they need to pause or withdraw from a task."
+        "content": "Students should notify the NGO or SevakArmy support if they need to pause or withdraw from a task."
     },
     {
         "title": "How can students track their volunteer hours and achievements?",
-        "content": "Each student has a dashboard on Sevak Army where they can view completed tasks, track hours and access certificates."
+        "content": "Each student has a dashboard on SevakArmy where they can view completed tasks, track hours and access certificates."
     }
 ]
 
 const accordionData4 = [
     {
-        "title": "What types of tasks are available for students on Sevak Army?",
+        "title": "What types of tasks are available for students on SevakArmy?",
         "content": "Tasks range from teaching, community outreach, event support, social media outreach, environmental activities and more."
     },
     {
@@ -101,7 +101,7 @@ const accordionData4 = [
     },
     {
         "title": "What if a student finds a task too challenging after starting?",
-        "content": "The student can reach out to the NGO or Sevak Army support for task reassignment if needed."
+        "content": "The student can reach out to the NGO or SevakArmy support for task reassignment if needed."
     },
     {
         "title": "How are tasks matched with students’ interests and skills?",
@@ -113,7 +113,7 @@ const accordionData4 = [
     },
     {
         "title": "What happens if a student cannot complete a task due to unforeseen circumstances?",
-        "content": "They should inform the NGO or Sevak Army as soon as possible to arrange for task completion by another volunteer."
+        "content": "They should inform the NGO or SevakArmy as soon as possible to arrange for task completion by another volunteer."
     },
     {
         "title": "Can students receive mentorship through specific tasks?",
@@ -131,7 +131,7 @@ const accordionData5 = [
         "content": "Yes, students receive digital certificates for each completed task, which they can download and share."
     },
     {
-        "title": "What is  Sevak Army points system?",
+        "title": "What is  SevakArmy points system?",
         "content": "Students earn points for each completed task, which accumulate toward leaderboard rankings."
     },
     {
@@ -144,7 +144,7 @@ const accordionData5 = [
     },
     {
         "title": "Are there separate leaderboards for schools and colleges?",
-        "content": "Yes, Sevak Army has separate leaderboards for schools/colleges."
+        "content": "Yes, SevakArmy has separate leaderboards for schools/colleges."
     },
     {
         "title": "How often are leaderboards updated?",
@@ -152,11 +152,11 @@ const accordionData5 = [
     },
     {
         "title": "Are there awards for top-ranked students?",
-        "content": "Top-ranked students are recognised with digital certificates and leaderboard rankings on  Sevak Army website."
+        "content": "Top-ranked students are recognised with digital certificates and leaderboard rankings on  SevakArmy website."
     },
     {
         "title": "Do institutions also get recognised on the platform?",
-        "content": "Schools/colleges with high participation levels receive special recognition on Sevak Army’s platform and have a chance to appear on the top of the leaderboard."
+        "content": "Schools/colleges with high participation levels receive special recognition on SevakArmy’s platform and have a chance to appear on the top of the leaderboard."
     },
     {
         "title": "Can students share their achievements on social media?",
@@ -164,7 +164,7 @@ const accordionData5 = [
     },
     {
         "title": "Can institutions track the overall impact of their students' volunteer work?",
-        "content": "Yes, Sevak Army provides institutions with access to a dashboard where they can view collective volunteer hours and students' completed tasks, helping them assess their social impact."
+        "content": "Yes, SevakArmy provides institutions with access to a dashboard where they can view collective volunteer hours and students' completed tasks, helping them assess their social impact."
     }
 ]
 
@@ -177,23 +177,23 @@ const accordionData6 = [
 
 const accordionData7 = [
     {
-        "title": "How does Sevak Army measure the impact of students' volunteer work?",
-        "content": "Sevak Army tracks volunteer hours and completed tasks, generating reports that reflect the total social impact of students’ contributions."
+        "title": "How does SevakArmy measure the impact of students' volunteer work?",
+        "content": "SevakArmy tracks volunteer hours and completed tasks, generating reports that reflect the total social impact of students’ contributions."
     },
     {
-        "title": "Can Sevak Army volunteering hours count towards students’ academic credit?",
-        "content": "Institutions can decide if Sevak Army volunteer hours qualify for academic credit based on their internal policies."
+        "title": "Can SevakArmy volunteering hours count towards students’ academic credit?",
+        "content": "Institutions can decide if SevakArmy volunteer hours qualify for academic credit based on their internal policies."
     },
     {
-        "title": "How does Sevak Army encourage students to continue volunteering?",
-        "content": "Sevak Army uses a leaderboard, digital certificates and recognition to keep students engaged and motivated."
+        "title": "How does SevakArmy encourage students to continue volunteering?",
+        "content": "SevakArmy uses a leaderboard, digital certificates and recognition to keep students engaged and motivated."
     },
     {
-        "title": "Does Sevak Army provide personalised feedback on student tasks?",
+        "title": "Does SevakArmy provide personalised feedback on student tasks?",
         "content": "NGOs offer constructive feedback to students, helping them improve in future tasks."
     },
     {
-        "title": "Can Sevak Army help students build a volunteer portfolio?",
+        "title": "Can SevakArmy help students build a volunteer portfolio?",
         "content": "Students can maintain a record of completed tasks, certificates and impact reports, creating a robust volunteer portfolio."
     },
     {
@@ -201,23 +201,23 @@ const accordionData7 = [
         "content": "Regular volunteers gain valuable experience, build a strong portfolio and develop skills useful for college and career applications."
     },
     {
-        "title": "What is the vision of Sevak Army Schools/Colleges initiative for the future?",
-        "content": "Sevak Army aims to make volunteerism a core value in educational institutions across India, inspiring millions of students to engage in social service."
+        "title": "What is the vision of SevakArmy Schools/Colleges initiative for the future?",
+        "content": "SevakArmy aims to make volunteerism a core value in educational institutions across India, inspiring millions of students to engage in social service."
     },
     {
-        "title": "Can schools/colleges use Sevak Army’s impact in their annual reports?",
-        "content": "Yes, institutions can include Sevak Army volunteer hours and impact statistics in their annual reports and publications."
+        "title": "Can schools/colleges use SevakArmy’s impact in their annual reports?",
+        "content": "Yes, institutions can include SevakArmy volunteer hours and impact statistics in their annual reports and publications."
     },
     {
-        "title": "Does Sevak Army plan to expand to more schools and colleges in India?",
-        "content": "Yes, Sevak Army is committed to reaching educational institutions across the country to maximise social impact."
+        "title": "Does SevakArmy plan to expand to more schools and colleges in India?",
+        "content": "Yes, SevakArmy is committed to reaching educational institutions across the country to maximise social impact."
     },
     {
-        "title": "How can our institution stay updated on Sevak Army’s latest features?",
-        "content": "Sevak Army sends regular updates and newsletters to registered institutions, keeping them informed about new features and initiatives."
+        "title": "How can our institution stay updated on SevakArmy’s latest features?",
+        "content": "SevakArmy sends regular updates and newsletters to registered institutions, keeping them informed about new features and initiatives."
     },
     {
-        "title": "Can institutions set specific volunteer goals for their students on Sevak Army?",
+        "title": "Can institutions set specific volunteer goals for their students on SevakArmy?",
         "content": "Institutions can encourage their students to participate in volunteer tasks and set informal goals, though students are free to select tasks based on their personal interests and schedules."
     }
 ]
@@ -262,7 +262,7 @@ const FaqPage = () => {
                     <h2 className='w-100 text-center about-heading-second text-titleeee'>Frequently Asked Questions</h2>
 
                     <section className="wpo-service-single-section">
-                        <h2 className='w-100 text-center pt-3 mb-0 mt-md-3'>General Overview of Sevak Army Schools/Colleges</h2>
+                        <h2 className='w-100 text-center pt-3 mb-0 mt-md-3'>General Overview of SevakArmy Schools/Colleges</h2>
                         <div className="container">
                             <div className="row">
                                 <div className="col-lg-12 col-12 col-md-12">

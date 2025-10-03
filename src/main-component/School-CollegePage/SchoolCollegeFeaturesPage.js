@@ -42,7 +42,7 @@ const Services = [
     title: "Personalised Referral Link",
     slug: "2",
     description:
-      "Receive a unique link for your institution to share with students, making it easy for them to register as volunteers on Sevak Army.",
+      "Receive a unique link for your institution to share with students, making it easy for them to register as volunteers on SevakArmy.",
   },
   {
     Id: "03",
@@ -148,7 +148,7 @@ const SchoolCollegeFeaturesPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-0">
-                    <Image src={Path} width={556} height={371} alt="Sevak Army - Connecting Students with Impactful Opportunities" />
+                    <Image src={Path} width={556} height={371} alt="SevakArmy - Connecting Students with Impactful Opportunities" />
                   </div>
                 </div>
               </div>
@@ -157,11 +157,11 @@ const SchoolCollegeFeaturesPage = (props) => {
                   <div className="wpo-section-title mt-0 mb-3">
                     <span>Key Features </span>
                     <h2 className="about-heading-second text-titleeee">
-                      Sevak Army: Connecting Students with Impactful Opportunities
+                      SevakArmy: Connecting Students with Impactful Opportunities
                     </h2>
                   </div>
                   <p className="mt-0 pt-0 mb-0" style={{ textAlign: "justify" }}>
-                    Sevak Army for schools and colleges offers a platform that connects students with meaningful
+                    SevakArmy for schools and colleges offers a platform that connects students with meaningful
                     volunteering opportunities through NGOs and community organisations. It allows institutions to
                     engage their students in tasks that range from teaching support, event organisation, to food
                     collection drives.
@@ -176,7 +176,7 @@ const SchoolCollegeFeaturesPage = (props) => {
       <div className="container section-padding">
         <div className="row justify-content-center">
           <div className="col-lg-8 col-md-12 col-12">
-            <SectionTitle subtitle="Sevak Army Features" title="Key Features for Schools/Colleges on Sevak Army" />
+            <SectionTitle subtitle="SevakArmy Features" title="Key Features for Schools/Colleges on SevakArmy" />
           </div>
         </div>
         <div className="service-wrap mt-3">
@@ -207,9 +207,9 @@ const SchoolCollegeFeaturesPage = (props) => {
               <div className="row justify-content-center">
                 <div className="col-lg-8">
                   <div className="cta-wrap">
-                    <h2 className="mb-2">Join Sevak Army Today</h2>
+                    <h2 className="mb-2">Join SevakArmy Today</h2>
                     <p className="text-center pt-2 px-2" style={{ textAlign: "justify", color: "white" }}>
-                      Start building a generation of leaders with Sevak Army. Engage your students in meaningful
+                      Start building a generation of leaders with SevakArmy. Engage your students in meaningful
                       volunteer projects, enhance their skills and inspire positive change in communities.
                     </p>
                     <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">

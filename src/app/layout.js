@@ -10,7 +10,7 @@ import Script from "next/script";
 
 export const metadata = {
   metadataBase: new URL("https://sevakarmy.com"), // ✅ yeh add karna zaroori hai
-  title: "Join Sevak Army: Be a Force for Positive Social Change",
+  title: "Join SevakArmy: Be a Force for Positive Social Change",
   description:
     "Whether you're a student, retiree, or influencer, find projects that align with your passion and skills to create lasting social impact",
   keywords:
@@ -19,17 +19,17 @@ export const metadata = {
     icon: "/favicon.png",
   },
   openGraph: {
-    title: "Join Sevak Army: Be a Force for Positive Social Change",
+    title: "Join SevakArmy: Be a Force for Positive Social Change",
     description:
       "Whether you're a student, retiree, or influencer, find projects that align with your passion and skills to create lasting social impact",
     url: "https://sevakarmy.com/",
-    siteName: "Sevak Army",
+    siteName: "SevakArmy",
     images: [
       {
         url: "/og-image.jpg", // ✅ ye image /public/ folder me rakho
         width: 1200,
         height: 630,
-        alt: "Sevak Army Open Graph Image",
+        alt: "SevakArmy Open Graph Image",
       },
     ],
     locale: "en_US",
@@ -37,7 +37,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Join Sevak Army: Be a Force for Positive Social Change",
+    title: "Join SevakArmy: Be a Force for Positive Social Change",
     description:
       "Whether you're a student, retiree, or influencer, find projects that align with your passion and skills to create lasting social impact",
     images: ["/og-image.jpg"],

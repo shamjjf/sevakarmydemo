@@ -89,16 +89,16 @@ const BecomeVolunteerPage = (props) => {
                   <div className="wpo-section-title mt-0 mb-3">
                     <span>Become a Volunteer</span>
                     <h2 className="about-heading-second text-titleeee">
-                      Join Sevak Army: Your Path to Make a Difference
+                      Join SevakArmy: Your Path to Make a Difference
                     </h2>
                   </div>
                   <div className="mt-0 pt-0" style={{ textAlign: "justify" }}>
                     <p> Discover how easy it is to volunteer and contribute to
-                      meaningful causes with Sevak Army.</p>
+                      meaningful causes with SevakArmy.</p>
                     <div className="custom-panell">
                       <h3>How It Works: From Sign-Up to Service</h3>
                     </div>
-                    <p>  At Sevak Army, we’ve made it simple for anyone to join our
+                    <p>  At SevakArmy, we’ve made it simple for anyone to join our
                       platform, find tasks matching their skills and make an
                       impact.</p>
                   </div>
@@ -126,7 +126,7 @@ const BecomeVolunteerPage = (props) => {
                     <h3>Step 1: Register and Create Your Profile</h3>
                   </div>
                   <p className="mt-0 pt-0" style={{ textAlign: "justify" }}>
-                    The first step to becoming a Sevak Army volunteer is
+                    The first step to becoming a SevakArmy volunteer is
                     registering on our platform. Simply <b>register</b> by
                     providing basic details, such as your name, email and
                     contact information. Once registered, you’ll create a
@@ -139,7 +139,7 @@ const BecomeVolunteerPage = (props) => {
                 <div className="wpo-about-img d-flex w-100 justify-content-center">
                   <div className="wpo-about-right pt-lg-4">
                     {/* <Image src={abImg7} alt="img" /> */}
-                    <Image width={450} src={SignUp} alt="Sign-up to Sevak Army" />
+                    <Image width={450} src={SignUp} alt="Sign-up to SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -154,7 +154,7 @@ const BecomeVolunteerPage = (props) => {
                 <div className="wpo-about-img d-flex w-100 justify-content-center">
                   <div className="wpo-about-right pt-lg-5">
                     {/* <Image src={abImg7} alt="img" /> */}
-                    <Image width={500} src={Task} alt="Filtering out your Volunteering task with Sevak Army" />
+                    <Image width={500} src={Task} alt="Filtering out your Volunteering task with SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -162,7 +162,7 @@ const BecomeVolunteerPage = (props) => {
                 <div className="wpo-about-text p-3 mt-0 pb-1 pb-lg-2 pt-1 pt-lg-2">
                   {/* <div className="wpo-section-title mt-0 mb-5">
                                         <span>Become a Volunteer</span>
-                                        <h2 className="about-heading-second">Join Sevak Army: Your Path to Make a Difference</h2>
+                                        <h2 className="about-heading-second">Join SevakArmy: Your Path to Make a Difference</h2>
                                     </div> */}
                   <div className="custom-panell">
                     <h3>Step 2: Browse & Filter Volunteer Tasks</h3>
@@ -228,7 +228,7 @@ const BecomeVolunteerPage = (props) => {
                     <Image
                       src={Apply}
                       width={450}
-                      alt="Apply for Volunteering with Verified NGO over Sevak Army"
+                      alt="Apply for Volunteering with Verified NGO over SevakArmy"
                     />
                     {/* <Image src="https://placehold.co/324x324/png" alt="Register" /> */}
                   </div>
@@ -287,7 +287,7 @@ const BecomeVolunteerPage = (props) => {
               <div className="col-lg-6 col-md-12 col-12">
                 <div className="wpo-about-img d-flex w-100 justify-content-center">
                   <div className="wpo-about-right pt-lg-5">
-                    <Image src={Connect} width={440} alt="Get connected with Verified NGO with Sevak Army" />
+                    <Image src={Connect} width={440} alt="Get connected with Verified NGO with SevakArmy" />
                     {/* <Image src="https://placehold.co/324x324/png" alt="Register" /> */}
                   </div>
                 </div>
@@ -302,7 +302,7 @@ const BecomeVolunteerPage = (props) => {
               <div className="col-lg-6 col-md-12 col-12">
                 <div className="wpo-about-img d-flex w-100 justify-content-center">
                   <div className="wpo-about-right pt-lg-3 ">
-                    <Image src={StartVolunteering} height={400} alt="Start Volunteer today & track your work with Sevak Army" style={{ objectFit: 'contain' }} />
+                    <Image src={StartVolunteering} height={400} alt="Start Volunteer today & track your work with SevakArmy" style={{ objectFit: 'contain' }} />
                     {/* <Image src="https://placehold.co/324x324/png" alt="Register" /> */}
                   </div>
                 </div>
@@ -330,7 +330,7 @@ const BecomeVolunteerPage = (props) => {
         </div>
         <div className="row justify-content-center">
           <div className="col-lg-6 col-md-12 col-12">
-            <SectionTitle subtitle="Empowering Growth, Bringing Impact" title="Why Choose Sevak Army?" />
+            <SectionTitle subtitle="Empowering Growth, Bringing Impact" title="Why Choose SevakArmy?" />
           </div>
         </div>
 
@@ -396,7 +396,7 @@ const BecomeVolunteerPage = (props) => {
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
                     >
-                      Join Sevak Army today and be part of a platform that’s
+                      Join SevakArmy today and be part of a platform that’s
                       transforming communities across India. It only takes a few
                       minutes to register and you’ll be on your way to finding
                       the perfect volunteer opportunities that match your

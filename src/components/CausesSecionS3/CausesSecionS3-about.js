@@ -65,7 +65,7 @@ const CausesSecionS3About = (props) => {
                       style={{ maxWidth: "100%" }}
                     >
                       Companies are leading environmental initiatives such as tree planting, beach clean-ups, and energy conservation projects.
-                    </p>Key Features of Sevak Army
+                    </p>Key Features of SevakArmy
                   </div>
                 </div>
                 <div className="service-item px-4 py-4 col-xl-3 col-lg-4 col-md-7 col-sm-8 col-11 sevak-custom-carddd">

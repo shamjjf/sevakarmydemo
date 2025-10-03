@@ -119,7 +119,7 @@ const LeaderboardPage = (props) => {
               <div className="col-lg-6 col-md-12 col-12">
                 <div className="wpo-about-img">
                   <div className="wpo-about-right pt-3">
-                    <Image width={580} src={LeaderboardWorking} alt="Leader Board - School & Colleges - Sevak Army" />
+                    <Image width={580} src={LeaderboardWorking} alt="Leader Board - School & Colleges - SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -180,7 +180,7 @@ const LeaderboardPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-2 pt-md-5">
-                    <Image src={abImg7} alt="Lederboard Tracking System - Sevak Army" />
+                    <Image src={abImg7} alt="Lederboard Tracking System - SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -276,7 +276,7 @@ const LeaderboardPage = (props) => {
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
                     >
-                      Sevak Army is all about recognizing outstanding Organisation that are making the biggest impact in their communities.
+                      SevakArmy is all about recognizing outstanding Organisation that are making the biggest impact in their communities.
                       Check out the top Organisations on our leaderboard, track their progress, and get inspired by their incredible work!
                       Want your Organisation to be featured? Step up your engagement and make a real difference!
                     </p>

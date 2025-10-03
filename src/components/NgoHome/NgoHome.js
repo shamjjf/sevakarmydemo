@@ -17,21 +17,21 @@ import NgoCtaSection from "../CtaSection/NgoCtaSection";
 import NgoCtaSection2 from "../CtaSection/NgoCtaSection2";
 
 // export const metadata = {
-//   title: 'Sevak Army: Your NGO\'s Support Network',
-//   description: 'Sevak Army connects NGOs with dedicated volunteers. Post tasks, find skilled help, and streamline projects to drive your mission forward with ease.',
+//   title: 'SevakArmy: Your NGO\'s Support Network',
+//   description: 'SevakArmy connects NGOs with dedicated volunteers. Post tasks, find skilled help, and streamline projects to drive your mission forward with ease.',
 //   keywords: 'Skilled volunteers for NGOs, Support for NGO tasks, Volunteer help for NGOs, Manage NGO projects, NGO task management platform',
 //   icons: {
 //     icon: '/favicon.png',
 //   },
 //   openGraph: {
-//     title: 'Sevak Army: Your NGO\'s Support Network',
-//     description: 'Sevak Army connects NGOs with dedicated volunteers. Post tasks, find skilled help, and streamline projects to drive your mission forward with ease.',
+//     title: 'SevakArmy: Your NGO\'s Support Network',
+//     description: 'SevakArmy connects NGOs with dedicated volunteers. Post tasks, find skilled help, and streamline projects to drive your mission forward with ease.',
 //     url: 'https://sevakarmy.mini91.com/ngo',
 //   },
 //   twitter: {
 //     card: 'summary_large_image',
-//     title: 'Sevak Army: Your NGO\'s Support Network',
-//     description: 'Sevak Army connects NGOs with dedicated volunteers. Post tasks, find skilled help, and streamline projects to drive your mission forward with ease.',
+//     title: 'SevakArmy: Your NGO\'s Support Network',
+//     description: 'SevakArmy connects NGOs with dedicated volunteers. Post tasks, find skilled help, and streamline projects to drive your mission forward with ease.',
 //   },
 //   robots: 'index, follow',
 //   canonical: 'https://sevakarmy.mini91.com/ngo',
@@ -50,7 +50,7 @@ function NgoHome({ show, setShow, path }) {
     
       if (!data) {
         data =  {
-           title: "Page Not Found - Sevak Army",
+           title: "Page Not Found - SevakArmy",
            description: "The page you are looking for does not exist.",
            robots: "noindex, nofollow",
          }

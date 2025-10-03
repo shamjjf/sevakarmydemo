@@ -16,21 +16,21 @@ function NgoHomeTestimonal({ props }) {
   const TestimonialData = [
     {
       id: "01",
-      text: "As an NGO director, I believe Sevak Army is a game-changer for organisations like ours. It helps us find committed volunteers and provides resources to amplify impact. Since joining, we’ve seen greater involvement, support, and are building a sustainable future for those we serve.",
+      text: "As an NGO director, I believe SevakArmy is a game-changer for organisations like ours. It helps us find committed volunteers and provides resources to amplify impact. Since joining, we’ve seen greater involvement, support, and are building a sustainable future for those we serve.",
       title: "Rajesh K, NGO Director",
       // subtitle: "Manager",
       image: image1,
     },
     {
       id: "02",
-      text: "Sevak Army has truly transformed the way we engage with volunteers. The platform helps us find skilled individuals quickly, which has made a huge difference in the success of our projects. With Sevak Army, we've been able to reach more people and improve lives faster than ever before.",
+      text: "SevakArmy has truly transformed the way we engage with volunteers. The platform helps us find skilled individuals quickly, which has made a huge difference in the success of our projects. With SevakArmy, we've been able to reach more people and improve lives faster than ever before.",
       title: ' Priya S, NGO Coordinator',
       // subtitle: "Leader",
       image: image2,
     },
     {
       id: "03",
-      text: "For our NGO, Sevak Army has been a blessing. We no longer struggle with volunteer recruitment and the easy-to-use platform makes managing tasks simple. Our work has become more organised and efficient and we’ve seen a significant boost in community support.",
+      text: "For our NGO, SevakArmy has been a blessing. We no longer struggle with volunteer recruitment and the easy-to-use platform makes managing tasks simple. Our work has become more organised and efficient and we’ve seen a significant boost in community support.",
       // subtitle: "Driving Environmental Sustainability Initiatives",
       title: "Anjali M, NGO Project Manager",
       image: image3,

@@ -143,7 +143,7 @@ const Blog = (props) => {
                     <h2 className="text-titleeee">Explore Our Blog for Insights and Updates</h2>
                   </div>
                   <p>
-                    Welcome to the Blog section of  Sevak Army Organisation Portal. Here, you’ll find a wealth of
+                    Welcome to the Blog section of  SevakArmy Organisation Portal. Here, you’ll find a wealth of
                     information designed to keep you updated on the latest trends in corporate social responsibility,
                     volunteering best practices and success stories from our network. Our blog is a valuable resource
                     for organisations looking to enhance their CSR efforts, engage employees and make a positive impact

@@ -1,5 +1,5 @@
 const SEO = {
-    title: "Join Sevak Army: Be a Force for Positive Social Change",
+    title: "Join SevakArmy: Be a Force for Positive Social Change",
     description:
       "Whether you're a student, retiree, or influencer, find projects that align with your passion and skills to create lasting social impact.",
     canonical: "https://sevakarmy.mini91.com",
@@ -7,8 +7,8 @@ const SEO = {
       type: "website",
       locale: "en_IE",
       url: "https://sevakarmy.mini91.com",
-      site_name: "Sevak Army",
-      title: "Join Sevak Army: Be a Force for Positive Social Change",
+      site_name: "SevakArmy",
+      title: "Join SevakArmy: Be a Force for Positive Social Change",
       description:
         "Whether you're a student, retiree, or influencer, find projects that align with your passion and skills to create lasting social impact.",
       images: [
@@ -16,7 +16,7 @@ const SEO = {
           url: "/path-to-social-image.jpg",
           width: 1200,
           height: 630,
-          alt: "Join Sevak Army Social Impact",
+          alt: "Join SevakArmy Social Impact",
         },
       ],
     },

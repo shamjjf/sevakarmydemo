@@ -158,7 +158,7 @@ const Services = [
         title: "Leaderboard Rankings",
         slug: "14",
         description:
-            "Track your CSR contributions on Sevak Army’s leaderboard, motivating employees to climb ranks through service.",
+            "Track your CSR contributions on SevakArmy’s leaderboard, motivating employees to climb ranks through service.",
     },
     {
         Id: "15",
@@ -250,7 +250,7 @@ const OrganisationBenefitsPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                                     <div className="wpo-about-right pt-3">
-                                        <Image src={Path} alt="Benefits to Register Your Organisation - Sevak Army" />
+                                        <Image src={Path} alt="Benefits to Register Your Organisation - SevakArmy" />
                                     </div>
                                 </div>
                             </div>
@@ -259,11 +259,11 @@ const OrganisationBenefitsPage = (props) => {
                                     <div className="wpo-section-title mt-0 mb-3">
                                         <span>Benefits</span>
                                         <h2 className="about-heading-second text-titleeee">
-                                            Benefits of Joining Sevak Army
+                                            Benefits of Joining SevakArmy
                                         </h2>
                                     </div>
                                     <p className="mt-0 pt-0 mb-0" style={{ textAlign: "justify" }}>
-                                        Becoming part of Sevak Army is a powerful opportunity for organisations to make a positive social impact while boosting employee engagement and fulfilling CSR goals. Here’s how your organisation can benefit:
+                                        Becoming part of SevakArmy is a powerful opportunity for organisations to make a positive social impact while boosting employee engagement and fulfilling CSR goals. Here’s how your organisation can benefit:
                                     </p>
                                 </div>
                             </div>
@@ -313,7 +313,7 @@ const OrganisationBenefitsPage = (props) => {
                                             className="text-center pt-2 px-2"
                                             style={{ textAlign: "justify", color: "white" }}
                                         >
-                                            Joining Sevak Army is a great way for your organisation to make a positive impact.
+                                            Joining SevakArmy is a great way for your organisation to make a positive impact.
                                         </p>
                                         <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
                                             <Link

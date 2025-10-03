@@ -15,7 +15,7 @@ function Volunteerhomecards() {
             
             title: 'Connect Volunteers & NGOs',
             slug: '1',
-            description: 'Sevak Army connects people with NGOs for impactful volunteering.',
+            description: 'SevakArmy connects people with NGOs for impactful volunteering.',
         },
         {
             Id: '02',
@@ -23,7 +23,7 @@ function Volunteerhomecards() {
             
             title: 'Offer Diverse Volunteer Tasks',
             slug: '2',
-            description: 'Sevak Army lets you choose tasks that match your skills and interests.',
+            description: 'SevakArmy lets you choose tasks that match your skills and interests.',
         },
         {
             Id: '03',

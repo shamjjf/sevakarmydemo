@@ -16,7 +16,7 @@ const Hero = () => {
           <div className="container-fluid responsive-containerrr">
             <div className="hero-content hero-content-main">
               <div className="slide-title-sub">
-                <span>Welcome to Sevak Army</span>
+                <span>Welcome to SevakArmy</span>
               </div>
               <div className="slide-title">
                 <h2 className="slide-heading">
@@ -33,7 +33,7 @@ const Hero = () => {
               <div className="clearfix"></div>
               <div data-swiper-parallax="500" className="slide-video-content">
                 <div className="slide-video-img">
-                  <Image style={{width:'auto', height:'auto'}} priority={true} src={Videobg} width={152} height={151} alt="Volunteers for NGO - Sevak Army" />
+                  <Image style={{width:'auto', height:'auto'}} priority={true} src={Videobg} width={152} height={151} alt="Volunteers for NGO - SevakArmy" />
                 </div>
                 <div className="slide-video-text">
                   <h4 className="slide-video-text-show">

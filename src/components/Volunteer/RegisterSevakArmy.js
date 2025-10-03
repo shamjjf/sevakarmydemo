@@ -46,8 +46,8 @@ function RegisterSevakArmy() {
         <div className="container">
             <div className="row justify-content-center">
                 <div className="col-lg-10 col-md-12 col-12">
-                    <SectionTitle title="Why Register with Sevak Army?" />
-                    <p className='text-center'>When you join Sevak Army, you gain access to a suite of features designed to maximise your CSR impact.</p>
+                    <SectionTitle title="Why Register with SevakArmy?" />
+                    <p className='text-center'>When you join SevakArmy, you gain access to a suite of features designed to maximise your CSR impact.</p>
                 </div>
             </div>
             <div className="service-wrap mt-3">

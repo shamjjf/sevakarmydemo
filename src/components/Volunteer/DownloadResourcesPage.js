@@ -44,7 +44,7 @@ const DownloadResourcesPage = (props) => {
                   <h2 className="about-heading-second">Download Resources for Volunteers</h2>
                 </div>
                 <p className="mt-0 pt-0" style={{ textAlign: 'justify' }}>
-                  Thank you for your dedication to spreading awareness about Sevak Army! Below, you can download a variety of materials that will help you promote volunteer opportunities within your community, school or organisation. Whether it's a banner, brochure or presentation, these resources are designed to help you inspire more people to join  Sevak Army platform.
+                  Thank you for your dedication to spreading awareness about SevakArmy! Below, you can download a variety of materials that will help you promote volunteer opportunities within your community, school or organisation. Whether it's a banner, brochure or presentation, these resources are designed to help you inspire more people to join  SevakArmy platform.
                 </p>
               </div>
             </div>
@@ -61,7 +61,7 @@ const DownloadResourcesPage = (props) => {
               <div className="custom-panell" style={{border:'none'}}>
                 <h3 className="text-center">Banners for Social Media and Websites</h3>
               </div>
-              <p className="text-center">Use these banners to promote Sevak Army across social media platforms, websites and newsletters.</p>
+              <p className="text-center">Use these banners to promote SevakArmy across social media platforms, websites and newsletters.</p>
             </div>
             <div className="w-full d-flex justify-content-center flex-wrap align-items-center gap-4 mt-5">
               <button className="theme-btn w-full d-flex align-items-center gap-2">
@@ -147,7 +147,7 @@ const DownloadResourcesPage = (props) => {
               <div className="custom-panell" style={{border:'none'}}>
                 <h3 className="text-center">Flyers and Notices</h3>
               </div>
-              <p className="text-center">Distribute these printable flyers and notices to promote upcoming events or volunteer opportunities related to Sevak Army.</p>
+              <p className="text-center">Distribute these printable flyers and notices to promote upcoming events or volunteer opportunities related to SevakArmy.</p>
             </div>
             <div className="w-full d-flex justify-content-center flex-wrap align-items-center gap-4 mt-5">
               <button className="theme-btn w-full d-flex align-items-center gap-2">
@@ -188,7 +188,7 @@ const DownloadResourcesPage = (props) => {
           <div className="col-lg-8 col-md-12 col-12">
             <div className="w-100 mx-2">
               <div className="custom-panell" style={{border:'none'}}>
-                <h3 className="text-center">Sevak Army Brochure</h3>
+                <h3 className="text-center">SevakArmy Brochure</h3>
               </div>
               <p className="text-center">Share our official brochure with potential volunteers and NGOs to provide them with key information about the programme. </p>
             </div>
@@ -218,9 +218,9 @@ const DownloadResourcesPage = (props) => {
           <div className="col-lg-8 col-md-12 col-12">
             <div className="w-100 mx-2">
               <div className="custom-panell" style={{border:'none'}}>
-                <h3 className="text-center">Sevak Army Presentation (PPT) </h3>
+                <h3 className="text-center">SevakArmy Presentation (PPT) </h3>
               </div>
-              <p className="text-center">For volunteers conducting events or meetings, this PowerPoint presentation highlights the vision, mission and key features of Sevak Army.</p>
+              <p className="text-center">For volunteers conducting events or meetings, this PowerPoint presentation highlights the vision, mission and key features of SevakArmy.</p>
             </div>
             <div className="w-100 d-flex justify-content-center flex-wrap align-items-center gap-4 mt-5">
               <button className="theme-btn w-full d-flex justify-content-center align-items-center gap-2">
@@ -243,7 +243,7 @@ const DownloadResourcesPage = (props) => {
 
       <div className="section-padding pt-0 container">
         <p className="text-center mb-0" style={{fontWeight:'600', fontSize:'20px'}}>
-          These resources are provided to make it easier for volunteers like you to promote Sevak Army.
+          These resources are provided to make it easier for volunteers like you to promote SevakArmy.
         </p>
         <p className="text-center" style={{fontWeight:'600', fontSize:'20px'}}>
           Together, we can inspire more people to join the platform and contribute to positive social change.

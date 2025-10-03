@@ -56,9 +56,9 @@ const InfluencerContactPage = (props) => {
           <SectionTitle
             subtitle=""
             title="We’re Excited to Connect with You!"
-            paragarap="At  Sevak Army, we’re on a mission to create a positive social impact and we welcome influencers who share the same passion. If you’re an influencer looking to encourage your followers to volunteer and make a difference, we’d love to collaborate with you! Whether you have questions, want to explore opportunities or need assistance, we’re here to support you every step of the way."
+            paragarap="At  SevakArmy, we’re on a mission to create a positive social impact and we welcome influencers who share the same passion. If you’re an influencer looking to encourage your followers to volunteer and make a difference, we’d love to collaborate with you! Whether you have questions, want to explore opportunities or need assistance, we’re here to support you every step of the way."
           />
-          {/* <p className="text-center">We value your questions, feedback and support requests at Sevak Army. Whether you're a volunteer, NGO,  school/college organisation or influencer we’re just a message away. Feel free to contact us and we’ll reply promptly.
+          {/* <p className="text-center">We value your questions, feedback and support requests at SevakArmy. Whether you're a volunteer, NGO,  school/college organisation or influencer we’re just a message away. Feel free to contact us and we’ll reply promptly.
           </p> */}
         </div>
         <div className="row pt-3">

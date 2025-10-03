@@ -9,7 +9,7 @@ import CtaSection from '../../components/CtaSection/CtaSection';
 
 const accordionData = [
     {
-        "title": "Can my NGO post tasks for volunteers in Sevak Army?",
+        "title": "Can my NGO post tasks for volunteers in SevakArmy?",
         "content": (
             <>
                 Yes, once your NGO is registered and approved, you can post tasks for volunteers directly on the platform through the 'NGO Dashboard'. You can set task requirements, deadlines and track volunteer progress.
@@ -20,7 +20,7 @@ const accordionData = [
         "title": "How do we ensure our tasks are completed by volunteers?",
         "content": (
             <>
-                Sevak Army allows you to track task progress and communicate with volunteers directly through the platform. You can also set deadlines and send reminders to ensure tasks are completed on time.
+                SevakArmy allows you to track task progress and communicate with volunteers directly through the platform. You can also set deadlines and send reminders to ensure tasks are completed on time.
             </>
         )
     },
@@ -41,7 +41,7 @@ const accordionData = [
         )
     },
     {
-        "title": "Does Sevak Army offer reporting features for NGOs?",
+        "title": "Does SevakArmy offer reporting features for NGOs?",
         "content": (
             <>
                 Yes, NGOs have access to detailed reports that show volunteer hours, task completion rates and overall impact. These reports can be downloaded and used for internal assessments or external reporting purposes.
@@ -57,7 +57,7 @@ const accordionData = [
         )
     },
     {
-        "title": "What types of tasks can my NGO post for Sevak Army?",
+        "title": "What types of tasks can my NGO post for SevakArmy?",
         "content": (
             <>
                 NGOs can post a variety of tasks, including administrative support, community outreach, digital marketing, fundraising and more. Tasks can be virtual or in-person, depending on the NGO's needs and location.
@@ -76,7 +76,7 @@ const accordionData = [
         "title": "How do we manage multiple volunteers for a single task?",
         "content": (
             <>
-                Sevak Army allows NGOs to assign multiple volunteers to a single task. You can manage each volunteer’s progress individually and communicate with them as a group or separately.
+                SevakArmy allows NGOs to assign multiple volunteers to a single task. You can manage each volunteer’s progress individually and communicate with them as a group or separately.
             </>
         )
     },
@@ -89,15 +89,15 @@ const accordionData = [
         )
     },
     {
-        "title": "Is there a cost for NGOs to use Sevak Army?",
+        "title": "Is there a cost for NGOs to use SevakArmy?",
         "content": (
             <>
-                Sevak Army offers free and premium plans for NGOs. The free plan provides basic access to posting tasks and managing volunteers, while premium plans offer advanced reporting, more volunteer outreach and additional features.
+                SevakArmy offers free and premium plans for NGOs. The free plan provides basic access to posting tasks and managing volunteers, while premium plans offer advanced reporting, more volunteer outreach and additional features.
             </>
         )
     },
     {
-        "title": "How long does it take for our NGO to get approved by Sevak Army?",
+        "title": "How long does it take for our NGO to get approved by SevakArmy?",
         "content": (
             <>
                 After submitting your application, it typically takes 3-5 business days for our team to review and approve your NGO account. If additional information is needed, we will contact you.
@@ -105,10 +105,10 @@ const accordionData = [
         )
     },
     // {
-    //     "title": "Can international NGOs partner with Sevak Army?",
+    //     "title": "Can international NGOs partner with SevakArmy?",
     //     "content": (
     //         <>
-    //             Yes, Sevak Army welcomes international NGOs to partner with us. As long as your NGO meets our partnership criteria, you can join the platform and post tasks for volunteers worldwide.
+    //             Yes, SevakArmy welcomes international NGOs to partner with us. As long as your NGO meets our partnership criteria, you can join the platform and post tasks for volunteers worldwide.
     //         </>
     //     )
     // },
@@ -137,18 +137,18 @@ const accordionData = [
         )
     },
     {
-        "title": "How does Sevak Army support NGOs in rural or remote areas?",
+        "title": "How does SevakArmy support NGOs in rural or remote areas?",
         "content": (
             <>
-                Sevak Army supports NGOs in rural or remote areas by offering virtual task options and connecting them with volunteers who are willing to help from anywhere in the world. This expands the reach of NGOs and ensures they get the help they need.
+                SevakArmy supports NGOs in rural or remote areas by offering virtual task options and connecting them with volunteers who are willing to help from anywhere in the world. This expands the reach of NGOs and ensures they get the help they need.
             </>
         )
     },
     {
-        "title": "Can NGOs organise events through  Sevak Army?",
+        "title": "Can NGOs organise events through  SevakArmy?",
         "content": (
             <>
-                Yes, NGOs can post events, such as community outreach programmes or fundraising efforts, as tasks to  Sevak Army. Volunteers can register to help with specific roles or responsibilities for these events.
+                Yes, NGOs can post events, such as community outreach programmes or fundraising efforts, as tasks to  SevakArmy. Volunteers can register to help with specific roles or responsibilities for these events.
             </>
         )
     },
@@ -161,7 +161,7 @@ const accordionData = [
         )
     },
     {
-        "title": "Can our NGO host training or orientation for volunteers in Sevak Army?",
+        "title": "Can our NGO host training or orientation for volunteers in SevakArmy?",
         "content": (
             <>
                 Yes, NGOs can host virtual training or orientation sessions through the platform. You can also upload documents or share resources that volunteers need to complete tasks.
@@ -169,7 +169,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How do we update our NGO’s information or profile on Sevak Army?",
+        "title": "How do we update our NGO’s information or profile on SevakArmy?",
         "content": (
             <>
                 To update your NGO profile or information, go to 'NGO Settings' on your dashboard. You can edit your contact details, mission statement, and other relevant information from this section.
@@ -180,15 +180,15 @@ const accordionData = [
         "title": "How do we report a problem with a volunteer?",
         "content": (
             <>
-                If your NGO encounters any issues with a volunteer, you can report the problem by going to the volunteer’s profile and selecting 'Report Issue'. Sevak Army will review the report and take appropriate action.
+                If your NGO encounters any issues with a volunteer, you can report the problem by going to the volunteer’s profile and selecting 'Report Issue'. SevakArmy will review the report and take appropriate action.
             </>
         )
     },
     {
-        "title": "Can our NGO partner with other organisations in Sevak Army?",
+        "title": "Can our NGO partner with other organisations in SevakArmy?",
         "content": (
             <>
-                Yes, NGOs can collaborate with other organisations through Sevak Army. You can share tasks, volunteers, and resources with partnered organisations to increase your impact.
+                Yes, NGOs can collaborate with other organisations through SevakArmy. You can share tasks, volunteers, and resources with partnered organisations to increase your impact.
             </>
         )
     },
@@ -209,7 +209,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How can we recognise and reward volunteers through  Sevak Army?",
+        "title": "How can we recognise and reward volunteers through  SevakArmy?",
         "content": (
             <>
                 You can recognise and reward volunteers by providing feedback, issuing digital certificates of appreciation, and highlighting their contributions in impact reports. Some premium plans may offer additional tools for recognition.
@@ -233,7 +233,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How can we request additional support or features from Sevak Army?",
+        "title": "How can we request additional support or features from SevakArmy?",
         "content": (
             <>
                 To request additional support or features, contact our support team through the 'Help' section on your dashboard. Provide details about your request, and we will review and consider it for future updates.
@@ -241,15 +241,15 @@ const accordionData = [
         )
     },
     {
-        "title": "Can we integrate Sevak Army with other tools or platforms our NGO uses?",
+        "title": "Can we integrate SevakArmy with other tools or platforms our NGO uses?",
         "content": (
             <>
-                Sevak Army supports integration with various tools and platforms. Check the 'Integrations' section on our website for a list of supported integrations or contact support for specific requests.
+                SevakArmy supports integration with various tools and platforms. Check the 'Integrations' section on our website for a list of supported integrations or contact support for specific requests.
             </>
         )
     },
     {
-        "title": "What types of training materials can we provide to volunteers through Sevak Army?",
+        "title": "What types of training materials can we provide to volunteers through SevakArmy?",
         "content": (
             <>
                 You can provide various training materials, including documents, videos, and links, through the task description or dedicated training sections on the platform.
@@ -268,7 +268,7 @@ const accordionData = [
         "title": "Can we customise the task posting form for our NGO’s needs?",
         "content": (
             <>
-                Yes, Sevak Army allows customisation of task posting forms to include fields relevant to your NGO’s specific needs and requirements. Contact support for assistance with customisation.
+                Yes, SevakArmy allows customisation of task posting forms to include fields relevant to your NGO’s specific needs and requirements. Contact support for assistance with customisation.
             </>
         )
     },
@@ -276,7 +276,7 @@ const accordionData = [
         "title": "How do we handle volunteer data privacy and security?",
         "content": (
             <>
-                Sevak Army ensures data privacy and security by following strict protocols for data protection. NGOs should also inform volunteers about how their data will be used and stored.
+                SevakArmy ensures data privacy and security by following strict protocols for data protection. NGOs should also inform volunteers about how their data will be used and stored.
             </>
         )
     },
@@ -289,7 +289,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How can we collaborate with other NGOs in Sevak Army?",
+        "title": "How can we collaborate with other NGOs in SevakArmy?",
         "content": (
             <>
                 You can collaborate with other NGOs by sharing tasks, resources and volunteer opportunities. Contact other NGOs directly through the platform to explore potential partnerships.
@@ -305,10 +305,10 @@ const accordionData = [
         )
     },
     {
-        "title": "Can we use Sevak Army for fundraising events?",
+        "title": "Can we use SevakArmy for fundraising events?",
         "content": (
             <>
-                Yes, Sevak Army can be used to organise and manage fundraising events. Post tasks related to the event, such as logistics, outreach and fundraising activities and track volunteer involvement.
+                Yes, SevakArmy can be used to organise and manage fundraising events. Post tasks related to the event, such as logistics, outreach and fundraising activities and track volunteer involvement.
             </>
         )
     },
@@ -337,7 +337,7 @@ const accordionData = [
         )
     },
     {
-        "title": "Are there any guidelines for posting tasks in Sevak Army?",
+        "title": "Are there any guidelines for posting tasks in SevakArmy?",
         "content": (
             <>
                 Yes, ensure tasks are clearly defined, include specific requirements and provide all necessary information for volunteers. Follow best practices for task posting to attract and retain volunteers.
@@ -348,7 +348,7 @@ const accordionData = [
         "title": "Can we track volunteer engagement over time?",
         "content": (
             <>
-                Yes, Sevak Army’s reporting features allow you to track volunteer engagement over time, including metrics such as participation rates, task completion and overall impact.
+                Yes, SevakArmy’s reporting features allow you to track volunteer engagement over time, including metrics such as participation rates, task completion and overall impact.
             </>
         )
     },
@@ -369,7 +369,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How do we integrate our NGO’s branding into Sevak Army platform?",
+        "title": "How do we integrate our NGO’s branding into SevakArmy platform?",
         "content": (
             <>
                 You can customise your NGO profile page with branding elements such as logos and colour schemes. Contact support for assistance with more advanced branding options.
@@ -377,10 +377,10 @@ const accordionData = [
         )
     },
     {
-        "title": "Can we use Sevak Army for virtual volunteer opportunities?",
+        "title": "Can we use SevakArmy for virtual volunteer opportunities?",
         "content": (
             <>
-                Yes, Sevak Army supports virtual volunteer opportunities. You can post tasks that can be completed remotely and manage virtual engagements through the platform.
+                Yes, SevakArmy supports virtual volunteer opportunities. You can post tasks that can be completed remotely and manage virtual engagements through the platform.
             </>
         )
     },
@@ -409,10 +409,10 @@ const accordionData = [
         )
     },
     {
-        "title": "What resources are available for NGOs to enhance their use of Sevak Army?",
+        "title": "What resources are available for NGOs to enhance their use of SevakArmy?",
         "content": (
             <>
-                Sevak Army offers resources such as tutorials, best practice guides, and a dedicated support team to help NGOs enhance their use of the platform and optimise their volunteer management.
+                SevakArmy offers resources such as tutorials, best practice guides, and a dedicated support team to help NGOs enhance their use of the platform and optimise their volunteer management.
             </>
         )
     },
@@ -420,7 +420,7 @@ const accordionData = [
         "title": "How can we verify the identity of volunteers?",
         "content": (
             <>
-                Sevak Army provides volunteer profiles with verification features. NGOs can review profiles and request additional verification if needed before assigning tasks.
+                SevakArmy provides volunteer profiles with verification features. NGOs can review profiles and request additional verification if needed before assigning tasks.
             </>
         )
     },
@@ -444,7 +444,7 @@ const accordionData = [
         "title": "Can we track volunteer retention rates?",
         "content": (
             <>
-                Yes, Sevak Army’s reporting features allow you to track volunteer retention rates and other engagement metrics. Use this data to assess and improve your volunteer programmes.
+                Yes, SevakArmy’s reporting features allow you to track volunteer retention rates and other engagement metrics. Use this data to assess and improve your volunteer programmes.
             </>
         )
     },
@@ -452,7 +452,7 @@ const accordionData = [
         "title": "How do we promote our NGO’s mission and tasks to a wider audience?",
         "content": (
             <>
-                Promote your NGO’s mission and tasks through social media integration, featured tasks, and by engaging with  Sevak Army community. Utilize marketing and outreach tools available on the platform.
+                Promote your NGO’s mission and tasks through social media integration, featured tasks, and by engaging with  SevakArmy community. Utilize marketing and outreach tools available on the platform.
             </>
         )
     },
@@ -473,10 +473,10 @@ const accordionData = [
         )
     },
     {
-        "title": "Can we use Sevak Army to organise community outreach programs?",
+        "title": "Can we use SevakArmy to organise community outreach programs?",
         "content": (
             <>
-                Yes, Sevak Army is well-suited for organising community outreach programmes. Post relevant tasks, recruit volunteers, and manage the programmes logistics through the platform.
+                Yes, SevakArmy is well-suited for organising community outreach programmes. Post relevant tasks, recruit volunteers, and manage the programmes logistics through the platform.
             </>
         )
     },
@@ -497,7 +497,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How do we handle volunteer training and orientation through Sevak Army?",
+        "title": "How do we handle volunteer training and orientation through SevakArmy?",
         "content": (
             <>
                 You can handle volunteer training and orientation by uploading training materials, scheduling online sessions, and providing clear instructions within the task descriptions or dedicated training sections.
@@ -572,7 +572,7 @@ const accordionData = [
         title: "Can we manage different types of tasks, such as short-term and long-term?",
         content: (
             <>
-                Yes, Sevak Army allows you to manage various types of tasks, including short-term and long-term tasks. Set the duration and requirements accordingly when creating tasks on the platform.
+                Yes, SevakArmy allows you to manage various types of tasks, including short-term and long-term tasks. Set the duration and requirements accordingly when creating tasks on the platform.
             </>
         )
     },
@@ -596,12 +596,12 @@ const accordionData = [
         title: "Can we track the progress of volunteers in real time?",
         content: (
             <>
-                Yes, Sevak Army provides real-time tracking of volunteer progress. Use the task management features to monitor ongoing tasks and view updates from volunteers as they work.
+                Yes, SevakArmy provides real-time tracking of volunteer progress. Use the task management features to monitor ongoing tasks and view updates from volunteers as they work.
             </>
         )
     },
     {
-        title: "How can we use Sevak Army to enhance our NGO’s public visibility?",
+        title: "How can we use SevakArmy to enhance our NGO’s public visibility?",
         content: (
             <>
                 Enhance your NGO’s public visibility by featuring your tasks, sharing success stories and using social media integration to promote your activities and attract more volunteers.
@@ -628,7 +628,7 @@ const accordionData = [
         title: "Can we offer virtual or remote tasks for volunteers in different locations?",
         content: (
             <>
-                Yes, Sevak Army supports virtual and remote tasks. You can post tasks that can be completed online and manage them through the platform, allowing volunteers from various locations to participate.
+                Yes, SevakArmy supports virtual and remote tasks. You can post tasks that can be completed online and manage them through the platform, allowing volunteers from various locations to participate.
             </>
         )
     },
@@ -641,7 +641,7 @@ const accordionData = [
         )
     },
     {
-        title: "Can we manage volunteer recruitment campaigns through Sevak Army?",
+        title: "Can we manage volunteer recruitment campaigns through SevakArmy?",
         content: (
             <>
                 Yes, you can manage volunteer recruitment campaigns by creating targeted tasks, utilising platform tools for outreach and tracking the success of your recruitment efforts.
@@ -704,7 +704,7 @@ const accordionData = [
         "title": "Can we track volunteer progress on a task-by-task basis?",
         "content": (
             <>
-                Yes, Sevak Army allows you to track volunteer progress on a task-by-task basis. Use the
+                Yes, SevakArmy allows you to track volunteer progress on a task-by-task basis. Use the
                 task management tools to view updates and monitor the completion of each individual task.
             </>
         )
@@ -736,7 +736,7 @@ const accordionData = [
         )
     },
     {
-        "title": "Can we set up a volunteer onboarding process through Sevak Army?",
+        "title": "Can we set up a volunteer onboarding process through SevakArmy?",
         "content": (
             <>
                 Yes, you can set up a volunteer onboarding process by providing the necessary information,

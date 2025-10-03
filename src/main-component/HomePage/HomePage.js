@@ -92,50 +92,50 @@ const blogs = [
   {
     id: "1",
     title:
-      "Sevak Army gave me a chance to use my marketing skills to help an NGO. I helped them raise money for their education programme and it felt really good to make a difference.",
+      "SevakArmy gave me a chance to use my marketing skills to help an NGO. I helped them raise money for their education programme and it felt really good to make a difference.",
     slug: "1",
     subtitle:
-      "Neha wanted to use her skills for a good cause. Through Sevak Army, she found an NGO that needed help with fundraising. Using her marketing skills, Neha helped them raise money to support children’s education. It was a fulfilling experience for her.",
+      "Neha wanted to use her skills for a good cause. Through SevakArmy, she found an NGO that needed help with fundraising. Using her marketing skills, Neha helped them raise money to support children’s education. It was a fulfilling experience for her.",
     bsing: blog1,
     athor: "Neha M., Volunteer",
   },
   {
     id: "2",
     title:
-      "Thanks to Sevak Army, my company’s employees engaged in impactful CSR activities, contributing over 1,000 hours and strengthening our community bond.",
+      "Thanks to SevakArmy, my company’s employees engaged in impactful CSR activities, contributing over 1,000 hours and strengthening our community bond.",
     slug: "2",
     subtitle:
-      "Rohit wanted his employees to participate in community service but didn’t know where to start. Sevak Army made it easy for his team to find meaningful activities, resulting in over 1,000 volunteer hours on projects like environmental cleanups and student mentoring.",
+      "Rohit wanted his employees to participate in community service but didn’t know where to start. SevakArmy made it easy for his team to find meaningful activities, resulting in over 1,000 volunteer hours on projects like environmental cleanups and student mentoring.",
     bsing: blog2,
     athor: " Rohit S., Corporate Partner",
   },
   {
     id: "3",
     title:
-      "Sevak Army, through my school, connected me to a tutoring programme where I help kids with their studies. It feels great to make a real difference.",
+      "SevakArmy, through my school, connected me to a tutoring programme where I help kids with their studies. It feels great to make a real difference.",
     slug: "4",
     subtitle:
-      "Priya, a student, wanted to volunteer but wasn’t sure where to start. Through her school’s involvement with Sevak Army, she found a tutoring programme to help underprivileged children. Now, she’s making a positive impact on their education and it’s been a rewarding experience for her.",
+      "Priya, a student, wanted to volunteer but wasn’t sure where to start. Through her school’s involvement with SevakArmy, she found a tutoring programme to help underprivileged children. Now, she’s making a positive impact on their education and it’s been a rewarding experience for her.",
     bsing: blog3,
     athor: "Priya R., Student Volunteer",
   },
   {
     id: "4",
     title:
-      "Sevak Army has been a huge help for our NGO. We found skilled volunteers who helped us finish a big project in half the time!",
+      "SevakArmy has been a huge help for our NGO. We found skilled volunteers who helped us finish a big project in half the time!",
     slug: "3",
     subtitle:
-      "Smita’s NGO needed volunteers with specific skills to complete a project. Through Sevak Army, she found the perfect volunteers. Their help allowed her NGO to complete the project faster than expected, helping more people in the process.",
+      "Smita’s NGO needed volunteers with specific skills to complete a project. Through SevakArmy, she found the perfect volunteers. Their help allowed her NGO to complete the project faster than expected, helping more people in the process.",
     bsing: blog3,
     athor: "Smita G., NGO Coordinator",
   },
   {
     id: "5",
     title:
-      "Sevak Army helped me promote social causes to my followers. It feels amazing to see them join and volunteer for causes that matter.",
+      "SevakArmy helped me promote social causes to my followers. It feels amazing to see them join and volunteer for causes that matter.",
     slug: "5",
     subtitle:
-      "Aditya, an influencer, wanted to use his platform to promote good causes. Through  Sevak Army, he shared volunteer opportunities with his followers. Many of them signed up as volunteers and Aditya was happy to see the positive impact he made through his influence.",
+      "Aditya, an influencer, wanted to use his platform to promote good causes. Through  SevakArmy, he shared volunteer opportunities with his followers. Many of them signed up as volunteers and Aditya was happy to see the positive impact he made through his influence.",
     bsing: blog3,
     athor: "Aditya J., Influencer",
   },
@@ -208,7 +208,7 @@ const Services = [
     
       if (!data) {
         data =  {
-           title: "Page Not Found - Sevak Army",
+           title: "Page Not Found - SevakArmy",
            description: "The page you are looking for does not exist.",
            robots: "noindex, nofollow",
          }
@@ -295,25 +295,25 @@ const Services = [
                       <Image src={abImg2} alt="img" />
                     </div> */}
                     <div className="wpo-about-right pt-0">
-                      {/* <Image width={369} height={527} src={abImg2} alt="Sevak Army - Social Change Impact" /> */}
-                      <Image  height={527} src={whatIsSevak} alt="Sevak Army - Social Change Impact" />
+                      {/* <Image width={369} height={527} src={abImg2} alt="SevakArmy - Social Change Impact" /> */}
+                      <Image  height={527} src={whatIsSevak} alt="SevakArmy - Social Change Impact" />
                     </div>
                   </div>
                 </div>
                 <div className="col-lg-6 col-md-12 col-12">
                   <div className="wpo-about-text mt-3">
                     <div className="wpo-section-title mb-3">
-                      <span>What is Sevak Army?</span>
+                      <span>What is SevakArmy?</span>
                       <h2 className="about-heading-second text-titleeee">
                         Your Platform for Social Change
                       </h2>
                     </div>
                     <p className="volunteer-home-text">
-                      Sevak Army is a platform that connects volunteers with NGOs,
+                      SevakArmy is a platform that connects volunteers with NGOs,
                       offering social work opportunities. Volunteers can register
                       to contribute their time and skills, while NGOs provide
                       meaningful social work opportunities. Companies, schools,
-                      colleges and influencers support Sevak Army by encouraging
+                      colleges and influencers support SevakArmy by encouraging
                       their teams, students and followers respectively to join as
                       volunteers.
                     </p>
@@ -350,7 +350,7 @@ const Services = [
             <div className="col-lg-8 col-md-12 col-12">
               <SectionTitle
                 subtitle="Empowering Volunteers and NGOs to Work Together"
-                title="Sevak Army – Your Solution to Volunteering Challenges"
+                title="SevakArmy – Your Solution to Volunteering Challenges"
               />
             </div>
           </div>
@@ -374,7 +374,7 @@ const Services = [
                           style={{ maxWidth: "100%" }}
                         >
                           Many people want to volunteer but need help finding
-                          tasks that match their skills. Sevak Army connects
+                          tasks that match their skills. SevakArmy connects
                           volunteers with verified NGOs, offering opportunities
                           that align with their interests and availability.
                         </p>
@@ -419,7 +419,7 @@ const Services = [
             <div className="col-lg-6 col-md-12 col-12">
               <SectionTitle
                 subtitle="Transform Your Passion into Action"
-                title="Why Choose Sevak Army?"
+                title="Why Choose SevakArmy?"
               />
             </div>
           </div>
@@ -472,7 +472,7 @@ const Services = [
                       to="https://app.sevakarmy.com/" target="_blank"
                       className="theme-btn"
                     >
-                      Start Your Journey with Sevak Army Now
+                      Start Your Journey with SevakArmy Now
                     </Link>
                   </div>
                 </div>
@@ -842,7 +842,7 @@ const Services = [
                   <div className="col-lg-8">
                     <div className="cta-wrap">
                       <p style={{ color: "whitesmoke", fontSize: '26px' }} className="text-center mt-2">
-                        Every hour you contribute sparks transformation. Join Sevak Army and be part of a community creating positive change across India.
+                        Every hour you contribute sparks transformation. Join SevakArmy and be part of a community creating positive change across India.
                       </p>
                       <Link
                         to="https://app.sevakarmy.com/" target="_blank"
@@ -868,7 +868,7 @@ const Services = [
                 <div className="col-lg-6 col-md-12 col-12">
                   <div className="wpo-about-text p-3 pt-md-3 pt-0 mt-0">
                     <div className="wpo-section-title mt-0">
-                      <span>Stay Connected with Sevak Army</span>
+                      <span>Stay Connected with SevakArmy</span>
                       <h2 className="about-heading-second text-titleeee w-100">
                         Join Our Volunteer Community Newsletter{" "}
                       </h2>
@@ -878,12 +878,12 @@ const Services = [
                       stories, volunteer highlights, updates on social impact,
                       and tips on making the most of your service. Stay informed
                       about the amazing work being done and how you can stay
-                      engaged with Sevak Army.
+                      engaged with SevakArmy.
                     </p>
                     <h3>Keep the Spirit Alive!</h3>
                     <p>
                       Subscribe now to stay updated with all the latest news and
-                      inspiration from Sevak Army.
+                      inspiration from SevakArmy.
                     </p>
                     <div>
                       <button
@@ -900,7 +900,7 @@ const Services = [
                 <div className="col-lg-6 col-md-12 col-12">
                   <div className="wpo-about-img">
                     <div className="wpo-about-right pt-3 pt-lg-5">
-                      <Image src={Newsletter} width={440} alt="Stay Connected with Community - Sevak Army" />
+                      <Image src={Newsletter} width={440} alt="Stay Connected with Community - SevakArmy" />
                     </div>
                   </div>
                 </div>

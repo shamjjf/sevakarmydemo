@@ -53,7 +53,7 @@ const Header = (props) => {
                         ClickHandler();
                       }}
                     >
-                      <Image src={props.Logo} width={70} height={78} alt="Sevak Army Logo" />
+                      <Image src={props.Logo} width={70} height={78} alt="SevakArmy Logo" />
                     </Link>
                   </div>
                 </div>

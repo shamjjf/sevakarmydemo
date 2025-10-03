@@ -24,7 +24,7 @@ function VolunteerAboutUsPage() {
       iconClass: "flaticon-volunteer",
       title: "Our Mission",
       img: About2,
-      alt: 'Our Misson Sevak Army',
+      alt: 'Our Misson SevakArmy',
       description:
         "To connect people with meaningful volunteer opportunities, helping them contribute their skills to causes they care about. We want to make volunteering easy so everyone can take part and feel the joy of giving back.",
     },
@@ -32,7 +32,7 @@ function VolunteerAboutUsPage() {
       iconClass: "flaticon-solidarity",
       title: "Our Vision",
       img: About3,
-      alt: 'Our Vision - Sevak Army',
+      alt: 'Our Vision - SevakArmy',
       description:
         "To build a stronger, more connected society by reaching over 2 million hours of volunteer work across India by 2025. We believe that we can help transform lives and communities for the better through volunteerism.",
     },
@@ -86,7 +86,7 @@ function VolunteerAboutUsPage() {
               <div className="w-100 wpoimg">
                 <div className="wpo-about-img">
                   <div className="bg-image">
-                    <Image src={StrongCommunity} alt="Making Communities Stronger, Together Sevak Army" style={{ objectFit: 'contain', height:'fit-content' }} />
+                    <Image src={StrongCommunity} alt="Making Communities Stronger, Together SevakArmy" style={{ objectFit: 'contain', height:'fit-content' }} />
                   </div>
                 </div>
               </div>
@@ -98,14 +98,14 @@ function VolunteerAboutUsPage() {
                     </h2>
                   </div>
                   <p className="volunteer-home-text mb-1">
-                    At Sevak Army, we bring people together to help create
+                    At SevakArmy, we bring people together to help create
                     positive change in communities across India. Our platform
                     connects volunteers like you with trusted NGOs, offering a
                     simple way to give back to society using your time and
                     skills.
                   </p>
                   <p className="volunteer-home-text">  Whether you&apos;re a student, working professional or retiree,
-                    Sevak Army makes it easy for everyone to find volunteer
+                    SevakArmy makes it easy for everyone to find volunteer
                     tasks that fit their interests and schedule. From teaching
                     and organising events to supporting causes like education,
                     healthcare and the environment, there’s a way for everyone

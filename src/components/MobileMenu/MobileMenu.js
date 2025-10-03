@@ -38,7 +38,7 @@ const menus = [
       { id: 84, title: "Benefits", link: "/influencer/benefits" },
       { id: 86, title: "Leaderboard", link: "/influencer/leaderboard" },
       { id: 87, title: "Recognition Events", link: "/influencer/recognition-events" },
-      { id: 88, title: "Join Sevak Army", link: "/influencer/join-sevak-army" },
+      { id: 88, title: "Join SevakArmy", link: "/influencer/join-sevak-army" },
       { id: 89, title: "FAQ", link: "/influencer/faqs" },
     ],
   },

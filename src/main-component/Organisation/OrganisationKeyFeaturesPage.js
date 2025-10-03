@@ -28,7 +28,7 @@ const Services = [
         title: "A Simple Way to Achieve Your CSR Goals",
         slug: "1",
         description:
-            "Sevak Army empowers organisations to make a meaningful difference in society by encouraging their employees to register as volunteers for impactful social work. Our platform provides you with features that will align with your organisational CSR goal.",
+            "SevakArmy empowers organisations to make a meaningful difference in society by encouraging their employees to register as volunteers for impactful social work. Our platform provides you with features that will align with your organisational CSR goal.",
     },
     {
         Id: "02",
@@ -37,7 +37,7 @@ const Services = [
         title: "Empower Your Employees",
         slug: "2",
         description:
-            "Sevak Army makes it easy for organisations to empower their employees to give back to society. By registering on our platform organisations can encourage employees to engage in social tasks that align with their Corporate Social Responsibility (CSR) goals.",
+            "SevakArmy makes it easy for organisations to empower their employees to give back to society. By registering on our platform organisations can encourage employees to engage in social tasks that align with their Corporate Social Responsibility (CSR) goals.",
     },
     {
         Id: "03",
@@ -46,7 +46,7 @@ const Services = [
         title: "Simple Registration Process",
         slug: "3",
         description:
-            "Organisations can quickly register on Sevak Army portal. After registration, organisations can share referral links with their employees, making it easy for them to join the platform and participate in meaningful volunteer activities.",
+            "Organisations can quickly register on SevakArmy portal. After registration, organisations can share referral links with their employees, making it easy for them to join the platform and participate in meaningful volunteer activities.",
     },
     {
         Id: "04",
@@ -64,7 +64,7 @@ const Services = [
         title: "Tracking and Reporting",
         slug: "4",
         description:
-            "Sevak Army provides comprehensive tracking tools that allow organisations to monitor employee engagement and volunteer hours. Organisations can generate reports to measure the impact of their CSR efforts and celebrate their collective achievements.",
+            "SevakArmy provides comprehensive tracking tools that allow organisations to monitor employee engagement and volunteer hours. Organisations can generate reports to measure the impact of their CSR efforts and celebrate their collective achievements.",
     },
     {
         Id: "06",
@@ -124,16 +124,16 @@ const OrganisationKeyFeaturesPage = (props) => {
                     <div className="col-lg-6 col-md-12 col-12">
                         <SectionTitle
                             subtitle=""
-                            title="Key Features of Sevak Army Organisation"
-                            paragarap="Here’s What Makes Sevak Army the Ideal Platform for Organisations:"
+                            title="Key Features of SevakArmy Organisation"
+                            paragarap="Here’s What Makes SevakArmy the Ideal Platform for Organisations:"
                         />
-                        {/* <h4 className="text-center">As an influencer on Sevak Army, you have the unique opportunity to inspire your followers to volunteer and make a real impact. Our platform is designed to make this process seamless, rewarding and impactful for you and your followers.</h4> */}
+                        {/* <h4 className="text-center">As an influencer on SevakArmy, you have the unique opportunity to inspire your followers to volunteer and make a real impact. Our platform is designed to make this process seamless, rewarding and impactful for you and your followers.</h4> */}
                     </div>
                 </div>
                 <div className="service-wrap mt-3">
 
                     {/* <p className="w-100 text-center pb-3">
-                        Here’s what makes Sevak Army the ideal platform for Organisations
+                        Here’s what makes SevakArmy the ideal platform for Organisations
                     </p> */}
                     <div className="row justify-content-center  align-items-stretch gy-4">
                         {Services.slice(0, 10).map((Service, sitem) => (
@@ -169,7 +169,7 @@ const OrganisationKeyFeaturesPage = (props) => {
                                             className="text-center pt-2 px-2"
                                             style={{ textAlign: "justify", color: "white" }}
                                         >
-                                            Join Sevak Army today and let’s build a better future, together.
+                                            Join SevakArmy today and let’s build a better future, together.
                                         </p>
                                         <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
                                             <Link

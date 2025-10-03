@@ -269,7 +269,7 @@ const NgoLoginRegister = (props) => {
                         <a href="mailto:donor.support@sevakarmy.org"> Email Donor Support </a>
                         if you encounter any issues or require help with receipts or donation history.
                       </p>
-                      <p>Ready to make an impact? Join Sevak Army today . Let’s make a difference together!</p>
+                      <p>Ready to make an impact? Join SevakArmy today . Let’s make a difference together!</p>
                       <Link
                         onClick={ClickHandler}
                         to="/register"

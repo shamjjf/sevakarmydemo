@@ -74,7 +74,7 @@ const SchoolCollegeRecognitionEventsPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3 pt-lg-5">
-                    <Image width={580} src={LeaderboardWorking} alt="Celebrate Achievements & recognise contribution with Sevak Army" />
+                    <Image width={580} src={LeaderboardWorking} alt="Celebrate Achievements & recognise contribution with SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -91,10 +91,10 @@ const SchoolCollegeRecognitionEventsPage = (props) => {
                     {/* </div> */}
                   </div>
                   {/* <h3 className="mt-0">
-                    How Sevak Army Influencer Leaderboard Works?
+                    How SevakArmy Influencer Leaderboard Works?
                   </h3> */}
                   <p style={{ textAlign: "justify" }}>
-                    At Sevak Army, we proudly recognise the dedication and hard
+                    At SevakArmy, we proudly recognise the dedication and hard
                     work of student volunteers from schools and colleges. To
                     honour their efforts, we organise Volunteer Recognition
                     Events to highlight the most active participants, present
@@ -114,8 +114,8 @@ const SchoolCollegeRecognitionEventsPage = (props) => {
             <SectionTitle
               subtitle="Celebrate Contributions"
               title="Recognition and Awards"
-              paragarap="Volunteers who rank high on our Leaderboard or consistently
-                contribute their time and efforts are invited to our Sevak Army
+              paragarap="Volunteers who rank highly on our Leaderboard or consistently
+                contribute their time and efforts are invited to our SevakArmy
                 Recognition Events. At these events, we"
             />
           </div>
@@ -176,7 +176,7 @@ const SchoolCollegeRecognitionEventsPage = (props) => {
               <div className="wpo-about-img d-flex w-100 justify-content-center">
                 <div className="wpo-about-right">
                   {/* <Image src={abImg7} alt="img" /> */}
-                  <Image src={Networking} width={404} alt="Networking & Community Building Sevak Army" />
+                  <Image src={Networking} width={404} alt="Networking & Community Building SevakArmy" />
                 </div>
               </div>
             </div>
@@ -199,7 +199,7 @@ const SchoolCollegeRecognitionEventsPage = (props) => {
               <div className="wpo-about-text p-3 mt-0 pb-1 pb-lg-2 pt-1 pt-lg-2">
                 {/* <div className="wpo-section-title mt-0 mb-5">
                                         <span>Become a Volunteer</span>
-                                        <h2 className="about-heading-second">Join Sevak Army: Your Path to Make a Difference</h2>
+                                        <h2 className="about-heading-second">Join SevakArmy: Your Path to Make a Difference</h2>
                                     </div> */}
                 <div className="custom-panell">
                   <h3>Be Part of the Celebration</h3>
@@ -225,12 +225,12 @@ const SchoolCollegeRecognitionEventsPage = (props) => {
               <div className="row justify-content-center">
                 <div className="col-lg-8">
                   <div className="cta-wrap">
-                    <h2 className="mb-2">Join Sevak Army and Start Making a Difference</h2>
+                    <h2 className="mb-2">Join SevakArmy and Start Making a Difference</h2>
                     <p
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
                     >
-                      Volunteer through Sevak Army today and you could be among
+                      Volunteer through SevakArmy today and you could be among
                       those honoured for your contributions at our next event.
                       Your efforts deserve to be recognised and celebrated!
                     </p>

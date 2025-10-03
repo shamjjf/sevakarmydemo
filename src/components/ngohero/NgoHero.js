@@ -26,7 +26,7 @@ function NgoHero(props) {
               </div>
               <div className="slide-text">
                 <p style={{ maxWidth: '100%' }}>
-                  Sevak Army brings NGOs and volunteers together to create
+                  SevakArmy brings NGOs and volunteers together to create
                   positive changes. Our platform helps NGOs find dedicated volunteers who want to use their skills to support social causes,
                   building a strong network to make a meaningful impact on
                   communities.
@@ -39,7 +39,7 @@ function NgoHero(props) {
                 style={{ marginTop: "30px" }}
               >
                 <div className="slide-video-img">
-                  <Image src={Videobg} width={151} height={151} alt="Volunteers for NGO - Sevak Army" />
+                  <Image src={Videobg} width={151} height={151} alt="Volunteers for NGO - SevakArmy" />
                 </div>
                 <div className="slide-video-text">
                   <h4 className="slide-video-text-show">
@@ -61,7 +61,7 @@ function NgoHero(props) {
               </div>
               <div className="charius-pic image-positionnnn pt-0 pt-md-3">
                 <div className="charius-pic-main">
-                  <Image src={Image1} width={700} height={"auto"} style={{ height: 'fit-content' }} alt="Volunteering with Sevak Army made easy" />
+                  <Image src={Image1} width={700} height={"auto"} style={{ height: 'fit-content' }} alt="Volunteering with SevakArmy made easy" />
                 </div>
                 {/* <div className="charius-inner">
                   <Image src={Image2} alt="img" />

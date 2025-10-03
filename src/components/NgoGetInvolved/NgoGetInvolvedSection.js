@@ -37,7 +37,7 @@ function NgoGetInvolvedSection() {
       title: "Project Collaboration",
       slug: "2",
       description:
-        "Engage in collaborative projects that leverage the strengths of both Sevak Army and your NGO. Whether it’s a community health campaign, an educational initiative or an environmental conservation effort, working together can amplify your impact and reach more beneficiaries.",
+        "Engage in collaborative projects that leverage the strengths of both SevakArmy and your NGO. Whether it’s a community health campaign, an educational initiative or an environmental conservation effort, working together can amplify your impact and reach more beneficiaries.",
     },
     {
       Id: "03",
@@ -46,7 +46,7 @@ function NgoGetInvolvedSection() {
       title: "Resource Sharing",
       slug: "3",
       description:
-        "Access a wide-ranging network of resources, including volunteer support, funding opportunities and specialized training workshops. By partnering with Sevak Army, you can tap into a wealth of valuable resources to further enhance your NGO’s capabilities and effectiveness.",
+        "Access a wide-ranging network of resources, including volunteer support, funding opportunities and specialized training workshops. By partnering with SevakArmy, you can tap into a wealth of valuable resources to further enhance your NGO’s capabilities and effectiveness.",
     },
     {
       Id: "04",
@@ -85,7 +85,7 @@ function NgoGetInvolvedSection() {
       title: "Start Collaborating",
       slug: "3",
       description:
-        "Begin working with Sevak Army on joint projects, resource-sharing initiatives and capacity-building programmes. Our partnership will involve coordination to maximise impact and achieve shared goals.",
+        "Begin working with SevakArmy on joint projects, resource-sharing initiatives and capacity-building programmes. Our partnership will involve coordination to maximise impact and achieve shared goals.",
     },
     {
       Id: "04",
@@ -107,7 +107,7 @@ function NgoGetInvolvedSection() {
       howItWorks:
         "NGOs can list their projects on the platform and donors can contribute directly through JJFIndia, ensuring the funds go where they are needed most.",
       description:
-        "As an NGO partner, you can access one-time donations through Sevak Army to support specific projects and initiatives. These funds are directed towards urgent needs, providing critical services, resources and long-term solutions.",
+        "As an NGO partner, you can access one-time donations through SevakArmy to support specific projects and initiatives. These funds are directed towards urgent needs, providing critical services, resources and long-term solutions.",
     },
     {
       Id: "02",
@@ -118,7 +118,7 @@ function NgoGetInvolvedSection() {
       howItWorks:
         "NGOs can set up recurring funding options, enabling donors to contribute monthly through JJFIndia for sustained support and project development.",
       description:
-        "Secure ongoing support through Sevak Army’s monthly contribution system, helping you maintain and expand long-term projects. These regular donations ensure stability and allow for better project planning and execution.",
+        "Secure ongoing support through SevakArmy’s monthly contribution system, helping you maintain and expand long-term projects. These regular donations ensure stability and allow for better project planning and execution.",
     },
     {
       Id: "03",
@@ -127,9 +127,9 @@ function NgoGetInvolvedSection() {
       title: "Fundraising Campaigns to Boost Visibility",
       slug: "3",
       howItWorks:
-        "Partner NGOs can create campaigns and Sevak Army will help you promote them, with all funds processed securely through JJFIndia.",
+        "Partner NGOs can create campaigns and SevakArmy will help you promote them, with all funds processed securely through JJFIndia.",
       description:
-        "Organise or participate in fundraising campaigns hosted by Sevak Army to raise awareness and generate additional resources for your NGO. These campaigns provide greater exposure and community engagement.",
+        "Organise or participate in fundraising campaigns hosted by SevakArmy to raise awareness and generate additional resources for your NGO. These campaigns provide greater exposure and community engagement.",
     },
   ];
   return (
@@ -140,7 +140,7 @@ function NgoGetInvolvedSection() {
             <SectionTitle subtitle="Get Involved (Services)" title="Programmes for NGOs" />
           </div>
           <p className="mt-0 pt-0 text-center">
-            At Sevak Army, we are committed to fostering partnerships with NGOs to amplify our collective impact. Our
+            At SevakArmy, we are committed to fostering partnerships with NGOs to amplify our collective impact. Our
             collaborative programmes are designed to support NGOs in advancing their missions and achieving their goals.
             By joining forces with us, your organisation can benefit from enhanced resources, expanded reach and
             increased effectiveness in delivering social impact.
@@ -168,7 +168,7 @@ function NgoGetInvolvedSection() {
             <SectionTitle title="How to Join?"/>
           </div>
           <p className="mt-0 pt-0 fw-bolder text-center">
-            Becoming a partner NGO with Sevak Army is a straightforward process. We welcome NGOs of all sizes and
+            Becoming a partner NGO with SevakArmy is a straightforward process. We welcome NGOs of all sizes and
             sectors to collaborate to create positive change. Here’s how you can get involved:
           </p>
         </div>
@@ -195,15 +195,15 @@ function NgoGetInvolvedSection() {
       {/* Ngo Benifits */}
       <NgoBenifits />
 
-      {/* Partner with Sevak Army: Empower Change Together */}
+      {/* Partner with SevakArmy: Empower Change Together */}
       <div className="container section-padding">
         <div className="row justify-content-center mb-3 ">
           <div className="col-lg-6 col-md-12 col-12">
-            <SectionTitle title=" Empower Change Together" subtitle="Partner with Sevak Army" />
+            <SectionTitle title=" Empower Change Together" subtitle="Partner with SevakArmy" />
           </div>
           <p className="mt-0 pt-0 fw-bolder text-center">
-            Sevak Army offers a unique platform for NGOs to connect with passionate volunteers and secure essential
-            resources to amplify their impact. All donations to Sevak Army’s initiatives are handled via JJFIndia,
+            SevakArmy offers a unique platform for NGOs to connect with passionate volunteers and secure essential
+            resources to amplify their impact. All donations to SevakArmy’s initiatives are handled via JJFIndia,
             ensuring secure and transparent contributions to support your mission.
           </p>
         </div>
@@ -243,7 +243,7 @@ function NgoGetInvolvedSection() {
             ))}
           </div>
           <p className="fs-6 fw-bold ms-2 text-center">
-            By partnering with Sevak Army, NGOs gain access to a broader network of volunteers, funding opportunities
+            By partnering with SevakArmy, NGOs gain access to a broader network of volunteers, funding opportunities
             and project management support. Together, we can drive meaningful, long-lasting change in communities across
             India.
           </p>

@@ -91,7 +91,7 @@ const SchoolCollegeHome = ({props, path}) => {
       title: "Regular Updated Opportunities",
       slug: "1",
       description:
-        "Sevak Army frequently updates the platform with new volunteer tasks and projects, offering students from schools and colleges fresh opportunities to get involved and make a difference in the communities.",
+        "SevakArmy frequently updates the platform with new volunteer tasks and projects, offering students from schools and colleges fresh opportunities to get involved and make a difference in the communities.",
     },
     {
       Id: "02",
@@ -100,7 +100,7 @@ const SchoolCollegeHome = ({props, path}) => {
       title: "Gain Real-World Experience",
       slug: "2",
       description:
-        "Sevak Army allows students to participate in hands-on projects that directly benefit communities. These experiences help build essential skills like teamwork, leadership and problem-solving.",
+        "SevakArmy allows students to participate in hands-on projects that directly benefit communities. These experiences help build essential skills like teamwork, leadership and problem-solving.",
     },
     {
       Id: "03",
@@ -121,7 +121,7 @@ const SchoolCollegeHome = ({props, path}) => {
       title: "Inspire to Serve",
       slug: "1",
       description:
-        "Sevak Army offers schools and colleges a platform to inspire students to volunteer for impactful causes, encouraging a commitment to social service and community welfare.",
+        "SevakArmy offers schools and colleges a platform to inspire students to volunteer for impactful causes, encouraging a commitment to social service and community welfare.",
     },
     {
       Id: "02",
@@ -150,7 +150,7 @@ const SchoolCollegeHome = ({props, path}) => {
       title: "Support Meaningful Causes",
       slug: "3",
       description:
-        "By promoting Sevak Army, your institution helps students participate in causes like education, healthcare, and environmental sustainability, fostering a sense of responsibility and empathy.",
+        "By promoting SevakArmy, your institution helps students participate in causes like education, healthcare, and environmental sustainability, fostering a sense of responsibility and empathy.",
     },
     {
       Id: "05",
@@ -159,7 +159,7 @@ const SchoolCollegeHome = ({props, path}) => {
       title: "Recognise Efforts",
       slug: "4",
       description:
-        "Through Sevak Army’s leaderboard and achievement system, students and your institute are recognised for their contributions, motivating them to stay engaged and celebrate their impact on society.",
+        "Through SevakArmy’s leaderboard and achievement system, students and your institute are recognised for their contributions, motivating them to stay engaged and celebrate their impact on society.",
     },
   ];
 
@@ -169,7 +169,7 @@ const SchoolCollegeHome = ({props, path}) => {
       title: "Cultivating Empathy and Responsibility",
       slug: "1",
       subtitle:
-        "We believe that education goes beyond the classroom. When we registered at Sevak Army, we found the perfect way to introduce our students to the importance of community service. Our students volunteered with NGOs that needed help with various tasks, including organising charity events, assisting in local environmental projects and many more. The impact on the students was remarkable. They learned valuable life lessons in empathy, teamwork and responsibility while earning digital certificates that acknowledged their efforts. Watching them grow through these experiences made us proud and we know this involvement with Sevak Army will shape them into compassionate and socially responsible individuals.",
+        "We believe that education goes beyond the classroom. When we registered at SevakArmy, we found the perfect way to introduce our students to the importance of community service. Our students volunteered with NGOs that needed help with various tasks, including organising charity events, assisting in local environmental projects and many more. The impact on the students was remarkable. They learned valuable life lessons in empathy, teamwork and responsibility while earning digital certificates that acknowledged their efforts. Watching them grow through these experiences made us proud and we know this involvement with SevakArmy will shape them into compassionate and socially responsible individuals.",
       bsing: blog1,
       athor: "Principal",
     },
@@ -178,7 +178,7 @@ const SchoolCollegeHome = ({props, path}) => {
       title: "Learning Through Service",
       slug: "2",
       subtitle:
-        "We always encourage students to engage in extracurricular activities, but registering with Sevak Army took it to the next level. Our students participated in a range of volunteering tasks, from teaching underprivileged children to organising fundraisers for local NGOs. Sevak Army connected us with NGOs needing support, allowing students to dedicate their time and energy to meaningful causes. Our students gained valuable leadership and teamwork skills through these experiences and many reflected on how much they learned about themselves and the importance of community service. Sevak Army provides a platform that not only benefits society but also nurtures personal growth in our students.",
+        "We always encourage students to engage in extracurricular activities, but registering with SevakArmy took it to the next level. Our students participated in a range of volunteering tasks, from teaching underprivileged children to organising fundraisers for local NGOs. SevakArmy connected us with NGOs needing support, allowing students to dedicate their time and energy to meaningful causes. Our students gained valuable leadership and teamwork skills through these experiences and many reflected on how much they learned about themselves and the importance of community service. SevakArmy provides a platform that not only benefits society but also nurtures personal growth in our students.",
       bsing: blog2,
       athor: "Coordinator",
     },
@@ -187,7 +187,7 @@ const SchoolCollegeHome = ({props, path}) => {
       title: "Building Future Leaders Through Social Impact",
       slug: "4",
       subtitle:
-        <>We strive to create future leaders who excel academically and understand the value of social responsibility. Registering with Sevak Army gave our college students the opportunity to participate in impactful volunteer projects, such as assisting in health camps and awareness campaigns with local NGOs. <br /> Through these experiences, students developed organisational and communication skills while engaging in community service. The certificates they received were a meaningful recognition of their contributions. Sevak Army helped our students grow as socially conscious individuals, prepared to make a difference in society.</>,
+        <>We strive to create future leaders who excel academically and understand the value of social responsibility. Registering with SevakArmy gave our college students the opportunity to participate in impactful volunteer projects, such as assisting in health camps and awareness campaigns with local NGOs. <br /> Through these experiences, students developed organisational and communication skills while engaging in community service. The certificates they received were a meaningful recognition of their contributions. SevakArmy helped our students grow as socially conscious individuals, prepared to make a difference in society.</>,
       bsing: blog3,
       athor: "Dean",
     },
@@ -196,7 +196,7 @@ const SchoolCollegeHome = ({props, path}) => {
       title: "Encouraging Volunteerism for Personal Growth",
       slug: "5",
       subtitle:
-        "We have always encouraged our students to be active members of society and Sevak Army helped us make this vision a reality. Our students volunteered with various NGOs, supporting causes like educational programmes for children and community welfare projects. Many students shared that volunteering with Sevak Army increased their empathy and awareness of social issues. The certificates they earned were a valuable recognition of their dedication and we’re proud to have fostered a strong spirit of volunteerism at our college.",
+        "We have always encouraged our students to be active members of society and SevakArmy helped us make this vision a reality. Our students volunteered with various NGOs, supporting causes like educational programmes for children and community welfare projects. Many students shared that volunteering with SevakArmy increased their empathy and awareness of social issues. The certificates they earned were a valuable recognition of their dedication and we’re proud to have fostered a strong spirit of volunteerism at our college.",
       bsing: blog3,
       athor: "Faculty Advisor",
     },
@@ -205,7 +205,7 @@ const SchoolCollegeHome = ({props, path}) => {
     //   title: "Instilling the Value of Seva in Young Minds",
     //   slug: "3",
     //   subtitle:
-    //     "When we registered with Sevak Army, we aimed to go beyond academics and instil in our students the value of ‘seva’ or selfless service. Through the platform, our students engaged in meaningful volunteer tasks, such as food distribution drives and environmental clean-up activities in collaboration with local NGOs. The experience was impactful, as students developed a sense of gratitude, learned the importance of humility and felt empowered by their ability to contribute to society. The certificates they received recognised their efforts and the positive impact on their character was evident. Sevak Army has strengthened our school’s commitment to holistic education.",
+    //     "When we registered with SevakArmy, we aimed to go beyond academics and instil in our students the value of ‘seva’ or selfless service. Through the platform, our students engaged in meaningful volunteer tasks, such as food distribution drives and environmental clean-up activities in collaboration with local NGOs. The experience was impactful, as students developed a sense of gratitude, learned the importance of humility and felt empowered by their ability to contribute to society. The certificates they received recognised their efforts and the positive impact on their character was evident. SevakArmy has strengthened our school’s commitment to holistic education.",
     //   bsing: blog3,
     //   athor: "Vice Principal",
     // },
@@ -235,7 +235,7 @@ const SchoolCollegeHome = ({props, path}) => {
       title: "Student Engagement",
       img: Img2,
       description:
-        "Inspire students to join meaningful community service projects through Sevak Army.",
+        "Inspire students to join meaningful community service projects through SevakArmy.",
     },
     {
       iconClass: "flaticon-charity",
@@ -257,7 +257,7 @@ const SchoolCollegeHome = ({props, path}) => {
     
       if (!data) {
         data =  {
-           title: "Page Not Found - Sevak Army",
+           title: "Page Not Found - SevakArmy",
            description: "The page you are looking for does not exist.",
            robots: "noindex, nofollow",
          }
@@ -448,10 +448,10 @@ const SchoolCollegeHome = ({props, path}) => {
                 <div className="pt-4">
                   <div className="wpo-about-text mt-0">
                     <div className="wpo-section-title mt-0">
-                      {/* <span>Welcome to Sevak Army!</span> */}
+                      {/* <span>Welcome to SevakArmy!</span> */}
                       <h2 className="about-heading-third text-titleeee mt-0">
                         {" "}
-                        Join Sevak Army{" "}
+                        Join SevakArmy{" "}
                       </h2>
                     </div>
                     <p>
@@ -460,13 +460,13 @@ const SchoolCollegeHome = ({props, path}) => {
                       Army.{" "}
                     </p>
                     <p>
-                      <b>Guide Students:</b> Join Sevak Army today to guide your
+                      <b>Guide Students:</b> Join SevakArmy today to guide your
                       students towards meaningful volunteer opportunities and
                       real-world experiences.{" "}
                     </p>
                     <p>
                       <b>Leadership Path:</b> Help students take the lead in
-                      serving our communities through Sevak Army's volunteer
+                      serving our communities through SevakArmy's volunteer
                       platform.
                     </p>
                   </div>
@@ -474,7 +474,7 @@ const SchoolCollegeHome = ({props, path}) => {
                 <div className="col-lg-6 col-md-12 col-12">
                   <div className="wpo-about-img">
                     <div className="wpo-about-right pt-0">
-                      <Image src={abImg4} width={480} height={480} alt="Sevak Army - Engage students to drive change" />
+                      <Image src={abImg4} width={480} height={480} alt="SevakArmy - Engage students to drive change" />
                     </div>
                   </div>
                 </div>
@@ -524,7 +524,7 @@ const SchoolCollegeHome = ({props, path}) => {
           <div className="row justify-content-center">
             <div className="col-lg-6 col-md-12 col-12">
               <SectionTitle
-                subtitle="Why Join Sevak Army?"
+                subtitle="Why Join SevakArmy?"
                 title="Create a Spirit of Service in Students"
               />
             </div>
@@ -630,7 +630,7 @@ const SchoolCollegeHome = ({props, path}) => {
           </div>
           <div className="w-100 d-flex justify-content-center mt-4">
             <p className="fs-3 mt-0">
-              <b>Join the Platform</b>: Register your Institution with Sevak Army!
+              <b>Join the Platform</b>: Register your Institution with SevakArmy!
             </p>
           </div>
         </div>
@@ -646,13 +646,13 @@ const SchoolCollegeHome = ({props, path}) => {
                 subtitle=""
                 title="Our Gallery"
                 paragarap="Explore our gallery to witness the inspiring efforts of the
-                students as volunteers of Sevak Army."
+                students as volunteers of SevakArmy."
               />
 
               {/* <h2 className="about-heading-third">Our Gallery</h2>
               <p className="text-center">
                 Explore our gallery to witness the inspiring efforts of the
-                students as volunteers of Sevak Army.
+                students as volunteers of SevakArmy.
               </p> */}
             </div>
             <div className="row">
@@ -723,7 +723,7 @@ const SchoolCollegeHome = ({props, path}) => {
                       Register for our newsletter to receive updates on impactful
                       volunteer opportunities for students and tips on creating
                       positive change. Empower your students to get involved and
-                      make a difference with Sevak Army.
+                      make a difference with SevakArmy.
                     </p>
                     <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
                       <button

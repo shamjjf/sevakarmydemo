@@ -127,7 +127,7 @@ const InfluencerContact = () => {
                     <h2 className="text-titleeee">We're Happy to Connect with you</h2>
                   </div>
                   <p>
-                    At Sevak Army Influencer, we are committed to making a difference and welcome any inquiries or
+                    At SevakArmy Influencer, we are committed to making a difference and welcome any inquiries or
                     outreach. We'd love to hear from you whether you want to collaborate, learn more about our
                     initiatives or have questions. Here's how you can get in touch with us.
                   </p>

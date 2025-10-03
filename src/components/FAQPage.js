@@ -7,10 +7,10 @@ import Logo from '../../public/assets/images/logo.svg'
 
 const accordionData = [
     {
-        title: "How do I register for  Sevak Army?",
+        title: "How do I register for  SevakArmy?",
         content: (
             <>
-                To register for  Sevak Army, click the <strong>'Register'</strong> button on the homepage. Enter your details such as name, email address and password, then click <strong>'Register'</strong>. You'll receive a confirmation email to verify your account.
+                To register for  SevakArmy, click the <strong>'Register'</strong> button on the homepage. Enter your details such as name, email address and password, then click <strong>'Register'</strong>. You'll receive a confirmation email to verify your account.
             </>
         )
     },
@@ -22,7 +22,7 @@ const accordionData = [
         )
     },
     {
-        title: "How do I log into my Sevak Army account?",
+        title: "How do I log into my SevakArmy account?",
         content: (
             <>
                 Go to the homepage and click on <strong>'Login'</strong>. Enter your registered email address and password, then click <strong>'Submit'</strong>.
@@ -54,7 +54,7 @@ const accordionData = [
         )
     },
     {
-        title: "Can I delete my Sevak Army account?",
+        title: "Can I delete my SevakArmy account?",
         content: (
             <>
                 Yes, you can. Go to your <strong>'Account Settings'</strong> and click <strong>'Delete Account'</strong>. Keep in mind that this action is irreversible.
@@ -81,7 +81,7 @@ const accordionData = [
         title: "Why do I need to verify my email address?",
         content: (
             <>
-                Email verification ensures the security of your account and allows us to send you important notifications regarding your activity in  Sevak Army.
+                Email verification ensures the security of your account and allows us to send you important notifications regarding your activity in  SevakArmy.
             </>
         )
     },
@@ -89,7 +89,7 @@ const accordionData = [
         title: "Can I use my social media accounts to register?",
         content: (
             <>
-                Yes,  Sevak Army supports signup and login via Google and Facebook accounts.
+                Yes,  SevakArmy supports signup and login via Google and Facebook accounts.
             </>
         )
     },
@@ -102,7 +102,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How do I log out of my Sevak Army account?",
+        "title": "How do I log out of my SevakArmy account?",
         "content": (
             <>
                 Click on your profile icon in the top-right corner of the dashboard and select <strong>'Logout'</strong> from the dropdown menu.
@@ -121,7 +121,7 @@ const accordionData = [
         "title": "Can I register with a work email?",
         "content": (
             <>
-                Yes, you can use any valid email address to register for  Sevak Army.
+                Yes, you can use any valid email address to register for  SevakArmy.
             </>
         )
     },
@@ -134,7 +134,7 @@ const accordionData = [
         )
     },
     {
-        "title": "Can I have multiple accounts in  Sevak Army?",
+        "title": "Can I have multiple accounts in  SevakArmy?",
         "content": (
             <>
                 No, each individual is allowed to register only one account.
@@ -166,10 +166,10 @@ const accordionData = [
         )
     },
     {
-        "title": "Is my data safe with  Sevak Army?",
+        "title": "Is my data safe with  SevakArmy?",
         "content": (
             <>
-                Yes,  Sevak Army uses advanced encryption methods to ensure that your personal and NGO information is secure.
+                Yes,  SevakArmy uses advanced encryption methods to ensure that your personal and NGO information is secure.
             </>
         )
     },
@@ -190,7 +190,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How do I access my past activities in  Sevak Army?",
+        "title": "How do I access my past activities in  SevakArmy?",
         "content": (
             <>
                 Go to the <strong>'My Activities'</strong> section in the dashboard to view your past tasks and contributions.
@@ -222,7 +222,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How can I invite friends to join  Sevak Army?",
+        "title": "How can I invite friends to join  SevakArmy?",
         "content": (
             <>
                 You can invite friends through the <strong>'Invite Friends'</strong> feature in your dashboard. Enter their email address and they will receive an invitation to register.
@@ -246,10 +246,10 @@ const accordionData = [
         )
     },
     {
-        "title": "What browsers are compatible with  Sevak Army?",
+        "title": "What browsers are compatible with  SevakArmy?",
         "content": (
             <>
-                Sevak Army is compatible with the latest versions of Google Chrome, Mozilla Firefox, Microsoft Edge and Safari.
+                SevakArmy is compatible with the latest versions of Google Chrome, Mozilla Firefox, Microsoft Edge and Safari.
             </>
         )
     },
@@ -262,10 +262,10 @@ const accordionData = [
         )
     },
     {
-        "title": "Can I link my Sevak Army account to my LinkedIn profile?",
+        "title": "Can I link my SevakArmy account to my LinkedIn profile?",
         "content": (
             <>
-                Yes, you can link your Sevak Army account to LinkedIn by going to <strong>'Profile Settings'</strong> and selecting the <strong>'Connect to LinkedIn'</strong> option.
+                Yes, you can link your SevakArmy account to LinkedIn by going to <strong>'Profile Settings'</strong> and selecting the <strong>'Connect to LinkedIn'</strong> option.
             </>
         )
     },
@@ -281,7 +281,7 @@ const accordionData = [
         "title": "Why am I not receiving email notifications?",
         "content": (
             <>
-                Check your notification preferences in <strong>'Account Settings'</strong> and make sure email notifications are enabled. Also, ensure that emails from  Sevak Army aren't being sent to your spam folder.
+                Check your notification preferences in <strong>'Account Settings'</strong> and make sure email notifications are enabled. Also, ensure that emails from  SevakArmy aren't being sent to your spam folder.
             </>
         )
     },
@@ -326,7 +326,7 @@ const accordionData = [
         )
     },
     {
-        "title": "What are badges in  Sevak Army and how do I earn them?",
+        "title": "What are badges in  SevakArmy and how do I earn them?",
         "content": (
             <>
                 Digital badges are rewards for completing certain tasks or milestones. You can earn digital badges by completing tasks, contributing to campaigns or reaching certain milestones as a volunteer or NGO..
@@ -414,7 +414,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How do I enable dark mode on  Sevak Army platform?",
+        "title": "How do I enable dark mode on  SevakArmy platform?",
         "content": (
             <>
                 Go to <strong>'Display Settings'</strong> in your dashboard and toggle on <strong>'Dark Mode'</strong> to enable it.
@@ -446,7 +446,7 @@ const accordionData = [
         )
     },
     {
-        "title": "What is  Sevak Army dashboard used for?",
+        "title": "What is  SevakArmy dashboard used for?",
         "content": (
             <>
                 The dashboard is your personalised space for managing your tasks, projects and interactions on the platform. You can view your current tasks, check notifications and manage your account settings.
@@ -502,7 +502,7 @@ const accordionData = [
         )
     },
     {
-        "title": "Can I invite friends to join  Sevak Army?",
+        "title": "Can I invite friends to join  SevakArmy?",
         "content": (
             <>
                 Yes, you can invite friends to join by clicking on <strong>'Invite Friends'</strong> from your dashboard and sharing an invitation link via email or social media.
@@ -601,7 +601,7 @@ const accordionData = [
         "title": "What are featured tasks?",
         "content": (
             <>
-                Featured tasks are highlighted opportunities that are recommended by  Sevak Army based on their impact and relevance. You can find these on your dashboard and task search pages.
+                Featured tasks are highlighted opportunities that are recommended by  SevakArmy based on their impact and relevance. You can find these on your dashboard and task search pages.
             </>
         )
     },
@@ -614,7 +614,7 @@ const accordionData = [
         )
     },
     {
-        "title": "Can I follow a specific NGO in  Sevak Army?",
+        "title": "Can I follow a specific NGO in  SevakArmy?",
         "content": (
             <>
                 Yes, you can follow NGOs to stay updated on their latest projects and tasks. Simply visit the organisation’s profile and click  <strong>'Follow'</strong>.
@@ -678,7 +678,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How do I find popular tasks in  Sevak Army?",
+        "title": "How do I find popular tasks in  SevakArmy?",
         "content": (
             <>
                 Popular tasks are listed under the <strong>'Trending Tasks'</strong> section on your dashboard. You can also filter tasks by popularity in the search options.
@@ -705,7 +705,7 @@ const accordionData = [
         "title": "Can I rate my experience with a task creator?",
         "content": (
             <>
-                Yes, after completing a task, you’ll be prompted to rate your experience with the task creator. This helps maintain the quality of tasks in  Sevak Army.
+                Yes, after completing a task, you’ll be prompted to rate your experience with the task creator. This helps maintain the quality of tasks in  SevakArmy.
             </>
         )
     },
@@ -734,10 +734,10 @@ const accordionData = [
         )
     },
     {
-        "title": "Can I link my Sevak Army account to my social media profiles?",
+        "title": "Can I link my SevakArmy account to my social media profiles?",
         "content": (
             <>
-                Yes, you can link your social media profiles to your Sevak Army account by going to <strong>'Account Settings'</strong> and selecting <strong>'Linked Accounts'</strong>.
+                Yes, you can link your social media profiles to your SevakArmy account by going to <strong>'Account Settings'</strong> and selecting <strong>'Linked Accounts'</strong>.
             </>
         )
     },
@@ -753,7 +753,7 @@ const accordionData = [
         "title": "What are the benefits of linking my social media accounts?",
         "content": (
             <>
-                Linking your social media accounts allows you to easily share tasks, track your volunteer contributions across platforms and use social logins for quick access to your Sevak Army account.
+                Linking your social media accounts allows you to easily share tasks, track your volunteer contributions across platforms and use social logins for quick access to your SevakArmy account.
             </>
         )
     },
@@ -761,7 +761,7 @@ const accordionData = [
         "title": "Can I merge multiple accounts?",
         "content": (
             <>
-                No, it is not possible to merge multiple accounts. You can only use one account per email address in  Sevak Army.
+                No, it is not possible to merge multiple accounts. You can only use one account per email address in  SevakArmy.
             </>
         )
     },
@@ -774,10 +774,10 @@ const accordionData = [
         )
     },
     {
-        "title": "How do I unsubscribe from Sevak Army emails?",
+        "title": "How do I unsubscribe from SevakArmy emails?",
         "content": (
             <>
-                To unsubscribe from Sevak Army emails, click the <strong>'Unsubscribe'</strong> link at the bottom of any email or go to <strong>'Account Settings'</strong>  <strong>'Notifications'</strong> and uncheck email alerts.
+                To unsubscribe from SevakArmy emails, click the <strong>'Unsubscribe'</strong> link at the bottom of any email or go to <strong>'Account Settings'</strong>  <strong>'Notifications'</strong> and uncheck email alerts.
             </>
         )
     },
@@ -790,7 +790,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How do I find events hosted by  Sevak Army?",
+        "title": "How do I find events hosted by  SevakArmy?",
         "content": (
             <>
                 You can find upcoming events on the <strong>'Events'</strong> page, accessible from your dashboard. You can also filter events by location, date and type of activity.
@@ -798,7 +798,7 @@ const accordionData = [
         )
     },
     {
-        "title": "Can I host an event through  Sevak Army?",
+        "title": "Can I host an event through  SevakArmy?",
         "content": (
             <>
                 Yes organisations and verified users can host events. Go to <strong>'Create Event'</strong> under your dashboard and follow the instructions for submitting your event for approval.
@@ -886,7 +886,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How do I find virtual events in Sevak Army?",
+        "title": "How do I find virtual events in SevakArmy?",
         "content": (
             <>
                 Virtual events are listed on the <strong>'Events'</strong> page and you can filter them by selecting <strong>'Virtual'</strong> under the event type filter.
@@ -894,10 +894,10 @@ const accordionData = [
         )
     },
     {
-        "title": "What are Sevak Army’s policies on event safety?",
+        "title": "What are SevakArmy’s policies on event safety?",
         "content": (
             <>
-                Sevak Army encourages all event organisers to follow safety guidelines, including COVID-19 protocols and to provide a safe environment for participants. Volunteers should also follow the safety instructions provided by the organisers.
+                SevakArmy encourages all event organisers to follow safety guidelines, including COVID-19 protocols and to provide a safe environment for participants. Volunteers should also follow the safety instructions provided by the organisers.
             </>
         )
     },
@@ -929,12 +929,12 @@ const accordionData = [
         "title": "What is the difference between verified and unverified tasks?",
         "content": (
             <>
-                Verified tasks are reviewed and approved by  Sevak Army to ensure their legitimacy, while unverified tasks may not have undergone our approval process yet.
+                Verified tasks are reviewed and approved by  SevakArmy to ensure their legitimacy, while unverified tasks may not have undergone our approval process yet.
             </>
         )
     },
     {
-        "title": "How do I verify my identity in  Sevak Army?",
+        "title": "How do I verify my identity in  SevakArmy?",
         "content": (
             <>
                 To verify your identity, go to <strong>'Profile Settings'</strong> and follow the prompts to upload the required documentation such as a government-issued ID. Verification helps enhance trust within the community.
@@ -958,7 +958,7 @@ const accordionData = [
         )
     },
     {
-        "title": "What happens to my data if I stop using Sevak Army?",
+        "title": "What happens to my data if I stop using SevakArmy?",
         "content": (
             <>
                 Your data remains stored according to our privacy policy. You can choose to delete your account to permanently remove your data from our servers.
@@ -974,10 +974,10 @@ const accordionData = [
         )
     },
     {
-        "title": "What is Sevak Army’s privacy policy?",
+        "title": "What is SevakArmy’s privacy policy?",
         "content": (
             <>
-                Sevak Army’s privacy policy outlines how we collect, use and protect your personal information. You can review it by clicking on <strong>'Privacy Policy'</strong> at the bottom of any page.
+                SevakArmy’s privacy policy outlines how we collect, use and protect your personal information. You can review it by clicking on <strong>'Privacy Policy'</strong> at the bottom of any page.
             </>
         )
     },
@@ -993,7 +993,7 @@ const accordionData = [
         "title": "What is the 'Support' section for?",
         "content": (
             <>
-                The <strong>'Support'</strong> section provides resources and help guides for navigating  Sevak Army platform. You can also submit support tickets for specific issues.
+                The <strong>'Support'</strong> section provides resources and help guides for navigating  SevakArmy platform. You can also submit support tickets for specific issues.
             </>
         )
     },
@@ -1014,7 +1014,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How do I access  Sevak Army knowledge base?",
+        "title": "How do I access  SevakArmy knowledge base?",
         "content": (
             <>
                 You can access the knowledge base via the <strong>'Support'</strong> section. It contains articles, FAQs and guides on using various features of the platform.
@@ -1022,7 +1022,7 @@ const accordionData = [
         )
     },
     {
-        "title": "What is  Sevak Army’s refund policy for paid services?",
+        "title": "What is  SevakArmy’s refund policy for paid services?",
         "content": (
             <>
                 For paid services, refunds are handled on a case-by-case basis. Contact our support team to inquire about eligibility for a refund.
@@ -1046,7 +1046,7 @@ const accordionData = [
         )
     },
     {
-        "title": "How can I suggest a feature for  Sevak Army?",
+        "title": "How can I suggest a feature for  SevakArmy?",
         "content": (
             <>
                 To suggest a new feature, go to the <strong>'Feedback'</strong> section in your dashboard and submit your suggestion. Our team reviews all feedback for future updates.
@@ -1089,7 +1089,7 @@ const accordionData = [
         "title": "Can I work remotely as a volunteer?",
         "content": (
             <>
-                Yes,  Sevak Army offers remote volunteering opportunities. Look for tasks marked as <strong>'Remote'</strong> when browsing available tasks.
+                Yes,  SevakArmy offers remote volunteering opportunities. Look for tasks marked as <strong>'Remote'</strong> when browsing available tasks.
             </>
         )
     },
@@ -1153,7 +1153,7 @@ const accordionData = [
         "title": "Can I earn badges or awards for volunteering?",
         "content": (
             <>
-                Yes, Sevak Army offers an digital badge and award system. You can earn digital badges for completing tasks, achieving milestones and contributing consistently.
+                Yes, SevakArmy offers an digital badge and award system. You can earn digital badges for completing tasks, achieving milestones and contributing consistently.
             </>
         )
     },
@@ -1182,10 +1182,10 @@ const accordionData = [
         )
     },
     {
-        "title": "How do I invite friends to join  Sevak Army?",
+        "title": "How do I invite friends to join  SevakArmy?",
         "content": (
             <>
-                You can invite friends by going to <strong>'Invite Friends'</strong> on your dashboard. Enter their email addresses and they will receive an invitation to join  Sevak Army.
+                You can invite friends by going to <strong>'Invite Friends'</strong> on your dashboard. Enter their email addresses and they will receive an invitation to join  SevakArmy.
             </>
         )
     },
@@ -1193,7 +1193,7 @@ const accordionData = [
         "title": "Can I earn rewards for referring friends?",
         "content": (
             <>
-                Yes,  Sevak Army offers referral rewards. You can earn points or badges when friends you refer register and complete their first task.
+                Yes,  SevakArmy offers referral rewards. You can earn points or badges when friends you refer register and complete their first task.
             </>
         )
     },
@@ -1222,7 +1222,7 @@ const accordionData = [
         )
     },
     {
-        "title": "What is  Sevak Army’s cancellation policy for tasks?",
+        "title": "What is  SevakArmy’s cancellation policy for tasks?",
         "content": (
             <>
                 If you need to cancel a task, try to notify the task organiser at least 24 hours in advance. For paid or special tasks, check with the organiser for specific cancellation terms.
@@ -1318,26 +1318,26 @@ const accordionData = [
         )
     },
     {
-        "title": "Can I use  Sevak Army on multiple devices?",
+        "title": "Can I use  SevakArmy on multiple devices?",
         "content": (
             <>
-                Yes, you can use  Sevak Army on multiple devices. The platform is accessible via desktop, tablet and mobile browsers and your data syncs across all devices.
+                Yes, you can use  SevakArmy on multiple devices. The platform is accessible via desktop, tablet and mobile browsers and your data syncs across all devices.
             </>
         )
     },
     {
-        "title": "Can I download  Sevak Army mobile app?",
+        "title": "Can I download  SevakArmy mobile app?",
         "content": (
             <>
-                Yes, Sevak Army offers a mobile app available for download on both iOS and Android devices. Check your device’s app store for the latest version.
+                Yes, SevakArmy offers a mobile app available for download on both iOS and Android devices. Check your device’s app store for the latest version.
             </>
         )
     },
     {
-        "title": "How do I update  Sevak Army app?",
+        "title": "How do I update  SevakArmy app?",
         "content": (
             <>
-                To update  Sevak Army app, go to your app store, search for Sevak Army and click <strong>'Update'</strong>. Make sure you have the latest version for optimal performance.
+                To update  SevakArmy app, go to your app store, search for SevakArmy and click <strong>'Update'</strong>. Make sure you have the latest version for optimal performance.
             </>
         )
     },
@@ -1358,10 +1358,10 @@ const accordionData = [
         )
     },
     {
-        "title": "Can I use  Sevak Army offline?",
+        "title": "Can I use  SevakArmy offline?",
         "content": (
             <>
-                No,  Sevak Army requires an internet connection to access features and tasks. However, you can draft messages or task reports offline and upload them when you’re back online.
+                No,  SevakArmy requires an internet connection to access features and tasks. However, you can draft messages or task reports offline and upload them when you’re back online.
             </>
         )
     },
@@ -1406,15 +1406,15 @@ const accordionData = [
         )
     },
     {
-        "title": "What is Sevak Army Ambassador Programme?",
+        "title": "What is SevakArmy Ambassador Programme?",
         "content": (
             <>
-                Sevak Army Ambassador Programme allows volunteers and influencers to represent the platform, promote its values and earn rewards for their efforts.
+                SevakArmy Ambassador Programme allows volunteers and influencers to represent the platform, promote its values and earn rewards for their efforts.
             </>
         )
     },
     {
-        "title": "How do I apply to become a Sevak Army Ambassador?",
+        "title": "How do I apply to become a SevakArmy Ambassador?",
         "content": (
             <>
                 To apply for the Ambassador Programme, go to <strong>'Join as Ambassador'</strong> under your dashboard and complete the application form. Successful applicants will be contacted for the next steps.
@@ -1439,7 +1439,7 @@ function FAQPage() {
             <PageTitle pageTitle={"FAQs"} pagesub={"FAQs"} />
             <>
                 <div className='container section-padding'>
-                    <h2 className='w-100 text-center'>Find answers to common questions about Sevak Army volunteering.</h2>
+                    <h2 className='w-100 text-center'>Find answers to common questions about SevakArmy volunteering.</h2>
 
                     <section className="wpo-service-single-section">
                         <div className="container">

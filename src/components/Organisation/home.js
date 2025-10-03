@@ -103,7 +103,7 @@ const Services = [
     title: "Motivate Employees to Volunteer",
     slug: "1",
     description:
-      "Motivate Employees to Volunteer Organisations can inspire employees to join the Sevak Army, where they can use their skills to contribute to important causes. This helps build a strong sense of community and responsibility.",
+      "Motivate Employees to Volunteer Organisations can inspire employees to join the SevakArmy, where they can use their skills to contribute to important causes. This helps build a strong sense of community and responsibility.",
   },
   {
     Id: "02",
@@ -136,7 +136,7 @@ const Services = [
 const Testimonial = [
   {
     id: "01",
-    text: "Sevak Army enabled our organisation to give back meaningfully. Through CSR initiatives, we engaged employees in impactful volunteer projects, strengthening our community ties and fostering a culture of social responsibility.",
+    text: "SevakArmy enabled our organisation to give back meaningfully. Through CSR initiatives, we engaged employees in impactful volunteer projects, strengthening our community ties and fostering a culture of social responsibility.",
     title: "CSR Manager",
     subtitle: "Manager",
     image: image1,
@@ -144,7 +144,7 @@ const Testimonial = [
   },
   {
     id: "02",
-    text: "Registering with Sevak Army transformed our CSR efforts. The platform provided seamless access to volunteer opportunities that aligned with our values, making it easy for us to contribute to lasting change.",
+    text: "Registering with SevakArmy transformed our CSR efforts. The platform provided seamless access to volunteer opportunities that aligned with our values, making it easy for us to contribute to lasting change.",
     title: "CSR Lead",
     subtitle: "Leader",
     image: image2,
@@ -152,7 +152,7 @@ const Testimonial = [
   },
   {
     id: "03",
-    text: "Sevak Army made our CSR initiatives more impactful. Their streamlined approach allowed us to connect with causes that resonated with our mission, helping us drive real social impact.",
+    text: "SevakArmy made our CSR initiatives more impactful. Their streamlined approach allowed us to connect with causes that resonated with our mission, helping us drive real social impact.",
     subtitle: "CSR Coordinator",
     title: "CSR Coordinator",
     image: image3,
@@ -250,13 +250,13 @@ const Home = (props) => {
                 </div>
                 <div className="slide-text">
                   <p>
-                    Register your organisation on Sevak Army platform and encourage your employees to engage in social
+                    Register your organisation on SevakArmy platform and encourage your employees to engage in social
                     work.
                   </p>
                 </div>
                 <div className="hero-btn">
                   <Link to="https://app.sevakarmy.com/" target="_blank" className="theme-btn">
-                    Join Sevak Army
+                    Join SevakArmy
                   </Link>
                 </div>
               </div>
@@ -300,13 +300,13 @@ const Home = (props) => {
               <div className="col-lg-6 col-md-12  order-lg-2">
                 <div className="wpo-about-img-s5">
                   <div className="image">
-                    <Image src={About4} width={498} height={498} style={{height:'auto', }} alt="Achive Organisation CSR Goals with Sevak Army" />
+                    <Image src={About4} width={498} height={498} style={{height:'auto', }} alt="Achive Organisation CSR Goals with SevakArmy" />
                   </div>
                   <div className="wpo-supporter">
                     <div className="wpo-supporter-text">
                       <div className="icon">
                         <i>
-                          <Image src={About4s2} alt="Achive Organisation CSR Goals with Sevak Army" />
+                          <Image src={About4s2} alt="Achive Organisation CSR Goals with SevakArmy" />
                         </i>
                       </div>
                       <div className="content">
@@ -345,7 +345,7 @@ const Home = (props) => {
                     <h2 className="text-titleeee">Achieve Your CSR Goals With Ease</h2>
                   </div>
                   <p>
-                    By registering your organisation with Sevak Army, you can encourage your employees to engage in
+                    By registering your organisation with SevakArmy, you can encourage your employees to engage in
                     social work and strengthen your CSR initiatives while creating a meaningful impact in society.
                   </p>
                 </div>
@@ -362,7 +362,7 @@ const Home = (props) => {
               <div className="col-lg-5 col-md-12 col-12">
                 <div className="wpo-about-img">
                   <div className="wpo-about-right pt-3" style={{textAlign:'center'}}>
-                    <Image src={abImg2} height={275} alt="CSR Responsibilities helping organisation - Sevak Army" />
+                    <Image src={abImg2} height={275} alt="CSR Responsibilities helping organisation - SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -394,8 +394,8 @@ const Home = (props) => {
             <div className="col-lg-10 col-xxl-8 col-md-12 col-12">
               <SectionTitle
                 // subtitle="How Does It Work?"
-                title="How Organisations can Drive CSR through Sevak Army?"
-                paragarap="Sevak Army is a platform for organisations to involve their employees in meaningful volunteer work as part of Corporate Social Responsibility (CSR) efforts. By registering organisations can encourage their teams to take part in various social initiatives, making a real change in communities."
+                title="How Organisations can Drive CSR through SevakArmy?"
+                paragarap="SevakArmy is a platform for organisations to involve their employees in meaningful volunteer work as part of Corporate Social Responsibility (CSR) efforts. By registering organisations can encourage their teams to take part in various social initiatives, making a real change in communities."
               />
             </div>
           </div>
@@ -473,7 +473,7 @@ const Home = (props) => {
           <div className="w-100 d-flex justify-content-center mt-5 mb-3">
             <div className="col-lg-6 col-md-12 col-12 justify-content-center">
               <h2 className="text-center" style={{ fontWeight: "bold" }}>
-                Register Your Organisation on Sevak Army and Make a Positive Impact
+                Register Your Organisation on SevakArmy and Make a Positive Impact
               </h2>
               <p className="text-center">Take the first step towards building a socially responsible organisation.</p>
               <div className="d-flex justify-content-center mt-3">
@@ -554,7 +554,7 @@ const Home = (props) => {
                     marginBottom: "10px",
                   }}
                 >
-                  <span>Stay Connected with Sevak Army!</span>
+                  <span>Stay Connected with SevakArmy!</span>
                   <h2 className="about-heading-second text-titleeee w-100">Join Us in Making a Difference! </h2>
                 </div>
                 <p style={{ textAlign: "justify" }}>
@@ -581,7 +581,7 @@ const Home = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                 <div className="wpo-about-right pt-3 pt-lg-5">
-                  <Image src={Newsletterrr} width={540} alt="Subscribe to Sevak Army  Newsletter" />
+                  <Image src={Newsletterrr} width={540} alt="Subscribe to SevakArmy  Newsletter" />
                 </div>
               </div>
             </div>

@@ -63,7 +63,7 @@ const Services = [
     title: "Inspire Your Followers",
     slug: "1",
     description:
-      "Encourage your followers to join Sevak Army as volunteers, helping them find purposeful tasks that contributes to society.",
+      "Encourage your followers to join SevakArmy as volunteers, helping them find purposeful tasks that contributes to society.",
   },
   {
     Id: "02",
@@ -90,7 +90,7 @@ const Services = [
     title: "Increase Your Social Impact",
     slug: "4",
     description:
-      "Every new volunteer you bring to Sevak Army adds to your positive influence, growing your impact on communities across India.",
+      "Every new volunteer you bring to SevakArmy adds to your positive influence, growing your impact on communities across India.",
   },
   {
     Id: "05",
@@ -114,7 +114,7 @@ const Services = [
 const Testimonial = [
   {
     id: "03",
-    text: "I'm beyond proud to see the ripple effect of my efforts with Sevak Army. Each person who joined through my link was another step toward making a positive impact and I’m constantly inspired by the stories my followers share from their volunteer experiences. Seeing my name on the leaderboard was exciting, but the best part has been knowing that together, we’re creating a better future.",
+    text: "I'm beyond proud to see the ripple effect of my efforts with SevakArmy. Each person who joined through my link was another step toward making a positive impact and I’m constantly inspired by the stories my followers share from their volunteer experiences. Seeing my name on the leaderboard was exciting, but the best part has been knowing that together, we’re creating a better future.",
     subtitle: "Zara",
     title: "Fitness Influencer",
     alt: 'Zara - Influencer Blogger',
@@ -122,7 +122,7 @@ const Testimonial = [
   },
   {
     id: "04",
-    text: "Sevak Army has brought purpose and depth to my work as an influencer. Watching my followers embrace volunteerism and support causes they’re passionate about has been rewarding. Knowing that I’m helping people find ways to give back to society makes this journey incredibly fulfilling. I feel a deep connection to my followers and our shared purpose strengthens that bond daily.",
+    text: "SevakArmy has brought purpose and depth to my work as an influencer. Watching my followers embrace volunteerism and support causes they’re passionate about has been rewarding. Knowing that I’m helping people find ways to give back to society makes this journey incredibly fulfilling. I feel a deep connection to my followers and our shared purpose strengthens that bond daily.",
     subtitle: "Rishi",
     title: "Travel Blogger",
     image: image4,
@@ -130,7 +130,7 @@ const Testimonial = [
   },
   {
     id: "04",
-    text: "Being part of Sevak Army has allowed me to make a genuine impact. Within days of sharing my link, my followers signed up to volunteer and thanked me for helping them find meaningful ways to contribute. The appreciation on social media was amazing, but seeing my followers find joy and purpose through service was even more meaningful. This platform has changed how I think about my influence.",
+    text: "Being part of SevakArmy has allowed me to make a genuine impact. Within days of sharing my link, my followers signed up to volunteer and thanked me for helping them find meaningful ways to contribute. The appreciation on social media was amazing, but seeing my followers find joy and purpose through service was even more meaningful. This platform has changed how I think about my influence.",
     subtitle: "Ananya",
     title: "Food & Lifestyle Influencer",
     image: image5,
@@ -138,7 +138,7 @@ const Testimonial = [
   },
   {
     id: "01",
-    text: "Joining Sevak Army has been one of the most meaningful experiences of my career. I loved seeing my followers involved with causes that truly matter, from education to environmental conservation. Watching them find purpose through volunteering made me feel like I’m part of something bigger than myself. The sense of community and connection is powerful—together, we’re making a difference.",
+    text: "Joining SevakArmy has been one of the most meaningful experiences of my career. I loved seeing my followers involved with causes that truly matter, from education to environmental conservation. Watching them find purpose through volunteering made me feel like I’m part of something bigger than myself. The sense of community and connection is powerful—together, we’re making a difference.",
     title: "Social Media Influencer",
     subtitle: "Maya",
     image: image3,
@@ -146,7 +146,7 @@ const Testimonial = [
   },
   {
     id: "02",
-    text: "Encouraging my followers to join Sevak Army gave my platform a whole new dimension. I was thrilled to see them connect with NGOs and contribute their skills to impactful causes. It’s fulfilling to know that my influence is sparking real change, not just online but in communities. The feedback I received was inspiring me to keep pushing for social good.",
+    text: "Encouraging my followers to join SevakArmy gave my platform a whole new dimension. I was thrilled to see them connect with NGOs and contribute their skills to impactful causes. It’s fulfilling to know that my influence is sparking real change, not just online but in communities. The feedback I received was inspiring me to keep pushing for social good.",
     title: "Lifestyle Content Creator.",
     subtitle: "Jay",
     image: image2,
@@ -158,7 +158,7 @@ const featuresData = [
   {
     iconClass: "flaticon-volunteer",
     img: img1,
-    title: "Increase Your Influence with Sevak Army",
+    title: "Increase Your Influence with SevakArmy",
     description:
       "Encourage your followers to join meaningful volunteer initiatives.",
   },
@@ -174,7 +174,7 @@ const featuresData = [
     title: "Create and Share Content",
     img: img3,
     description:
-      "Share reels, videos or posts with your referral link, encouraging your followers to join Sevak Army.",
+      "Share reels, videos or posts with your referral link, encouraging your followers to join SevakArmy.",
   },
   {
     iconClass: "flaticon-charity",
@@ -202,7 +202,7 @@ const Influencer = ({ path }) => {
     
       if (!data) {
         data =  {
-           title: "Page Not Found - Sevak Army",
+           title: "Page Not Found - SevakArmy",
            description: "The page you are looking for does not exist.",
            robots: "noindex, nofollow",
          }
@@ -309,7 +309,7 @@ const Influencer = ({ path }) => {
                 </div>
                 <div className="slide-text slideee-texttt">
                   <p>
-                    As an influencer, you can inspire your followers to make a difference & encourage them to join Sevak Army, where they can find meaningful volunteer opportunities with NGOs, supporting impactful causes. From education and healthcare to sustainability, your influence can lead more people to contribute their time and skills for a better future. Let's create a wave of positive change and make a lasting impact.
+                    As an influencer, you can inspire your followers to make a difference & encourage them to join SevakArmy, where they can find meaningful volunteer opportunities with NGOs, supporting impactful causes. From education and healthcare to sustainability, your influence can lead more people to contribute their time and skills for a better future. Let's create a wave of positive change and make a lasting impact.
                   </p>
                 </div>
 
@@ -454,7 +454,7 @@ const Influencer = ({ path }) => {
               <SectionTitle
                 subtitle="Inspire Action, Drive Impact"
                 title="Use Your Influence for Positive Change"
-                paragarap="As an influencer, you have the power to make a significant difference by encouraging your followers to join meaningful volunteer work through Sevak Army. "
+                paragarap="As an influencer, you have the power to make a significant difference by encouraging your followers to join meaningful volunteer work through SevakArmy. "
               />
             </div>
           </div>
@@ -541,13 +541,13 @@ const Influencer = ({ path }) => {
               <div className="col-lg-6 col-md-12 col-12">
                 <div className="wpo-about-text p-3 mt-0 pb-1 pb-lg-2 pt-1 pt-lg-2">
                   <div className="wpo-section-title mb-3 mt-0">
-                    <span>Subscribe to Sevak Army</span>
+                    <span>Subscribe to SevakArmy</span>
                     <h2 className="about-heading-second">
                       Stay Updated with Our Newsletter!
                     </h2>
                   </div>
                   <p style={{ textAlign: "justify" }}>
-                    Stay connected and inspired by subscribing to our updates for influencers. Be the first to know about new volunteer opportunities and campaigns that need your voice. Help motivate your followers to join Sevak Army and make a real change.
+                    Stay connected and inspired by subscribing to our updates for influencers. Be the first to know about new volunteer opportunities and campaigns that need your voice. Help motivate your followers to join SevakArmy and make a real change.
                   </p>
                   <p>
                     Be the first to know about new volunteer opportunities, impactful projects, and inspiring stories from across India. Join our newsletter to receive exclusive updates, tips, and resources to help you make a meaningful difference.
@@ -691,7 +691,7 @@ const Influencer = ({ path }) => {
                 <div className="wpo-about-img">
                   {/* Image placeholder */}
                   <div className="wpo-about-center text-lg-center pt-3 pt-lg-0">
-                    <Image src={Inspire} height={530} alt="Get Recognised for your influencing - Sevak Army" />
+                    <Image src={Inspire} height={530} alt="Get Recognised for your influencing - SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -728,7 +728,7 @@ const Influencer = ({ path }) => {
               <div className="row justify-content-center">
                 <div className="col-lg-8">
                   <div className="cta-wrap">
-                    <span>Ready to Use Your Influence for Good</span>
+                    <span>Ready to Use Your Influence for Good ?</span>
                     <p
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
@@ -736,7 +736,7 @@ const Influencer = ({ path }) => {
                       Join us in inspiring change across India. Encourage your
                       followers to volunteer, support important causes and
                       build a legacy of social impact. Become an influencer with
-                      a purpose - Start today with Sevak Army.
+                      a purpose - Start today with SevakArmy.
                     </p>
                     <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
                       <span>Register and Make a Difference Together!</span>
@@ -745,7 +745,7 @@ const Influencer = ({ path }) => {
                         className="theme-btn"
                         style={{ width: "fit-content", textTransform: 'none' }}
                       >
-                        Join the Platform.
+                        Join the Platform
                       </Link>
                     </div>
                   </div>

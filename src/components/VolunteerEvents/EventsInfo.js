@@ -122,7 +122,7 @@ function EventsInfo(props) {
             <div className="wpo-service-single-content-des">
               <p class="text-center pb-4">
                 Stay up-to-date with upcoming volunteer-driven events that you can be a part of. Whether it’s organising
-                community outreach or participating in a donation drive, Sevak Army offers multiple opportunities to
+                community outreach or participating in a donation drive, SevakArmy offers multiple opportunities to
                 make an impact.
               </p>
             </div>
@@ -174,7 +174,7 @@ function EventsInfo(props) {
           </div>
           <div className="wpo-service-single-wrap">
             <p class="text-center pb-4">
-              Interested in leading a community event? Sevak Army provides NGOs with a platform to organise their
+              Interested in leading a community event? SevakArmy provides NGOs with a platform to organise their
               events.
             </p>
           </div>
@@ -214,7 +214,7 @@ function EventsInfo(props) {
         </div>
         <div className="wpo-service-single-wrap">
           <p class="text-center pb-4">
-            NGOs can register for upcoming events in  Sevak Army. Volunteers get involved in community service and
+            NGOs can register for upcoming events in  SevakArmy. Volunteers get involved in community service and
             volunteering opportunities.
           </p>
         </div>
@@ -239,7 +239,7 @@ function EventsInfo(props) {
           </div>
           <div className="wpo-service-single-wrap">
             <p class="text-center pb-4">
-              Sevak Army regularly hosts virtual and physical volunteer fairs where individuals can explore various
+              SevakArmy regularly hosts virtual and physical volunteer fairs where individuals can explore various
               projects and opportunities.
             </p>
           </div>
@@ -338,7 +338,7 @@ function EventsInfo(props) {
           </div>
           <div className="wpo-service-single-wrap">
             <p class="text-center pb-4">
-              Sevak Army organises annual conferences and summits to discuss volunteerism, share experiences and foster
+              SevakArmy organises annual conferences and summits to discuss volunteerism, share experiences and foster
               community-driven change.
             </p>
           </div>
@@ -377,7 +377,7 @@ function EventsInfo(props) {
         <div className="wpo-service-single-wrap">
           <p class="text-center pb-4">
             Gain the skills you need to excel in your volunteering journey by attending workshops and training sessions
-            offered through Sevak Army.
+            offered through SevakArmy.
           </p>
         </div>
         <div className="wpo-features-area pt-0">
@@ -417,7 +417,7 @@ function EventsInfo(props) {
           </div>
           <div className="wpo-service-single-wrap">
             <p class="text-center px-5">
-              At Sevak Army, we celebrate the hard work and dedication of volunteers with recognition ceremonies. These
+              At SevakArmy, we celebrate the hard work and dedication of volunteers with recognition ceremonies. These
               ceremonies highlight the extraordinary efforts of our volunteers and inspire others to follow in their
               footsteps.
             </p>

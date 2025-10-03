@@ -16,7 +16,7 @@ function NgoWhatWeDo() {
       title: "Connect NGOs with Passionate Volunteers",
       slug: "1",
       description:
-        "Sevak Army reduces the gap between NGOs and dedicated volunteers, helping you find the right people to support your cause and drive impactful change.",
+        "SevakArmy reduces the gap between NGOs and dedicated volunteers, helping you find the right people to support your cause and drive impactful change.",
     },
     {
       Id: "02",
@@ -34,7 +34,7 @@ function NgoWhatWeDo() {
       title: "Support for All Types of NGOs",
       slug: "3",
       description:
-        "No matter the size or focus of your NGO, Sevak Army is here to support your efforts, from community outreach to specialised projects.",
+        "No matter the size or focus of your NGO, SevakArmy is here to support your efforts, from community outreach to specialised projects.",
     },
     {
       Id: "04",

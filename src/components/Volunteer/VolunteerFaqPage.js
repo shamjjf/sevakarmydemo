@@ -11,8 +11,8 @@ const ClickHandler = () => {
 
 const accordionData = [
   {
-    title: "What is Sevak Army?",
-    content: "Sevak Army is a platform that connects volunteers with verified NGOs across India. We offer flexible volunteer opportunities that match your skills, interests, and time availability, allowing you to contribute to meaningful social work."
+    title: "What is SevakArmy?",
+    content: "SevakArmy is a platform that connects volunteers with verified NGOs across India. We offer flexible volunteer opportunities that match your skills, interests, and time availability, allowing you to contribute to meaningful social work."
   },
   {
     title: "How do I register to volunteer?",
@@ -28,11 +28,11 @@ const accordionData = [
   },
   {
     title: "What kind of tasks can I volunteer for?",
-    content: "Sevak Army offers a variety of tasks, including education, healthcare, environmental projects, event management, and more. You can browse tasks based on your interests, skills, and availability."
+    content: "SevakArmy offers a variety of tasks, including education, healthcare, environmental projects, event management, and more. You can browse tasks based on your interests, skills, and availability."
   },
   {
     title: "Is there any age limit to becoming a volunteer?",
-    content: "No, Sevak Army welcomes volunteers of all ages, whether you're a student, working professional, or retiree. Everyone has something to contribute!"
+    content: "No, SevakArmy welcomes volunteers of all ages, whether you're a student, working professional, or retiree. Everyone has something to contribute!"
   },
   {
     title: "How are volunteers matched with NGOs?",
@@ -40,18 +40,18 @@ const accordionData = [
   },
   {
     title: "Do I need to pay to volunteer?",
-    content: "No, Sevak Army does not charge any fees for volunteering. All you need is a passion for helping others and the willingness to contribute your time."
+    content: "No, SevakArmy does not charge any fees for volunteering. All you need is a passion for helping others and the willingness to contribute your time."
   },
   {
     title: "Can I volunteer remotely?",
-    content: "Yes! Sevak Army provides both on-site and remote volunteer opportunities, depending on what the NGO offers. You can select tasks based on the mode that suits your location and availability."
+    content: "Yes! SevakArmy provides both on-site and remote volunteer opportunities, depending on what the NGO offers. You can select tasks based on the mode that suits your location and availability."
   },
   {
     title: "What recognition do volunteers receive?",
     content: "For each task completed, volunteers earn points, e-badges, and e-certificates. These can be shared on social media or added to your CV to showcase your contributions."
   },
   {
-    title: "Can I refer others to join Sevak Army?",
+    title: "Can I refer others to join SevakArmy?",
     content: "Yes! You can refer friends or colleagues through your unique referral link. For each successful referral, you earn extra points, helping you climb the leaderboard."
   },
   {
@@ -59,16 +59,16 @@ const accordionData = [
     content: "Once you are selected for a task, a chat feature will be activated on the platform, allowing you to communicate directly with the NGO to coordinate and manage your tasks smoothly."
   },
   {
-    title: "How does Sevak Army leaderboard work?",
+    title: "How does SevakArmy leaderboard work?",
     content: "The leaderboard tracks the contributions of all volunteers. Points are awarded for each task completed, and the leaderboard is refreshed weekly, monthly, and yearly to celebrate the top contributors."
   },
   {
-    title: "How do I become a Sevak Army Ambassador?",
-    content: "If you're passionate about promoting volunteering in the community, you can apply to become a Sevak Army Ambassador. Ambassadors lead initiatives, organise events, and work with NGOs to inspire more people to join."
+    title: "How do I become a SevakArmy Ambassador?",
+    content: "If you're passionate about promoting volunteering in the community, you can apply to become a SevakArmy Ambassador. Ambassadors lead initiatives, organise events, and work with NGOs to inspire more people to join."
   },
   {
     title: "What types of NGOs are listed on the platform?",
-    content: "Sevak Army approves the registration of trusted and verified NGOs in various fields, including education, healthcare, environment, and community development. All NGOs go through an approval procedure to ensure their legitimacy and impact."
+    content: "SevakArmy approves the registration of trusted and verified NGOs in various fields, including education, healthcare, environment, and community development. All NGOs go through an approval procedure to ensure their legitimacy and impact."
   },
   {
     title: "Can I rate my experience with an NGO?",
@@ -80,11 +80,11 @@ const accordionData = [
   },
   {
     title: "Is there any training provided for volunteers?",
-    content: "While Sevak Army doesn’t offer formal training, we ensure that volunteers are matched with tasks suited to their skills. If needed, NGOs provide specific guidelines for their tasks."
+    content: "While SevakArmy doesn’t offer formal training, we ensure that volunteers are matched with tasks suited to their skills. If needed, NGOs provide specific guidelines for their tasks."
   },
   {
     title: "How can schools, colleges, or companies get involved?",
-    content: "Schools, colleges, and companies can register with Sevak Army to encourage students, employees, and communities to participate in volunteer opportunities. This can help build a culture of service and social responsibility."
+    content: "Schools, colleges, and companies can register with SevakArmy to encourage students, employees, and communities to participate in volunteer opportunities. This can help build a culture of service and social responsibility."
   },
   {
     title: "Can I track the hours I’ve volunteered?",
@@ -95,11 +95,11 @@ const accordionData = [
     content: "If you're unable to complete a task, you must notify the NGO as soon as possible through the chat feature. This will help the NGO find another volunteer to complete the task. Please review and agree to the terms and conditions related to task withdrawal before registering to ensure smooth coordination."
   },
   {
-    title: "How can I get more involved with Sevak Army?",
-    content: "Aside from volunteering, you can also help promote Sevak Army by sharing your experiences on social media, referring others to join, or applying to become a Sevak Army Ambassador to lead volunteer initiatives in your community."
+    title: "How can I get more involved with SevakArmy?",
+    content: "Aside from volunteering, you can also help promote SevakArmy by sharing your experiences on social media, referring others to join, or applying to become a SevakArmy Ambassador to lead volunteer initiatives in your community."
   },
   {
-    title: "How do I register as a volunteer in Sevak Army?",
+    title: "How do I register as a volunteer in SevakArmy?",
     content: "To register as a volunteer, visit the registration page, fill in your personal details, and create an account. You will then be able to explore available tasks and apply for opportunities that interest you."
   },
   {
@@ -299,7 +299,7 @@ const VolunteerFaqPage = () => {
   return (
     <>
       <div className='container section-padding'>
-        <h2 className='w-100 text-center'>Find answers to common questions about Sevak Army volunteering.</h2>
+        <h2 className='w-100 text-center'>Find answers to common questions about SevakArmy volunteering.</h2>
 
         <section className="wpo-service-single-section">
           <div className="container">
@@ -361,7 +361,7 @@ const VolunteerFaqPage = () => {
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
                     >
-                      Have questions about volunteering with Sevak Army?
+                      Have questions about volunteering with SevakArmy?
                       We're here to help! Whether you're wondering about roles, responsibilities, time commitment, or how to get started, check out our FAQs to find all the answers you need.
                     </p>
                     <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">

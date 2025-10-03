@@ -35,7 +35,7 @@ const AboutSection = (props) => {
                     </h2>
                   </div>
                   <p className="mb-0">
-                    Welcome to Sevak Army! We are a platform where organisations
+                    Welcome to SevakArmy! We are a platform where organisations
                     can register and encourage their employees to get involved in
                     volunteer work. Our aim is to make it easy for businesses to
                     help communities and reach their CSR (Corporate Social
@@ -68,7 +68,7 @@ const AboutSection = (props) => {
                     world. We make it easy for organisations to include social
                     responsibility in their daily work. Whether it's helping the
                     environment, improving education or supporting health and
-                    well-being, Sevak Army is a platform where organisations
+                    well-being, SevakArmy is a platform where organisations
                     encourage their employees to join as volunteers for their CSR
                     activities that make a real difference. We believe every
                     organisation can help make the world better.

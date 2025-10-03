@@ -104,7 +104,7 @@ const featuresData1 = [
         title: "",
         description: (
             <span>
-                Post it across your <strong>social media</strong> platforms with a personal message explaining the importance of volunteering with  Sevak Army.
+                Post it across your <strong>social media</strong> platforms with a personal message explaining the importance of volunteering with  SevakArmy.
             </span>
         ),
     },
@@ -157,18 +157,18 @@ const ReferAndEarnPage = (props) => {
                             <div className="col-lg-6 col-md-12 col-12">
                                 <div className="wpo-about-img">
                                     <div className="wpo-about-right pt-3 pt-lg-5">
-                                        <Image src={GrowPlatform} width={500} alt="Refer & Earn with Sevak Army" />
+                                        <Image src={GrowPlatform} width={500} alt="Refer & Earn with SevakArmy" />
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg-6 col-md-12 col-12">
                                 <div className="wpo-about-text p-3 mt-0 pb-1 pb-lg-2 pt-1 pt-lg-2">
                                     <div className="wpo-section-title mt-0 mb-4">
-                                        <span>Refer & Earn with Sevak Army</span>
+                                        <span>Refer & Earn with SevakArmy</span>
                                         <h2 className="about-heading-second text-titleeee">Invite, Inspire and Earn Rewards!</h2>
                                     </div>
                                     <p className="mt-0 pt-0" style={{ textAlign: 'justify' }}>
-                                        At  Sevak Army, we believe in the strength of collaboration and community influence. As an influencer, you can help us make an even more significant impact by encouraging your followers to join our platform as volunteers. Through our <b>Refer & Earn</b> programme, you can introduce your audience to meaningful causes, grow our volunteer community and earn rewards for your contributions.
+                                        At  SevakArmy, we believe in the strength of collaboration and community influence. As an influencer, you can help us make an even more significant impact by encouraging your followers to join our platform as volunteers. Through our <b>Refer & Earn</b> programme, you can introduce your audience to meaningful causes, grow our volunteer community and earn rewards for your contributions.
                                     </p>
                                 </div>
                             </div>
@@ -300,7 +300,7 @@ const ReferAndEarnPage = (props) => {
 
                                     <span>Ready to Spread the Word?</span>
                                     <p className="pt-3 px-2 text-center" style={{ color: 'whitesmoke' }}>
-                                        Help us grow  Sevak Army volunteer base and earn rewards while doing it! Use your influence for good by sharing your referral link and inspiring your followers to take action. The bigger the community, the greater the change we can make together.
+                                        Help us grow  SevakArmy volunteer base and earn rewards while doing it! Use your influence for good by sharing your referral link and inspiring your followers to take action. The bigger the community, the greater the change we can make together.
                                     </p>
                                     <h3 className="w-100 text-center text-white">Start Referring and Earning Now!</h3>
                                     <Link onClick={() => props.setShow(true)} to="#" className="theme-btn mt-3">
@@ -328,7 +328,7 @@ const ReferAndEarnPage = (props) => {
                                             className="text-center pt-2 px-2"
                                             style={{ textAlign: "justify", color: "white" }}
                                         >
-                                             Help us grow  Sevak Army volunteer base and earn rewards while doing it! Use your influence for good by sharing your referral link and inspiring your followers to take action. The bigger the community, the greater the change we can make together.
+                                             Help us grow  SevakArmy volunteer base and earn rewards while doing it! Use your influence for good by sharing your referral link and inspiring your followers to take action. The bigger the community, the greater the change we can make together.
                                         </p>
                                         <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
                                             <span>Start Referring and Earning Now!</span>

@@ -33,7 +33,7 @@ const Services = [
     title: "Track Your Progress in Real Time",
     slug: "1",
     description:
-      "Each influencer can log in to their profile and view their standing on the leaderboard. You will also receive regular email updates showing your rank and progress. These updates keep you motivated and informed as you inspire your followers to join Sevak Army and make an impact.",
+      "Each influencer can log in to their profile and view their standing on the leaderboard. You will also receive regular email updates showing your rank and progress. These updates keep you motivated and informed as you inspire your followers to join SevakArmy and make an impact.",
   },
   {
     Id: "02",
@@ -42,7 +42,7 @@ const Services = [
     title: "Boost Your Rank with Referrals",
     slug: "2",
     description:
-      "Help grow Sevak Army community by inviting your followers to join. Each follower who signs up using your referral link will add to your points, helping you climb higher on the leaderboard.",
+      "Help grow SevakArmy community by inviting your followers to join. Each follower who signs up using your referral link will add to your points, helping you climb higher on the leaderboard.",
   },
   {
     Id: "03",
@@ -51,7 +51,7 @@ const Services = [
     title: "Why Does the Leaderboard Matters?",
     slug: "3",
     description:
-      "Sevak Army Influencer Leaderboard isn’t just about competition - it’s about celebrating your dedication to driving social good. The more volunteers you inspire, the higher you climb, and the more recognition you earn. Plus, it helps you set personal goals and stay motivated as you work to create a better world.",
+      "SevakArmy Influencer Leaderboard isn’t just about competition - it’s about celebrating your dedication to driving social good. The more volunteers you inspire, the higher you climb, and the more recognition you earn. Plus, it helps you set personal goals and stay motivated as you work to create a better world.",
   },
   {
     Id: "04",
@@ -69,7 +69,7 @@ const Services = [
     title: "Stay Motivated and Keep Inspiring Change",
     slug: "4",
     description:
-      "Whether aiming for the top spot or simply wanting to track your success in inspiring others, Sevak Army Influencer Leaderboard keeps you engaged and driven. It’s more than just points - it’s about building a legacy of social change, one follower at a time.",
+      "Whether aiming for the top spot or simply wanting to track your success in inspiring others, SevakArmy Influencer Leaderboard keeps you engaged and driven. It’s more than just points - it’s about building a legacy of social change, one follower at a time.",
   },
   {
     Id: "06",
@@ -78,7 +78,7 @@ const Services = [
     title: "Join the Influencer Leaderboard Today",
     slug: "4",
     description:
-      "Become a Sevak Army influencer and earn points for every follower you inspire to volunteer. Track your progress, climb the ranks and gain recognition for your role in making a positive impact.",
+      "Become a SevakArmy influencer and earn points for every follower you inspire to volunteer. Track your progress, climb the ranks and gain recognition for your role in making a positive impact.",
   },
 ];
 
@@ -215,7 +215,7 @@ const InfluencerLeaderboardPage = (props) => {
               <div className="col-lg-6 col-md-12 col-12">
                 <div className="wpo-about-img">
                   <div className="wpo-about-right pt-0">
-                    <Image width={556} height={354} src={LeaderboardWorking} alt="Leader Board - Sevak Army Influncer" />
+                    <Image width={556} height={354} src={LeaderboardWorking} alt="Leader Board - SevakArmy Influncer" />
                   </div>
                 </div>
               </div>
@@ -231,10 +231,10 @@ const InfluencerLeaderboardPage = (props) => {
                     </h2>
                   </div>
                   <h3 className="mt-0">
-                    How Sevak Army Influencer Leaderboard Works?
+                    How SevakArmy Influencer Leaderboard Works?
                   </h3>
                   <p style={{ textAlign: "justify" }}>
-                    At Sevak Army, we believe in recognising the efforts of influencers who help grow our volunteer community. Our Influencer Leaderboard tracks your progress, showing where you stand among other influencers and motivating you to continue inspiring action. You will earn points, digital badges, and digital certificates as your followers register and volunteer through your link.
+                    At SevakArmy, we believe in recognising the efforts of influencers who help grow our volunteer community. Our Influencer Leaderboard tracks your progress, showing where you stand among other influencers and motivating you to continue inspiring action. You will earn points, digital badges, and digital certificates as your followers register and volunteer through your link.
                   </p>
                 </div>
               </div>
@@ -270,7 +270,7 @@ const InfluencerLeaderboardPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3 pt-lg-5">
-                    <Image src={abImg7} width={556} height={316} alt="Earn points for Every Sign-up - Sevak Army" />
+                    <Image src={abImg7} width={556} height={316} alt="Earn points for Every Sign-up - SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -376,7 +376,7 @@ const InfluencerLeaderboardPage = (props) => {
           <div className="col-lg-8 col-md-12 col-12">
             <SectionTitle
               subtitle="Track Your Impact and Earn Recognition for Social Good"
-              title="Lead the Change: Join Sevak Army Influencer Leaderboard"
+              title="Lead the Change: Join SevakArmy Influencer Leaderboard"
             />
           </div>
         </div>
@@ -413,13 +413,13 @@ const InfluencerLeaderboardPage = (props) => {
               <div className="row justify-content-center">
                 <div className="col-lg-8">
                   <div className="cta-wrap">
-                    <h2 className="mb-2">Sevak Army Leaderboard</h2>
+                    <h2 className="mb-2">SevakArmy Leaderboard</h2>
                     <p
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
                     >
                       Compete. Inspire. Lead!
-                      Stay on top of the Sevak Army Leaderboard by making an impact! Earn points, climb the ranks, and become a leading voice for change. Invite more people, engage actively, and secure your spot among the top influencers driving meaningful action.
+                      Stay on top of the SevakArmy Leaderboard by making an impact! Earn points, climb the ranks, and become a leading voice for change. Invite more people, engage actively, and secure your spot among the top influencers driving meaningful action.
                     </p>
                     <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
                       <Link to="https://app.sevakarmy.com/" target="_blank" className="theme-btn" style={{ width: "fit-content" }}>

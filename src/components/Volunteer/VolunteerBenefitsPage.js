@@ -40,7 +40,7 @@ const Services = [
 
         title: 'Make a Real Difference',
         slug: '1',
-        description: 'Every hour you spend volunteering with Sevak Army helps improve lives and communities across India.',
+        description: 'Every hour you spend volunteering with SevakArmy helps improve lives and communities across India.',
     },
     {
         Id: '02',
@@ -56,7 +56,7 @@ const Services = [
 
         title: ' Find Tasks That Match Your Skills',
         slug: '3',
-        description: 'Sevak Army helps you find tasks that fit your skills and interests, ensuring you enjoy what you do while making an impact.'
+        description: 'SevakArmy helps you find tasks that fit your skills and interests, ensuring you enjoy what you do while making an impact.'
 
     },
     {
@@ -97,7 +97,7 @@ const Services = [
 
         title: 'Flexible Volunteering Options',
         slug: '4',
-        description: 'Whether you want to volunteer locally, remotely or for a short-term or a long-term project, Sevak Army has options that suit your needs.',
+        description: 'Whether you want to volunteer locally, remotely or for a short-term or a long-term project, SevakArmy has options that suit your needs.',
     },
     {
         Id: '09',
@@ -121,7 +121,7 @@ const Services = [
 
         title: 'Take on Leadership Roles',
         slug: '4',
-        description: 'Grow your influence by becoming a Sevak Army Ambassador, where you’ll lead others and help promote volunteering in your community.',
+        description: 'Grow your influence by becoming a SevakArmy Ambassador, where you’ll lead others and help promote volunteering in your community.',
     },
     {
         Id: '12',
@@ -129,7 +129,7 @@ const Services = [
 
         title: 'Boost Your CV',
         slug: '4',
-        description: 'Volunteering is a great way to add value to your CV. Your skills, achievements, and certifications from Sevak Army show your dedication to giving back to society.',
+        description: 'Volunteering is a great way to add value to your CV. Your skills, achievements, and certifications from SevakArmy show your dedication to giving back to society.',
     },
     {
         Id: '13',
@@ -145,7 +145,7 @@ const Services = [
 
         title: 'Get Rewarded for Referrals',
         slug: '4',
-        description: 'Invite others to join Sevak Army and for every referral, you will earn extra points, moving up the leaderboard faster.',
+        description: 'Invite others to join SevakArmy and for every referral, you will earn extra points, moving up the leaderboard faster.',
     },
     {
         Id: '15',
@@ -161,7 +161,7 @@ const Services = [
 
         title: 'Join a Trusted Platform',
         slug: '4',
-        description: 'Sevak Army works only with verified NGOs, so you know your time and effort will go to the real, impactful causes.',
+        description: 'SevakArmy works only with verified NGOs, so you know your time and effort will go to the real, impactful causes.',
     },
     {
         Id: '17',
@@ -185,7 +185,7 @@ const Services = [
 
         title: 'Feel Good About Giving Back',
         slug: '4',
-        description: 'Nothing feels better than knowing you have made a real impact. Volunteering with Sevak Army gives you the satisfaction of knowing you’re contributing to a better future and better world.',
+        description: 'Nothing feels better than knowing you have made a real impact. Volunteering with SevakArmy gives you the satisfaction of knowing you’re contributing to a better future and better world.',
     },
 
 ]
@@ -214,7 +214,7 @@ const VolunteerBenefitsPage = (props) => {
             <div className="container section-padding">
                 <div className="row justify-content-center">
                     <div className="col-lg-8 col-md-12 col-12">
-                        <SectionTitle subtitle="Benefits" title="Why Volunteering with Sevak Army is the Right Choice!" paragarap="See how volunteering with Sevak Army helps both you and our community! From growing as a person to making a real difference, here’s why you should join today." />
+                        <SectionTitle subtitle="Benefits" title="Why Volunteering with SevakArmy is the Right Choice!" paragarap="See how volunteering with SevakArmy helps both you and our community! From growing as a person to making a real difference, here’s why you should join today." />
                     </div>
                 </div>
                 <div className="service-wrap">
@@ -239,7 +239,7 @@ const VolunteerBenefitsPage = (props) => {
                             <div className="row justify-content-center">
                                 <div className="col-lg-8">
                                     <div className="cta-wrap">
-                                        <h2 className="mb-2">Join Sevak Army Today</h2>
+                                        <h2 className="mb-2">Join SevakArmy Today</h2>
                                         <p
                                             className="text-center pt-2 px-2"
                                             style={{ textAlign: "justify", color: "white" }}

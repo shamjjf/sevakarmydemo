@@ -34,7 +34,7 @@ const Services = [
     title: "Spread the Word",
     slug: "1",
     description:
-      "Encourage colleagues to join Sevak Army through your organisation’s referral link. Share the benefits of volunteering and inspire team involvement.",
+      "Encourage colleagues to join SevakArmy through your organisation’s referral link. Share the benefits of volunteering and inspire team involvement.",
   },
   {
     Id: "02",
@@ -73,7 +73,7 @@ const Services = [
 //         title: "Gain Recognition and e-certification",
 //         slug: "2",
 //         description:
-//             "Ambassadors receive official e-certificates of recognition for their contribution to  Sevak Army platform and their role in promoting volunteerism. This recognition not only enhances their resumes but also showcases their commitment to community service.",
+//             "Ambassadors receive official e-certificates of recognition for their contribution to  SevakArmy platform and their role in promoting volunteerism. This recognition not only enhances their resumes but also showcases their commitment to community service.",
 //     },
 //     {
 //         Id: "03",
@@ -158,7 +158,7 @@ const OrganisationAmbassadorPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3">
-                    <Image src={Path} alt="Ambassador Programm - Choose Your Sevak Army Ambassador" height={350} />
+                    <Image src={Path} alt="Ambassador Programm - Choose Your SevakArmy Ambassador" height={350} />
                   </div>
                 </div>
               </div>
@@ -167,7 +167,7 @@ const OrganisationAmbassadorPage = (props) => {
                   <div className="wpo-section-title mt-0 mb-3">
                     {/* <span>Benefits</span> */}
                     <h2 className="about-heading-second text-titleeee">
-                      Ambassador Programme: Choose Your Sevak Army Ambassador
+                      Ambassador Programme: Choose Your SevakArmy Ambassador
                     </h2>
                   </div>
                   <h3>
@@ -176,7 +176,7 @@ const OrganisationAmbassadorPage = (props) => {
                   <p className="mt-0 pt-0 mb-0" style={{ textAlign: "justify" }}>
                     Select a dedicated member of your team to drive your
                     organisation’s Corporate Social Responsibility (CSR) efforts
-                    as a Sevak Army Ambassador. Our Ambassador Programme is
+                    as a SevakArmy Ambassador. Our Ambassador Programme is
                     designed for employees who are ready to set an example and
                     take your organisation’s CSR goals further.
                   </p>
@@ -200,7 +200,7 @@ const OrganisationAmbassadorPage = (props) => {
                     </h2>
                   </div>
                   <div className="mt-0 pt-0 mb-0" style={{ textAlign: "justify" }}>
-                    <p className="mb-0">Appointing a Sevak Army Ambassador gives your organisation a
+                    <p className="mb-0">Appointing a SevakArmy Ambassador gives your organisation a
                       committed leader to promote social impact. An Ambassador
                       will:</p>
                     <p className="mb-1 mt-1">
@@ -228,7 +228,7 @@ const OrganisationAmbassadorPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3 pt-lg-5">
-                    <Image src={Path2} width={556} height={371} alt="Why Choose an Ambassador over sevak army" />
+                    <Image src={Path2} width={556} height={371} alt="Why Choose an Ambassador over SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -243,7 +243,7 @@ const OrganisationAmbassadorPage = (props) => {
             <SectionTitle
               subtitle=""
               title="Ambassador Responsibilities"
-              paragarap="As a Sevak Army Ambassador, the selected employee will:"
+              paragarap="As a SevakArmy Ambassador, the selected employee will:"
             />
           </div>
         </div>
@@ -354,7 +354,7 @@ const OrganisationAmbassadorPage = (props) => {
                         className="w-100 text-center ms-0"
                         style={{ maxWidth: "100%" }}
                       >
-                        Register your organisation on Sevak Army or encourage
+                        Register your organisation on SevakArmy or encourage
                         employees to join if you’re already registered.
                       </p>
                     </div>
@@ -421,7 +421,7 @@ const OrganisationAmbassadorPage = (props) => {
                   <div className="cta-wrap">
                     <h2 className="mb-2">Join the Ambassador Programme Today</h2>
                     <p className="text-center text-white pt-3">
-                      Ready to create positive change? Choose a Sevak Army
+                      Ready to create positive change? Choose a SevakArmy
                       Ambassador to lead your team towards a more responsible
                       and impactful future.
                     </p>

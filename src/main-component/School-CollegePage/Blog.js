@@ -84,16 +84,16 @@ const SchoolBlog = () => {
                 <div className="wpo-about-text">
                   <div className="wpo-section-title">
                     <h2 className="about-section-heading-forth text-titleeee">
-                      How Schools and Colleges Are Making Differences With Sevak Army ?
+                      How Schools and Colleges Are Making Differences With SevakArmy ?
                     </h2>
                   </div>
                   <p>
                     Education is one of the most powerful tools for creating change in society. Schools and colleges
                     have a unique role in shaping the minds of the next generation and when combined with a platform
-                    like Sevak Army, they can amplify their impact exponentially. By participating in community-driven
+                    like SevakArmy, they can amplify their impact exponentially. By participating in community-driven
                     initiatives, students, educators and institutions can work together to create meaningful change in
                     areas like social welfare, environmental conservation and more. In this blog, we will explore how
-                    schools and colleges are making a difference with  Sevak Army and empowering education to be a
+                    schools and colleges are making a difference with  SevakArmy and empowering education to be a
                     force for good.
                   </p>
                 </div>

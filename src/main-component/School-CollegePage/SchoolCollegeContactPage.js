@@ -104,7 +104,7 @@ const SchoolCollegeContactPage = (props) => {
       <div className="container">
         <div className=" col-12">
           <SectionTitle subtitle="" title="We're Here to Assist You!" />
-          <p className="text-center">We value your questions, feedback and support requests at Sevak Army. Whether you're a volunteer, NGO,  school/college organisation or influencer we’re just a message away. Feel free to contact us and we’ll reply promptly.
+          <p className="text-center">We value your questions, feedback and support requests at SevakArmy. Whether you're a volunteer, NGO,  school/college organisation or influencer we’re just a message away. Feel free to contact us and we’ll reply promptly.
           </p>
         </div>
         <div className="row pt-3">

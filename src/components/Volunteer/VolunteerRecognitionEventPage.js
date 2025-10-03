@@ -35,7 +35,7 @@ import MeetNetwork from "../../../public/assets/new-images/volunteer/recognition
 //         
 //         title: 'Boost Your Rank with Referrals',
 //         slug: '2',
-//         description: "Help grow  Sevak Army by referring others to the platform. You will earn additional points that boost your position on the leaderboard for every person who registers as a volunteer through your referral link. It's a great way to encourage others to get involved while increasing your own impact.",
+//         description: "Help grow  SevakArmy by referring others to the platform. You will earn additional points that boost your position on the leaderboard for every person who registers as a volunteer through your referral link. It's a great way to encourage others to get involved while increasing your own impact.",
 //     },
 //     {
 //         Id: '03',
@@ -43,7 +43,7 @@ import MeetNetwork from "../../../public/assets/new-images/volunteer/recognition
 //         
 //         title: 'Why the Leaderboard Matters?',
 //         slug: '3',
-//         description: 'The Sevak Army Leaderboard isn’t just about competition - it’s about celebrating your dedication and contribution to social good. The more you volunteer, the higher you climb and the more recognition you earn for your efforts. Plus, it helps you set personal goals and stay motivated as you serve your community.'
+//         description: 'The SevakArmy Leaderboard isn’t just about competition - it’s about celebrating your dedication and contribution to social good. The more you volunteer, the higher you climb and the more recognition you earn for your efforts. Plus, it helps you set personal goals and stay motivated as you serve your community.'
 //     },
 //     {
 //         Id: '04',
@@ -59,7 +59,7 @@ import MeetNetwork from "../../../public/assets/new-images/volunteer/recognition
 //         
 //         title: 'Stay Motivated and Keep Giving Back',
 //         slug: '4',
-//         description: 'Whether aiming for the top spot or just wanting to track your volunteer hours,  Sevak Army Leaderboard keeps you engaged and inspired. It’s more than just points—it’s about building a legacy of service and making a difference, one task at a time.',
+//         description: 'Whether aiming for the top spot or just wanting to track your volunteer hours,  SevakArmy Leaderboard keeps you engaged and inspired. It’s more than just points—it’s about building a legacy of service and making a difference, one task at a time.',
 //     },
 // ]
 
@@ -121,7 +121,7 @@ const VolunteerRecognitionEventPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3">
-                    <Image src={abImg6} alt="E- Certificate of Sevak Army for your social contribution" />
+                    <Image src={abImg6} alt="E- Certificate of SevakArmy for your social contribution" />
                   </div>
                 </div>
               </div>
@@ -130,7 +130,7 @@ const VolunteerRecognitionEventPage = (props) => {
                   <div className="wpo-section-title mt-0">
                     <span>Volunteer Recognition Events </span>
                     <h2 className="about-heading-second text-titleeee">
-                      Celebrate Success with Sevak Army{" "}
+                      Celebrate Success with SevakArmy{" "}
                     </h2>
                   </div>
                   <h3>
@@ -138,7 +138,7 @@ const VolunteerRecognitionEventPage = (props) => {
                     Impact
                   </h3>
                   <p style={{ textAlign: "justify" }}>
-                    At Sevak Army, we celebrate the efforts and dedication of
+                    At SevakArmy, we celebrate the efforts and dedication of
                     our volunteers. To show our appreciation, we host
                     Recognition Events to highlight the most committed
                     volunteers, present awards and offer special recognition for
@@ -159,9 +159,9 @@ const VolunteerRecognitionEventPage = (props) => {
         </div> */}
         <div className="row justify-content-center">
           <div className="col-lg-6 col-md-12 col-12">
-            <SectionTitle subtitle="Earn Recognition, Share Your Impact!" title="Recognition and Awards" paragarap="Volunteers who rank high on our Leaderboard or regularly
-                contribute their time and skills will be invited to our Sevak
-                Army Recognition Events. At these events, we: "/>
+            <SectionTitle subtitle="Earn Recognition, Share Your Impact!" title="Recognition and Awards" paragarap="Volunteers who rank highly on our Leaderboard or regularly
+                contribute their time and skills will be invited to our SevakArmy Recognition Events.
+                At these events, we:"/>
           </div>
         </div>
 
@@ -218,7 +218,7 @@ const VolunteerRecognitionEventPage = (props) => {
             <div className="col-lg-5 col-md-12 col-12">
               <div className="wpo-about-img d-flex w-100 justify-content-end">
                 <div className="wpo-about-right">
-                  <Image src={Networking} width={444} alt="Networking & Community Building Sevak Army" />
+                  <Image src={Networking} width={444} alt="Networking & Community Building SevakArmy" />
                 </div>
               </div>
             </div>
@@ -232,7 +232,7 @@ const VolunteerRecognitionEventPage = (props) => {
             <div className="col-lg-5 col-md-12 col-12">
               <div className="wpo-about-img d-flex w-100 justify-content-start">
                 <div className="wpo-about-right pt-lg-3">
-                  <Image src={MeetNetwork} height={280} alt="Be a part of Celebration - Sevak Army" />
+                  <Image src={MeetNetwork} height={280} alt="Be a part of Celebration - SevakArmy" />
                 </div>
               </div>
             </div>
@@ -242,7 +242,7 @@ const VolunteerRecognitionEventPage = (props) => {
                   <h3>Be Part of the Celebration</h3>
                 </div>
                 <p className="mt-0 pt-0" style={{ textAlign: "justify" }}>
-                  Whether you’re just starting out or are a seasoned volunteer, these events are a chance to celebrate the collective impact of Sevak Army volunteers and recognise the change-makers among us.
+                  Whether you’re just starting out or are a seasoned volunteer, these events are a chance to celebrate the collective impact of SevakArmy volunteers and recognise the change-makers among us.
                 </p>
               </div>
             </div>
@@ -262,12 +262,12 @@ const VolunteerRecognitionEventPage = (props) => {
                       {/* <div className="icon mx-2">
                         <Image src={icon} width={40} height={40} alt="Icon" />
                       </div> */}
-                      <h2 className="mb-2">Join Sevak Army and Start Making a Difference</h2>
+                      <h2 className="mb-2">Join SevakArmy and Start Making a Difference</h2>
                       <p
                         className="text-center pt-2 px-2"
                         style={{ textAlign: "justify", color: "white" }}
                       >
-                        Volunteer with Sevak Army today and you could be one of the
+                        Volunteer with SevakArmy today and you could be one of the
                         many honoured for your contributions at our next recognition
                         event. Your hard work deserves to be celebrated!
                       </p>

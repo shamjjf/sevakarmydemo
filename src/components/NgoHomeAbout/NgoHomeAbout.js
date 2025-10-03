@@ -23,7 +23,7 @@ function NgoHomeAbout({ show, setShow }) {
                   <Image src={abImg2} alt="img" />
                 </div> */}
                 <div className="wpo-about-right pt-0">
-                  <Image src={abImg1} alt="Together, We Empower Change Sevak Army - Your Partner in Growth" />
+                  <Image src={abImg1} alt="Together, We Empower Change SevakArmy - Your Partner in Growth" />
                 </div>
               </div>
             </div>
@@ -32,11 +32,11 @@ function NgoHomeAbout({ show, setShow }) {
                 <div className="wpo-section-title mb-3">
                   <span>Together, We Empower Change</span>
                   <h2 className="about-heading-second text-titleeee mt-0">
-                    Sevak Army - Your Partner in Growth
+                    SevakArmy - Your Partner in Growth
                   </h2>
                 </div>
                 <p className="mb-2" style={{ textAlign: "justify" }}>
-                  At Sevak Army, we help NGOs find the right support to drive their missions forward. We understand that every NGO has unique needs, whether it's finding skilled professionals to organise events, assist with fundraising, design promotional materials, or manage logistics. That’s why we created a user-friendly platform where NGOs can easily post their requirements and get the right assistance they need. </p>
+                  At SevakArmy, we help NGOs find the right support to drive their missions forward. We understand that every NGO has unique needs, whether it's finding skilled professionals to organise events, assist with fundraising, design promotional materials, or manage logistics. That’s why we created a user-friendly platform where NGOs can easily post their requirements and get the right assistance they need. </p>
                 <p>
                   NGOs can register, list their projects, and efficiently manage tasks through our platform. We make the process straightforward and effective, ensuring that NGOs can focus on their core missions. With our tools, NGOs can also streamline communication, track progress, and oversee all aspects of their projects with ease.
                 </p>
@@ -54,7 +54,7 @@ function NgoHomeAbout({ show, setShow }) {
                 <h4>Our Mission</h4>
                 <p className="mission-paragraph">
                   Our mission is to support NGOs by connecting them with the
-                  resources they need. Sevak Army simplifies the process, making
+                  resources they need. SevakArmy simplifies the process, making
                   it easier for NGOs to succeed in their initiatives.
                 </p>
               </div>
@@ -68,7 +68,7 @@ function NgoHomeAbout({ show, setShow }) {
               <div className="about-info-text">
                 <h4>Our Vision</h4>
                 <p className="vision-paragraph">
-                  By 2025, Sevak Army aims to be the platform of choice for NGOs
+                  By 2025, SevakArmy aims to be the platform of choice for NGOs
                   across India, helping them achieve 2 million hours of
                   impactful projects. We strive to empower NGOs to build
                   stronger, more connected communities, creating a brighter

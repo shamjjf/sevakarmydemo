@@ -55,7 +55,7 @@ function VolunteerSkills() {
         <div className="container">
             <div className="row justify-content-center">
                 <div className="col-lg-6 col-md-12 col-12">
-                    <SectionTitle subtitle="Volunteer Skills" title="At Sevak Army, we match opportunities to your skills, from design to teaching." />
+                    <SectionTitle subtitle="Volunteer Skills" title="At SevakArmy, we match opportunities to your skills, from design to teaching." />
                 </div>
             </div>
             <div className="service-wrap mt-3">

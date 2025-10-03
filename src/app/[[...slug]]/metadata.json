@@ -1,77 +1,77 @@
 {
   "home": {
-    "title": "Sevak Army - Connect Volunteers with NGOs for Social Work",
-    "description": "Sevak Army connects verified NGOs with skilled volunteers, offering a platform for NGOs to post tasks and volunteers to engage in impactful work based on their expertise.",
+    "title": "SevakArmy - Connect Volunteers with NGOs for Social Work",
+    "description": "SevakArmy connects verified NGOs with skilled volunteers, offering a platform for NGOs to post tasks and volunteers to engage in impactful work based on their expertise.",
     "keywords": "Connect Volunteers with NGO, Social Impact Platform, Community Engagement Platform, Social Contribution Platform, NGO volunteer platform, Volunteer social work",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/",
-    "h1": "Welcome to Sevak Army - Your Platform for Volunteering",
+    "h1": "Welcome to SevakArmy - Your Platform for Volunteering",
     "openGraph": {
-      "title": "Sevak Army - Connect Volunteers with NGOs for Social Work",
-      "description": "Sevak Army connects verified NGOs with skilled volunteers, offering a platform for NGOs to post tasks and volunteers to engage in impactful work based on their expertise.",
+      "title": "SevakArmy - Connect Volunteers with NGOs for Social Work",
+      "description": "SevakArmy connects verified NGOs with skilled volunteers, offering a platform for NGOs to post tasks and volunteers to engage in impactful work based on their expertise.",
       "url": "https://sevakarmy.com/",
       "images": ["/images/og-home.png"],
       "type": "website"
     },
     "twitter": {
       "card": "summary_large_image",
-      "title": "Sevak Army - Connect Volunteers with NGOs for Social Work",
-      "description": "Sevak Army connects verified NGOs with skilled volunteers, offering a platform for NGOs to post tasks and volunteers to engage in impactful work based on their expertise.",
+      "title": "SevakArmy - Connect Volunteers with NGOs for Social Work",
+      "description": "SevakArmy connects verified NGOs with skilled volunteers, offering a platform for NGOs to post tasks and volunteers to engage in impactful work based on their expertise.",
       "images": ["/images/twitter-home.png"]
     }
   },
   "volunteer": {
-    "title": "Sevak Army - Volunteer Opportunities for Everyone",
-    "description": "Discover volunteer opportunities with Sevak Army. Support causes like education, healthcare, and the environment while giving back to society.",
+    "title": "SevakArmy - Volunteer Opportunities for Everyone",
+    "description": "Discover volunteer opportunities with SevakArmy. Support causes like education, healthcare, and the environment while giving back to society.",
     "keywords": "Volunteers Platform, Volunteering opportunities, Skill-based volunteering, Community service, Social impact volunteering",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/volunteer",
     "h1": "Volunteer Opportunities for Everyone",
     "openGraph": {
-      "title": "Sevak Army - Volunteer Opportunities for Everyone",
-      "description": "Discover volunteer opportunities with Sevak Army. Support causes like education, healthcare, and the environment while giving back to society.",
+      "title": "SevakArmy - Volunteer Opportunities for Everyone",
+      "description": "Discover volunteer opportunities with SevakArmy. Support causes like education, healthcare, and the environment while giving back to society.",
       "url": "https://sevakarmy.com/volunteer",
       "images": ["/images/og-volunteer.png"],
       "type": "website"
     },
     "twitter": {
       "card": "summary_large_image",
-      "title": "Sevak Army - Volunteer Opportunities for Everyone",
-      "description": "Discover volunteer opportunities with Sevak Army. Support causes like education, healthcare, and the environment while giving back to society.",
+      "title": "SevakArmy - Volunteer Opportunities for Everyone",
+      "description": "Discover volunteer opportunities with SevakArmy. Support causes like education, healthcare, and the environment while giving back to society.",
       "images": ["/images/twitter-volunteer.png"]
     }
   },
   "volunteer/about-us": {
-    "title": "About Sevak Army - Connecting Volunteers with NGOs",
-    "description": "Learn how Sevak Army connects volunteers with trusted NGOs, creating meaningful social impact through skills and community service.",
+    "title": "About SevakArmy - Connecting Volunteers with NGOs",
+    "description": "Learn how SevakArmy connects volunteers with trusted NGOs, creating meaningful social impact through skills and community service.",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/volunteer/about-us",
     "h1": "Connecting Volunteers with Impactful Causes",
     "openGraph": {
-      "title": "About Sevak Army - Connecting Volunteers with NGOs",
-      "description": "Learn how Sevak Army connects volunteers with trusted NGOs, creating meaningful social impact through skills and community service.",
+      "title": "About SevakArmy - Connecting Volunteers with NGOs",
+      "description": "Learn how SevakArmy connects volunteers with trusted NGOs, creating meaningful social impact through skills and community service.",
       "url": "https://sevakarmy.com/volunteer/about-us",
       "images": ["/images/og-about.png"],
       "type": "article"
     },
     "twitter": {
       "card": "summary",
-      "title": "About Sevak Army - Connecting Volunteers with NGOs",
-      "description": "Learn how Sevak Army connects volunteers with trusted NGOs, creating meaningful social impact through skills and community service.",
+      "title": "About SevakArmy - Connecting Volunteers with NGOs",
+      "description": "Learn how SevakArmy connects volunteers with trusted NGOs, creating meaningful social impact through skills and community service.",
       "images": ["/images/twitter-about.png"]
     }
   },
   "volunteer/key-features": {
     "title": "Key Features - Volunteer with Purpose",
-    "description": "Explore key features of Sevak Army - Volunteer with verified NGOs, Track Impact, Earn Rewards, and find tasks that match your skills. Join today and give back.",
+    "description": "Explore key features of SevakArmy - Volunteer with verified NGOs, Track Impact, Earn Rewards, and find tasks that match your skills. Join today and give back.",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/volunteer/features",
-    "h1": "Volunteer Easily with Sevak Army",
+    "h1": "Volunteer Easily with SevakArmy",
     "openGraph": {
       "title": "Key Features - Volunteer with Purpose",
-      "description": "Explore key features of Sevak Army - Volunteer with verified NGOs, Track Impact, Earn Rewards, and find tasks that match your skills. Join today and give back.",
+      "description": "Explore key features of SevakArmy - Volunteer with verified NGOs, Track Impact, Earn Rewards, and find tasks that match your skills. Join today and give back.",
       "url": "https://sevakarmy.com/volunteer/features",
       "images": ["/images/og-features.png"],
       "type": "article"
@@ -79,41 +79,41 @@
     "twitter": {
       "card": "summary",
       "title": "Key Features - Volunteer with Purpose",
-      "description": "Explore key features of Sevak Army - Volunteer with verified NGOs, Track Impact, Earn Rewards, and find tasks that match your skills. Join today and give back.",
+      "description": "Explore key features of SevakArmy - Volunteer with verified NGOs, Track Impact, Earn Rewards, and find tasks that match your skills. Join today and give back.",
       "images": ["/images/twitter-features.png"]
     }
   },
   "volunteer/benefits": {
     "title": "Volunteering Benefits - Volunteer, Earn Rewards & Grow Skills",
-    "description": "See how Sevak Army benefits you - Volunteer Flexibly, Earn Certificates, Grow Skills, Inspire Change & support trusted NGOs. Make an impact today.",
+    "description": "See how SevakArmy benefits you - Volunteer Flexibly, Earn Certificates, Grow Skills, Inspire Change & support trusted NGOs. Make an impact today.",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/volunteer/benefits",
     "h1": "Key Benefits of Volunteering",
     "openGraph": {
-      "title": "Sevak Army Benefits - Volunteer, Earn Rewards & Grow Skills",
-      "description": "See how Sevak Army benefits you - Volunteer Flexibly, Earn Certificates, Grow Skills, Inspire Change & support trusted NGOs. Make an impact today.",
+      "title": "SevakArmy Benefits - Volunteer, Earn Rewards & Grow Skills",
+      "description": "See how SevakArmy benefits you - Volunteer Flexibly, Earn Certificates, Grow Skills, Inspire Change & support trusted NGOs. Make an impact today.",
       "url": "https://sevakarmy.com/volunteer/benefits",
       "images": ["/images/og-benefits.png"],
       "type": "article"
     },
     "twitter": {
       "card": "summary",
-      "title": "Sevak Army Benefits - Volunteer, Earn Rewards & Grow Skills",
-      "description": "See how Sevak Army benefits you - Volunteer Flexibly, Earn Certificates, Grow Skills, Inspire Change & support trusted NGOs. Make an impact today.",
+      "title": "SevakArmy Benefits - Volunteer, Earn Rewards & Grow Skills",
+      "description": "See how SevakArmy benefits you - Volunteer Flexibly, Earn Certificates, Grow Skills, Inspire Change & support trusted NGOs. Make an impact today.",
       "images": ["/images/twitter-benefits.png"]
     }
   },
   "volunteer/leaderboard": {
     "title": "Volunteers Leaderboard - Track & Earn Rewards",
-    "description": "Volunteer, earn points, and track your rank on the Sevak Army leaderboard. Get badges, e-certificates & rewards for making a difference.",
+    "description": "Volunteer, earn points, and track your rank on the SevakArmy leaderboard. Get badges, e-certificates & rewards for making a difference.",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/volunteer/leaderboard",
     "h1": "Volunteer, Earn Rewards & Lead",
     "openGraph": {
       "title": "Volunteers Leaderboard - Track & Earn Rewards",
-      "description": "Volunteer, earn points, and track your rank on the Sevak Army leaderboard. Get badges, e-certificates & rewards for making a difference.",
+      "description": "Volunteer, earn points, and track your rank on the SevakArmy leaderboard. Get badges, e-certificates & rewards for making a difference.",
       "url": "https://sevakarmy.com/volunteer/leaderboard",
       "images": ["/images/og-leaderboard.png"],
       "type": "article"
@@ -121,20 +121,20 @@
     "twitter": {
       "card": "summary",
       "title": "Volunteers Leaderboard - Track & Earn Rewards",
-      "description": "Volunteer, earn points, and track your rank on the Sevak Army leaderboard. Get badges, e-certificates & rewards for making a difference.",
+      "description": "Volunteer, earn points, and track your rank on the SevakArmy leaderboard. Get badges, e-certificates & rewards for making a difference.",
       "images": ["/images/twitter-leaderboard.png"]
     }
   },
   "volunteer/recognition-event": {
     "title": "Volunteers Recognition & Awards",
-    "description": "Be recognized for your volunteer work at Sevak Army’s Recognition Event! Earn awards, share stories & connect with changemakers. Join the celebration.",
+    "description": "Be recognized for your volunteer work at SevakArmy’s Recognition Event! Earn awards, share stories & connect with changemakers. Join the celebration.",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/volunteer/recognition-event",
     "h1": "Join the Celebration of Changemakers",
     "openGraph": {
       "title": "Volunteers Recognition & Awards",
-      "description": "Be recognized for your volunteer work at Sevak Army’s Recognition Event! Earn awards, share stories & connect with changemakers. Join the celebration.",
+      "description": "Be recognized for your volunteer work at SevakArmy’s Recognition Event! Earn awards, share stories & connect with changemakers. Join the celebration.",
       "url": "https://sevakarmy.com/volunteer/recognition-event",
       "images": ["/images/og-event.png"],
       "type": "event"
@@ -142,83 +142,83 @@
     "twitter": {
       "card": "summary",
       "title": "Volunteers Recognition & Awards",
-      "description": "Be recognized for your volunteer work at Sevak Army’s Recognition Event! Earn awards, share stories & connect with changemakers. Join the celebration.",
+      "description": "Be recognized for your volunteer work at SevakArmy’s Recognition Event! Earn awards, share stories & connect with changemakers. Join the celebration.",
       "images": ["/images/twitter-event.png"]
     }
   },
   "volunteer/become-volunteer": {
-    "title": "Sevak Army - Your Path to Volunteering",
-    "description": "Sign up with Sevak Army, find volunteer tasks that match your skills & make an impact. Connect with NGOs, track progress & earn recognition.",
+    "title": "SevakArmy - Your Path to Volunteering",
+    "description": "Sign up with SevakArmy, find volunteer tasks that match your skills & make an impact. Connect with NGOs, track progress & earn recognition.",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/volunteer/become-volunteer",
     "h1": "Your Path to Meaningful Volunteering",
     "openGraph": {
-      "title": "Sevak Army - Your Path to Volunteering",
-      "description": "Sign up with Sevak Army, find volunteer tasks that match your skills & make an impact. Connect with NGOs, track progress & earn recognition.",
+      "title": "SevakArmy - Your Path to Volunteering",
+      "description": "Sign up with SevakArmy, find volunteer tasks that match your skills & make an impact. Connect with NGOs, track progress & earn recognition.",
       "url": "https://sevakarmy.com/volunteer/become-volunteer",
       "images": ["/images/og-volunteer.png"],
       "type": "website"
     },
     "twitter": {
       "card": "summary",
-      "title": "Sevak Army - Your Path to Volunteering",
-      "description": "Sign up with Sevak Army, find volunteer tasks that match your skills & make an impact. Connect with NGOs, track progress & earn recognition.",
+      "title": "SevakArmy - Your Path to Volunteering",
+      "description": "Sign up with SevakArmy, find volunteer tasks that match your skills & make an impact. Connect with NGOs, track progress & earn recognition.",
       "images": ["/images/twitter-volunteer.png"]
     }
   },
   "volunteer/faqs": {
-    "title": "FAQs - Everything About Sevak Army Volunteering",
-    "description": "Find answers to all your questions about Sevak Army - volunteers. Explore our FAQs for clear and quick insights.",
+    "title": "FAQs - Everything About SevakArmy Volunteering",
+    "description": "Find answers to all your questions about SevakArmy - volunteers. Explore our FAQs for clear and quick insights.",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/volunteer/faqs",
     "h1": "Volunteers - All You Need to Know",
     "openGraph": {
-      "title": "FAQs - Everything About Sevak Army Volunteering",
-      "description": "Find answers to all your questions about Sevak Army - volunteers. Explore our FAQs for clear and quick insights.",
+      "title": "FAQs - Everything About SevakArmy Volunteering",
+      "description": "Find answers to all your questions about SevakArmy - volunteers. Explore our FAQs for clear and quick insights.",
       "url": "https://sevakarmy.com/volunteer/faqs",
       "images": ["/images/og-faqs.png"],
       "type": "article"
     },
     "twitter": {
       "card": "summary",
-      "title": "FAQs - Everything About Sevak Army Volunteering",
-      "description": "Find answers to all your questions about Sevak Army - volunteers. Explore our FAQs for clear and quick insights.",
+      "title": "FAQs - Everything About SevakArmy Volunteering",
+      "description": "Find answers to all your questions about SevakArmy - volunteers. Explore our FAQs for clear and quick insights.",
       "images": ["/images/twitter-faqs.png"]
     }
   },
   "influencer": {
-    "title": "Sevak Army Influencers| Social Impact & Community Engagement",
-    "description": "Encourage community engagement and social impact! Share your referral link, promote causes, and inspire others with Sevak Army’s influencer volunteering.",
+    "title": "SevakArmy Influencers| Social Impact & Community Engagement",
+    "description": "Encourage community engagement and social impact! Share your referral link, promote causes, and inspire others with SevakArmy’s influencer volunteering.",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/influencer",
     "h1": "Inspire Change with Your Influence",
     "openGraph": {
-      "title": "Sevak Army Influencers| Social Impact & Community Engagement",
-      "description": "Encourage community engagement and social impact! Share your referral link, promote causes, and inspire others with Sevak Army’s influencer volunteering.",
+      "title": "SevakArmy Influencers| Social Impact & Community Engagement",
+      "description": "Encourage community engagement and social impact! Share your referral link, promote causes, and inspire others with SevakArmy’s influencer volunteering.",
       "url": "https://sevakarmy.com/influencer",
       "images": ["/images/og-influencer-home.png"],
       "type": "website"
     },
     "twitter": {
       "card": "summary_large_image",
-      "title": "Sevak Army Influencers| Social Impact & Community Engagement",
-      "description": "Encourage community engagement and social impact! Share your referral link, promote causes, and inspire others with Sevak Army’s influencer volunteering.",
+      "title": "SevakArmy Influencers| Social Impact & Community Engagement",
+      "description": "Encourage community engagement and social impact! Share your referral link, promote causes, and inspire others with SevakArmy’s influencer volunteering.",
       "images": ["/images/twitter-influencer-home.png"]
     }
   },
   "influencer/about-us": {
     "title": "Influencers Inspire Volunteerism - Encouraging followers to Serve",
-    "description": "Discover how Sevak Army helps influencers motivate followers to engage in community service & make a meaningful difference.",
+    "description": "Discover how SevakArmy helps influencers motivate followers to engage in community service & make a meaningful difference.",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/influencer/about-us",
     "h1": "Empowering Followers to Create Change Through Volunteerism",
     "openGraph": {
       "title": "Influencers Inspire Volunteerism - Encouraging followers to Serve",
-      "description": "Discover how Sevak Army helps influencers motivate followers to engage in community service & make a meaningful difference.",
+      "description": "Discover how SevakArmy helps influencers motivate followers to engage in community service & make a meaningful difference.",
       "url": "https://sevakarmy.com/influencer/about-us",
       "images": ["/images/og-influencer-about.png"],
       "type": "article"
@@ -226,62 +226,62 @@
     "twitter": {
       "card": "summary",
       "title": "Influencers Inspire Volunteerism - Encouraging followers to Serve",
-      "description": "Discover how Sevak Army helps influencers motivate followers to engage in community service & make a meaningful difference.",
+      "description": "Discover how SevakArmy helps influencers motivate followers to engage in community service & make a meaningful difference.",
       "images": ["/images/twitter-influencer-about.png"]
     }
   },
   "influencer/key-features": {
-    "title": "Sevak Army - Key Features for Influencers",
-    "description": "Encourage your followers to volunteer with Sevak Army. Get a referral link, track impact, engage with NGOs, and earn recognition for social change.",
+    "title": "SevakArmy - Key Features for Influencers",
+    "description": "Encourage your followers to volunteer with SevakArmy. Get a referral link, track impact, engage with NGOs, and earn recognition for social change.",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/influencer/features",
     "h1": "Inspire Action, Make Impact",
     "openGraph": {
-      "title": "Sevak Army - Key Features for Influencers",
-      "description": "Encourage your followers to volunteer with Sevak Army. Get a referral link, track impact, engage with NGOs, and earn recognition for social change.",
+      "title": "SevakArmy - Key Features for Influencers",
+      "description": "Encourage your followers to volunteer with SevakArmy. Get a referral link, track impact, engage with NGOs, and earn recognition for social change.",
       "url": "https://sevakarmy.com/influencer/features",
       "images": ["/images/og-influencer-features.png"],
       "type": "article"
     },
     "twitter": {
       "card": "summary",
-      "title": "Sevak Army - Key Features for Influencers",
-      "description": "Encourage your followers to volunteer with Sevak Army. Get a referral link, track impact, engage with NGOs, and earn recognition for social change.",
+      "title": "SevakArmy - Key Features for Influencers",
+      "description": "Encourage your followers to volunteer with SevakArmy. Get a referral link, track impact, engage with NGOs, and earn recognition for social change.",
       "images": ["/images/twitter-influencer-features.png"]
     }
   },
   "influencer/benefits": {
-    "title": "Track, Earn & Lead – Influencer Benefits on Sevak Army",
-    "description": "Influencers earn points, digital badges & track their impact. Strengthen your personal brand while inspiring social change through Sevak Army!",
+    "title": "Track, Earn & Lead – Influencer Benefits on SevakArmy",
+    "description": "Influencers earn points, digital badges & track their impact. Strengthen your personal brand while inspiring social change through SevakArmy!",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/influencer/benefits",
     "h1": "Earn Rewards for Inspiring Change",
     "openGraph": {
-      "title": "Track, Earn & Lead – Influencer Benefits on Sevak Army",
-      "description": "Influencers earn points, digital badges & track their impact. Strengthen your personal brand while inspiring social change through Sevak Army!",
+      "title": "Track, Earn & Lead – Influencer Benefits on SevakArmy",
+      "description": "Influencers earn points, digital badges & track their impact. Strengthen your personal brand while inspiring social change through SevakArmy!",
       "url": "https://sevakarmy.com/influencer/benefits",
       "images": ["/images/og-influencer-benefits.png"],
       "type": "article"
     },
     "twitter": {
       "card": "summary",
-      "title": "Track, Earn & Lead – Influencer Benefits on Sevak Army",
-      "description": "Influencers earn points, digital badges & track their impact. Strengthen your personal brand while inspiring social change through Sevak Army!",
+      "title": "Track, Earn & Lead – Influencer Benefits on SevakArmy",
+      "description": "Influencers earn points, digital badges & track their impact. Strengthen your personal brand while inspiring social change through SevakArmy!",
       "images": ["/images/twitter-influencer-benefits.png"]
     }
   },
   "influencer/leaderboard": {
     "title": "Influencer Leaderboard | Track Your Volunteer Impact & Rank",
-    "description": "Encourage sign-ups, earn points, & track your influence on the Sevak Army Leaderboard. Gain digital badges & rewards for growing social impact.",
+    "description": "Encourage sign-ups, earn points, & track your influence on the SevakArmy Leaderboard. Gain digital badges & rewards for growing social impact.",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/influencer/leaderboard",
     "h1": "Rise as a Top Influencer & Track Your Impact",
     "openGraph": {
       "title": "Influencer Leaderboard | Track Your Volunteer Impact & Rank",
-      "description": "Encourage sign-ups, earn points, & track your influence on the Sevak Army Leaderboard. Gain digital badges & rewards for growing social impact.",
+      "description": "Encourage sign-ups, earn points, & track your influence on the SevakArmy Leaderboard. Gain digital badges & rewards for growing social impact.",
       "url": "https://sevakarmy.com/influencer/leaderboard",
       "images": ["/images/og-influencer-leaderboard.png"],
       "type": "article"
@@ -289,20 +289,20 @@
     "twitter": {
       "card": "summary",
       "title": "Influencer Leaderboard | Track Your Volunteer Impact & Rank",
-      "description": "Encourage sign-ups, earn points, & track your influence on the Sevak Army Leaderboard. Gain digital badges & rewards for growing social impact.",
+      "description": "Encourage sign-ups, earn points, & track your influence on the SevakArmy Leaderboard. Gain digital badges & rewards for growing social impact.",
       "images": ["/images/twitter-influencer-leaderboard.png"]
     }
   },
   "influencer/recognition-event": {
     "title": "Influencer Awards & Community Networking Event",
-    "description": "Celebrate top influencers at Sevak Army’s recognition events! Earn awards, network with leaders & showcase your impact in social change.",
+    "description": "Celebrate top influencers at SevakArmy’s recognition events! Earn awards, network with leaders & showcase your impact in social change.",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/influencer/recognition-event",
     "h1": "Recognizing Your Influence & Impact",
     "openGraph": {
       "title": "Influencer Awards & Community Networking Event",
-      "description": "Celebrate top influencers at Sevak Army’s recognition events! Earn awards, network with leaders & showcase your impact in social change.",
+      "description": "Celebrate top influencers at SevakArmy’s recognition events! Earn awards, network with leaders & showcase your impact in social change.",
       "url": "https://sevakarmy.com/influencer/recognition-event",
       "images": ["/images/og-influencer-event.png"],
       "type": "event"
@@ -310,49 +310,49 @@
     "twitter": {
       "card": "summary",
       "title": "Influencer Awards & Community Networking Event",
-      "description": "Celebrate top influencers at Sevak Army’s recognition events! Earn awards, network with leaders & showcase your impact in social change.",
+      "description": "Celebrate top influencers at SevakArmy’s recognition events! Earn awards, network with leaders & showcase your impact in social change.",
       "images": ["/images/twitter-influencer-event.png"]
     }
   },
   "influencer/join-sevak-army": {
-    "title": "Sign Up as a Sevak Army Influencer & Track Impact",
-    "description": "Join Sevak Army as an influencer, promote social causes & engage followers in volunteering. Share your link & track your impact today.",
+    "title": "Sign Up as a SevakArmy Influencer & Track Impact",
+    "description": "Join SevakArmy as an influencer, promote social causes & engage followers in volunteering. Share your link & track your impact today.",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/influencer/join-sevak-army",
-    "h1": "Become a Sevak Army Influencer Today",
+    "h1": "Become a SevakArmy Influencer Today",
     "openGraph": {
-      "title": "Sign Up as a Sevak Army Influencer & Track Impact",
-      "description": "Join Sevak Army as an influencer, promote social causes & engage followers in volunteering. Share your link & track your impact today.",
+      "title": "Sign Up as a SevakArmy Influencer & Track Impact",
+      "description": "Join SevakArmy as an influencer, promote social causes & engage followers in volunteering. Share your link & track your impact today.",
       "url": "https://sevakarmy.com/influencer/join-sevak-army",
       "images": ["/images/og-influencer-join.png"],
       "type": "website"
     },
     "twitter": {
       "card": "summary",
-      "title": "Sign Up as a Sevak Army Influencer & Track Impact",
-      "description": "Join Sevak Army as an influencer, promote social causes & engage followers in volunteering. Share your link & track your impact today.",
+      "title": "Sign Up as a SevakArmy Influencer & Track Impact",
+      "description": "Join SevakArmy as an influencer, promote social causes & engage followers in volunteering. Share your link & track your impact today.",
       "images": ["/images/twitter-influencer-join.png"]
     }
   },
   "influencer/faqs": {
-    "title": "Influencer FAQs | Sevak Army",
-    "description": "Get answers to all your questions about joining Sevak Army as an influencer, earning rewards, tracking impact, and inspiring volunteers.",
+    "title": "Influencer FAQs | SevakArmy",
+    "description": "Get answers to all your questions about joining SevakArmy as an influencer, earning rewards, tracking impact, and inspiring volunteers.",
     "keywords": "",
     "robots": "index, follow",
     "canonical": "https://sevakarmy.com/influencer/faqs",
-    "h1": "Everything You Need to Know as a Sevak Army Influencer",
+    "h1": "Everything You Need to Know as a SevakArmy Influencer",
     "openGraph": {
-      "title": "Influencer FAQs | Sevak Army",
-      "description": "Get answers to all your questions about joining Sevak Army as an influencer, earning rewards, tracking impact, and inspiring volunteers.",
+      "title": "Influencer FAQs | SevakArmy",
+      "description": "Get answers to all your questions about joining SevakArmy as an influencer, earning rewards, tracking impact, and inspiring volunteers.",
       "url": "https://sevakarmy.com/influencer/faqs",
       "images": ["/images/og-influencer-faqs.png"],
       "type": "article"
     },
     "twitter": {
       "card": "summary",
-      "title": "Influencer FAQs | Sevak Army",
-      "description": "Get answers to all your questions about joining Sevak Army as an influencer, earning rewards, tracking impact, and inspiring volunteers.",
+      "title": "Influencer FAQs | SevakArmy",
+      "description": "Get answers to all your questions about joining SevakArmy as an influencer, earning rewards, tracking impact, and inspiring volunteers.",
       "images": ["/images/twitter-influencer-faqs.png"]
     }
   },

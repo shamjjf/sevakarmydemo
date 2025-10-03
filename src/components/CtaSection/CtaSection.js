@@ -22,7 +22,7 @@ const CtaSection = () => {
             <div className="row justify-content-center">
               <div className="col-lg-8">
                 <div className="cta-wrap">
-                  <span className="">Join the Movement, Make a Difference</span>
+                  <span className="">Join the cause, Make a Difference</span>
                   <h2 className="mb-2">Start Your Journey of Service</h2>
                   <p className="text-center" style={{ color: 'whitesmoke' }} >Use your time, skills and passion to create lasting change in the community. Whether you're a volunteer ready to contribute or an NGO seeking dedicated hands, together, we can make an outstanding social impact. </p>
                   <Link to="https://app.sevakarmy.com/" target="_blank" className="theme-btn-cta">

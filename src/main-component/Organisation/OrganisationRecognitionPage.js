@@ -121,10 +121,10 @@ const OrganisationRecognitionPage = (props) => {
                     {/* </div> */}
                   </div>
                   {/* <h3 className="mt-0">
-                    How  Sevak Army Influencer Leaderboard Works?
+                    How  SevakArmy Influencer Leaderboard Works?
                   </h3> */}
                   <p style={{ textAlign: "justify" }}>
-                    At Sevak Army, we understand the importance of recognising
+                    At SevakArmy, we understand the importance of recognising
                     your organisation’s dedication to Corporate Social
                     Responsibility (CSR). By encouraging your employees to
                     volunteer, you not only support meaningful causes but also
@@ -153,10 +153,10 @@ const OrganisationRecognitionPage = (props) => {
                     {/* </div> */}
                   </div>
                   {/* <h3 className="mt-0">
-                    How  Sevak Army Influencer Leaderboard Works?
+                    How  SevakArmy Influencer Leaderboard Works?
                   </h3> */}
                   <p style={{ textAlign: "justify" }}>
-                    Organisations registering with Sevak Army can earn digital
+                    Organisations registering with SevakArmy can earn digital
                     certificates and awards based on the collective volunteer
                     efforts of their employees. Every task completed by your
                     team contributes to your CSR impact and these recognitions
@@ -171,7 +171,7 @@ const OrganisationRecognitionPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3">
-                    <Image width={550} src={LeaderboardWorking} alt="How Sevak Army online platform works" style={{ objectFit: 'contain' }} />
+                    <Image width={550} src={LeaderboardWorking} alt="How SevakArmy online platform works" style={{ objectFit: 'contain' }} />
                   </div>
                 </div>
               </div>
@@ -221,7 +221,7 @@ const OrganisationRecognitionPage = (props) => {
           <div className="col-lg-8 col-md-12 col-12">
             <SectionTitle
               title="Showcase Your Organisation’s Achievements"
-              paragarap="Every digital certificate and award can be downloaded directly from Sevak Army platform, allowing your organisation to:"
+              paragarap="Every digital certificate and award can be downloaded directly from SevakArmy platform, allowing your organisation to:"
             />
           </div>
         </div>
@@ -276,7 +276,7 @@ const OrganisationRecognitionPage = (props) => {
                     </h2>
                     <p className="text-center text-white pt-3">
                       The more you volunteer, the more recognition you’ll earn.
-                      Track your organisation’s progress on [Sevak Army
+                      Track your organisation’s progress on [SevakArmy
                       Leaderboard], climb the ranks and start collecting your
                       digital certificates today.
                     </p>

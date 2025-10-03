@@ -25,7 +25,7 @@ function WhyMatter3() {
             
             title: 'Celebrating Success',
             slug: '1',
-            description: 'By formally recognising achievements, Sevak Army helps celebrate the hard work and dedication of those involved in volunteer activities, enhancing overall morale and engagement.',
+            description: 'By formally recognising achievements, SevakArmy helps celebrate the hard work and dedication of those involved in volunteer activities, enhancing overall morale and engagement.',
         },
         {
             Id: '03',

@@ -31,11 +31,11 @@ function NgoBlockHome() {
       month: "AUGUST",
       blClass: "format-standard-image",
       athor: "Sanket Kamble",
-      alt:'Sevak Army Blog - Harnessing Community Power: Volunteering Transforms Lives'
+      alt:'SevakArmy Blog - Harnessing Community Power: Volunteering Transforms Lives'
     },
     {
       id: "2",
-      title: "Sevak Army Launches New Environmental Campaign",
+      title: "SevakArmy Launches New Environmental Campaign",
       slug: "2",
       subtitle:
         " Discover the details of our latest environmental campaign aimed at promoting sustainability and reducing waste.",
@@ -49,7 +49,7 @@ function NgoBlockHome() {
       month: "AUGUST",
       blClass: "format-standard-image",
       athor: "Rishi Rathod",
-      alt:'Blog - Sevak Army Launches New Environmental Campaign'
+      alt:'Blog - SevakArmy Launches New Environmental Campaign'
     },
   ];
 
@@ -70,7 +70,7 @@ function NgoBlockHome() {
       month: "AUGUST",
       blClass: "format-standard-image",
       athor: "Sanket Kamble",
-      alt:'Sevak Army Blog - How a Clean-Up Drive Revitalised Local Parks?'
+      alt:'SevakArmy Blog - How a Clean-Up Drive Revitalised Local Parks?'
     },
     {
       id: "2",
@@ -88,7 +88,7 @@ function NgoBlockHome() {
       month: "AUGUST",
       blClass: "format-standard-image",
       athor: "Rishi Rathod",
-      alt:'Sevak Army Blog - A Dedicated Volunteer Who Made a Difference.'
+      alt:'SevakArmy Blog - A Dedicated Volunteer Who Made a Difference.'
     },
   ];
 

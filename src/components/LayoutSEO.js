@@ -23,7 +23,7 @@ const Layout_SEO = ({ children }) => {
   const title = generateTitle(location.pathname);
   return (
     <>
-      <title>Sevak Army {title ? "- " + title : ""}</title>
+      <title>SevakArmy {title ? "- " + title : ""}</title>
       {children}
     </>
   );

@@ -27,11 +27,11 @@ const About = (props) => {
             <div className="col-lg-6 col-md-12 col-12">
               <div className="wpo-about-text">
                 <div className="wpo-section-title">
-                  <span>Welcome to Sevak Army!</span>
+                  <span>Welcome to SevakArmy!</span>
                   <h2 className="about-heading-second">Raise A Helping Hand For Those In Need.</h2>
                 </div>
                 <p>
-                  Sevak Army is a dedicated online platform where companies can register, mobilize their employees for
+                  SevakArmy is a dedicated online platform where companies can register, mobilize their employees for
                   volunteer work and track the social impact of their efforts. Our goal is to help businesses engage in
                   impactful volunteerism while meeting their CSR objectives. We provide the tools you need to foster a
                   culture of service, empowering your employees to contribute to causes that matter to them - and to
@@ -81,12 +81,12 @@ const About = (props) => {
             <div className="col-lg-6 col-md-12 col-12 about-text-left">
               <div className="wpo-about-text">
                 <div className="wpo-section-title">
-                  {/* <span>Welcome to Sevak Army!</span> */}
+                  {/* <span>Welcome to SevakArmy!</span> */}
                   <h2 className="about-heading-third">Register Your Company and Make a Difference.</h2>
                 </div>
                 <p>
                   Take the first step towards building a socially responsible company by registering your organisation
-                  with Sevak Army. By joining our platform, you gain access to a wide range of volunteering
+                  with SevakArmy. By joining our platform, you gain access to a wide range of volunteering
                   opportunities, comprehensive task management tools and real-time tracking of your company’s impact.
                 </p>
                 <h4 className=".services-title-text">It’s simple, it’s effective and it starts with a click.</h4>

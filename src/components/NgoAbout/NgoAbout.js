@@ -34,7 +34,7 @@ function NgoAbout({path}) {
     
       if (!data) {
         data =  {
-           title: "Page Not Found - Sevak Army",
+           title: "Page Not Found - SevakArmy",
            description: "The page you are looking for does not exist.",
            robots: "noindex, nofollow",
          }
@@ -71,12 +71,12 @@ function NgoAbout({path}) {
               <div className="row justify-content-center">
                 <div className="col-lg-8">
                   <div className="cta-wrap">
-                    <h2 className="mb-2">About Sevak Army</h2>
+                    <h2 className="mb-2">About SevakArmy</h2>
                     <p
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
                     >
-                      Sevak Army is an NGO dedicated to empowering individuals and communities through volunteerism. Our mission is to inspire collective action for a better society. Join us in making a lasting impact!
+                      SevakArmy is an NGO dedicated to empowering individuals and communities through volunteerism. Our mission is to inspire collective action for a better society. Join us in making a lasting impact!
                     </p>
                     <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
                         <Link  to="https://sevakarmy.com/" target="_blank" className="theme-btn" style={{ width: "fit-content" }}>

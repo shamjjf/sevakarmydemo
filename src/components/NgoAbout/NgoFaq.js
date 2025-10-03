@@ -5,19 +5,19 @@ import SectionTitle from "../SectionTitle/SectionTitle";
 
 const accordionData = [
   {
-    title: "What are the benefits of registering with Sevak Army?",
+    title: "What are the benefits of registering with SevakArmy?",
     content:
-      "By registering with Sevak Army, NGOs can access a dedicated pool of volunteers, manage tasks through our platform and track volunteer impact efficiently. Our platform also provides visibility and the ability to connect with compassionate individuals who are eager to make a difference.",
+      "By registering with SevakArmy, NGOs can access a dedicated pool of volunteers, manage tasks through our platform and track volunteer impact efficiently. Our platform also provides visibility and the ability to connect with compassionate individuals who are eager to make a difference.",
   },
   {
-    title: " Can my NGO post tasks for volunteers on Sevak Army?",
+    title: " Can my NGO post tasks for volunteers on SevakArmy?",
     content:
       "Yes, once your NGO is registered and approved, you can post tasks for volunteers directly on the platform through the 'NGO Dashboard'. You can set task requirements, deadlines and track volunteer progress.",
   },
   {
     title: "How do we ensure our tasks are completed by volunteers?",
     content:
-      "Sevak Army allows you to track task progress and communicate with volunteers directly through the platform. You can also set deadlines and send reminders to ensure tasks are completed on time.",
+      "SevakArmy allows you to track task progress and communicate with volunteers directly through the platform. You can also set deadlines and send reminders to ensure tasks are completed on time.",
   },
   {
     title: " Can my NGO provide feedback on volunteer performance?",

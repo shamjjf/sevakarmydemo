@@ -82,7 +82,7 @@ const JoinUsInfo = (props) => {
                 <h2>Become a Volunteer</h2>
               </div>
               <p>
-                Ready to make a difference? At Sevak Army, we offer opportunities for you to connect with meaningful
+                Ready to make a difference? At SevakArmy, we offer opportunities for you to connect with meaningful
                 causes that align with your skills and interests. Whether you're looking to mentor students, help
                 organise events or contribute your professional expertise, there's a task waiting for you.
               </p>
@@ -110,7 +110,7 @@ const JoinUsInfo = (props) => {
           </div>
           <div className="wpo-service-single-wrap">
             <p class="text-center pb-4">
-              Although volunteering on Sevak Army is free, we appreciate any support you can offer to keep the platform
+              Although volunteering on SevakArmy is free, we appreciate any support you can offer to keep the platform
               running and help us expand our outreach.
             </p>
           </div>
@@ -153,7 +153,7 @@ const JoinUsInfo = (props) => {
 
           <div className="wpo-service-single-wrap">
             <p class="text-center pb-4">
-              Sevak Army offers a range of membership options to suit volunteers with different levels of commitment.
+              SevakArmy offers a range of membership options to suit volunteers with different levels of commitment.
               Choose the level that fits your schedule and involvement.
             </p>
           </div>

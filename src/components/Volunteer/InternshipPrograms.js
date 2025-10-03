@@ -46,7 +46,7 @@ function InternshipPrograms() {
         <div className="container">
             <div className="row justify-content-center">
                 <div className="col-lg-10 col-md-12 col-12">
-                    <SectionTitle subtitle="Internship Programs" title="Sevak Army provides hands-on internships in volunteer management and social work." />
+                    <SectionTitle subtitle="Internship Programs" title="SevakArmy provides hands-on internships in volunteer management and social work." />
                 </div>
             </div>
             <div className="service-wrap mt-3">

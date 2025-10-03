@@ -62,7 +62,7 @@ const InfluencerRecognitionEventsPage = (props) => {
             <section className="container section-padding pt-5">
                 <div className="row justify-content-center">
                     <div className="col-lg-6 col-md-12 col-12">
-                        <SectionTitle subtitle="Recognising Impact, Celebrating Change" title="Awarding Exceptional Volunteers" paragarap="Influencers who rank high on our Leaderboard or consistently inspire their followers to volunteer will be invited to our Sevak Army Influencer Recognition Events. At these events, we:" />
+                        <SectionTitle subtitle="Recognising Impact, Celebrating Change" title="Awarding Exceptional Volunteers" paragarap="Influencers who rank highly on our Leaderboard or consistently inspire their followers to volunteer will be invited to our SevakArmy Influencer Recognition Events. At these events, we:" />
                     </div>
                 </div>
 
@@ -109,7 +109,7 @@ const InfluencerRecognitionEventsPage = (props) => {
                             <div className="wpo-about-img d-flex w-100">
                                 <div className="wpo-about-right">
                                     {/* <Image src={abImg7} alt="img" /> */}
-                                    <Image src={Networking} width={444} alt="Networking & Community Building Sevak Army" />
+                                    <Image src={Networking} width={444} alt="Networking & Community Building SevakArmy" />
                                 </div>
                             </div>
                         </div>
@@ -123,7 +123,7 @@ const InfluencerRecognitionEventsPage = (props) => {
                         <div className="col-lg-5 col-md-12 col-12">
                             <div className="wpo-about-img d-flex w-100">
                                 <div className="wpo-about-right pt-lg-3">
-                                    <Image src={MeetNetwork} height={280} alt="Be a part of Celebration - Sevak Army" />
+                                    <Image src={MeetNetwork} height={280} alt="Be a part of Celebration - SevakArmy" />
                                     {/* <Image src="https://placehold.co/324x304/png" alt="Register" /> */}
                                 </div>
                             </div>
@@ -134,7 +134,7 @@ const InfluencerRecognitionEventsPage = (props) => {
                                     <h3>Be Part of the Celebration</h3>
                                 </div>
                                 <p className="mt-0 pt-0" style={{ textAlign: 'justify' }}>
-                                    Whether you're just starting or have already made a big impact, these events are a chance to celebrate the collective power of Sevak Army influencers and recognise those who have led the charge for change.
+                                    Whether you're just starting or have already made a big impact, these events are a chance to celebrate the collective power of SevakArmy influencers and recognise those who have led the charge for change.
                                 </p>
                             </div>
                         </div>
@@ -149,12 +149,12 @@ const InfluencerRecognitionEventsPage = (props) => {
                             <div className="row justify-content-center">
                                 <div className="col-lg-8">
                                     <div className="cta-wrap">
-                                        <h2 className="mb-2">Join Sevak Army and Start Inspiring Change</h2>
+                                        <h2 className="mb-2">Join SevakArmy and Start Inspiring Change!</h2>
                                         <p
                                             className="text-center pt-2 px-2"
                                             style={{ textAlign: "justify", color: "white" }}
                                         >
-                                            Become a part of Sevak Army today and you could be among the influencers honoured for your contributions at our next recognition event. Your leadership and dedication deserve to be celebrated!
+                                            Become a part of SevakArmy today and you could be among the influencers honoured for your contributions at our next recognition event. Your leadership and dedication deserve to be celebrated!
                                         </p>
                                         <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
                                             <Link

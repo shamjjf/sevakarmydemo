@@ -30,7 +30,7 @@ const SchoolCollegeEvents = (props) => {
                     <h3 className="display-4 fw-bold text-titleeee">Marketing and Promotion</h3>
                   </div>
                   <p>
-                    At Sevak Army, we are deeply committed to building lasting and impactful connections with schools
+                    At SevakArmy, we are deeply committed to building lasting and impactful connections with schools
                     and colleges through well-crafted marketing strategies that showcase meaningful volunteer
                     opportunities.
                   </p>
@@ -43,7 +43,7 @@ const SchoolCollegeEvents = (props) => {
                     <h3 className="display-4 fw-bold text-titleeee">Promoting Volunteer Opportunities</h3>
                   </div>
                   <p>
-                    At Sevak Army, we understand the importance of keeping schools and colleges informed about volunteer
+                    At SevakArmy, we understand the importance of keeping schools and colleges informed about volunteer
                     opportunities that align with their goals. Our marketing efforts are designed to ensure that
                     institutions are not only aware of upcoming opportunities but also engaged and motivated to
                     participate.
@@ -109,18 +109,18 @@ const SchoolCollegeEvents = (props) => {
                     <h6 className="about-heading-second fw-bold text-titleeee">Recognition and Rewards</h6>
                   </div>
                   <p>
-                    At Sevak Army, we place immense value on the dedication and hard work of our volunteers, as well as
+                    At SevakArmy, we place immense value on the dedication and hard work of our volunteers, as well as
                     the schools and colleges that support them. Our Recognition and Rewards program is designed to
                     celebrate these contributions, providing volunteers with the acknowledgment they deserve, while
                     motivating them to continue their incredible work.
                   </p>
 
                   <div className="wpo-section-title mt-5">
-                    {/* <span>Welcome to Sevak Army!</span> */}
+                    {/* <span>Welcome to SevakArmy!</span> */}
                     <h2 className="about-heading-third text-titleeee">Volunteer Recognition</h2>
                   </div>
                   <p>
-                    Sevak Army strongly believes in acknowledging the contributions of every volunteer. We understand
+                    SevakArmy strongly believes in acknowledging the contributions of every volunteer. We understand
                     that behind every successful task is the commitment and energy of volunteers who dedicate their time
                     and skills to making a difference.
                   </p>

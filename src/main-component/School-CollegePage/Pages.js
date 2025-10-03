@@ -27,17 +27,17 @@ const featuresData = [
     iconClass: "flaticon-volunteer",
     title: "Our Mission",
     img: About2,
-    alt: 'Our Misson Sevak Army',
+    alt: 'Our Misson SevakArmy',
     description:
-      "At Sevak Army, we connect students with meaningful volunteering opportunities to promote leadership, teamwork, and social responsibility through real-world experiences that positively impact society. To motivate students further, they will earn leaderboard points for their contributions, encouraging healthy competition and recognition of their efforts in making a difference.",
+      "At SevakArmy, we connect students with meaningful volunteering opportunities to promote leadership, teamwork, and social responsibility through real-world experiences that positively impact society. To motivate students further, they will earn leaderboard points for their contributions, encouraging healthy competition and recognition of their efforts in making a difference.",
   },
   {
     iconClass: "flaticon-solidarity",
     title: "Our Vision",
     img: About3,
-    alt: 'Our Vision - Sevak Army',
+    alt: 'Our Vision - SevakArmy',
     description:
-      "At Sevak Army, our vision is to provide a platform to schools and colleges to engage students in volunteering, fostering responsibility, and community involvement. We aim to develop key life skills like leadership, teamwork, and problem-solving, empowering students to become socially conscious individuals committed to making a positive impact in society.",
+      "At SevakArmy, our vision is to provide a platform to schools and colleges to engage students in volunteering, fostering responsibility, and community involvement. We aim to develop key life skills like leadership, teamwork, and problem-solving, empowering students to become socially conscious individuals committed to making a positive impact in society.",
   },
 ];
 
@@ -56,7 +56,7 @@ const SchoolCollegePages = ({props, path}) => {
     
       if (!data) {
         data =  {
-           title: "Page Not Found - Sevak Army",
+           title: "Page Not Found - SevakArmy",
            description: "The page you are looking for does not exist.",
            robots: "noindex, nofollow",
          }
@@ -92,7 +92,7 @@ const SchoolCollegePages = ({props, path}) => {
                     <Image src={abImg1} alt="img" />
                   </div> */}
                   <div className="">
-                    <Image src={abImg2} style={{height:'auto', objectFit:'contain'}} alt="Volenteering oppertunities for Shools & Colleges - Sevak Army" />
+                    <Image src={abImg2} style={{height:'auto', objectFit:'contain'}} alt="Volenteering oppertunities for Shools & Colleges - SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -106,7 +106,7 @@ const SchoolCollegePages = ({props, path}) => {
                   </div>
                   <div className="pb-0 mb-0">
                     <h4>Promoting volunteerism among the youth!</h4>
-                    <p className="mb-0"> Sevak Army is a platform that connects schools, colleges,
+                    <p className="mb-0"> SevakArmy is a platform that connects schools, colleges,
                       and students with meaningful volunteer opportunities to make
                       a positive impact in society. We aim to inspire students to
                       participate in community service by offering flexible,
@@ -169,7 +169,7 @@ const SchoolCollegePages = ({props, path}) => {
                     >
                       Empower your students with real-world experiences that
                       build leadership, teamwork and social responsibility.
-                      Join Sevak Army today to inspire the next generation of
+                      Join SevakArmy today to inspire the next generation of
                       change-makers!
                     </p>
                     <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">

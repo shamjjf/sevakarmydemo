@@ -85,12 +85,12 @@ const featuresData = [
         // iconClass: "flaticon-volunteer",
         svg: ShareReferral,
         title: "Share Your Referral Link",
-        description: "After registering with Sevak Army, you'll receive a unique referral link. Share it via WhatsApp, email or social media to invite others to join.",
+        description: "After registering with SevakArmy, you'll receive a unique referral link. Share it via WhatsApp, email or social media to invite others to join.",
     },
     {
         iconClass: "flaticon-charity",
         title: "Earn Points for Every Sign-Up",
-        description: "For every person who signs up and volunteers through your referral link, you will earn points that boost your rank on  Sevak Army leaderboard.",
+        description: "For every person who signs up and volunteers through your referral link, you will earn points that boost your rank on  SevakArmy leaderboard.",
     },
     {
         iconClass: "flaticon-solidarity",
@@ -104,7 +104,7 @@ const featuresData1 = [
         // iconClass: "flaticon-volunteer",
         svg: SocialMedia,
         title: "",
-        description: "Post it on social media platforms with a personal message about your experience with Sevak Army.",
+        description: "Post it on social media platforms with a personal message about your experience with SevakArmy.",
     },
     {
         // iconClass: "flaticon-charity",
@@ -154,11 +154,11 @@ const ReferAndEarnPage = (props) => {
                             <div className="col-lg-6 col-md-12 col-12">
                                 <div className="wpo-about-text p-3 mt-0 pb-1 pb-lg-2 pt-1 pt-lg-2">
                                     <div className="wpo-section-title mt-0 mb-4">
-                                        <span>Invite & Earn with Sevak Army </span>
+                                        <span>Invite & Earn with SevakArmy </span>
                                         <h2 className="about-heading-second text-titleeee">Grow the Platform and Earn Points!</h2>
                                     </div>
                                     <p className="mt-0 pt-0" style={{ textAlign: 'justify' }}>
-                                        At Sevak Army, we believe in the power of community. That’s why we’re making it easy for you to invite others to join our platform and help make an even bigger impact. By using your unique referral link, you can introduce your friends, family and followers to Sevak Army and earn points for every person who signs up and volunteers through your link.
+                                        At SevakArmy, we believe in the power of community. That’s why we’re making it easy for you to invite others to join our platform and help make an even bigger impact. By using your unique referral link, you can introduce your friends, family and followers to SevakArmy and earn points for every person who signs up and volunteers through your link.
                                     </p>
                                 </div>
                             </div>
@@ -290,7 +290,7 @@ const ReferAndEarnPage = (props) => {
 
                                     <span>Ready to Spread the Word?</span>
                                     <p className="pt-3 px-2" style={{ color: 'whitesmoke' }}>
-                                        Help Sevak Army grow and earn rewards while doing it! Share your referral link today and start inviting others to be a part of the revolutionary platform.
+                                        Help SevakArmy grow and earn rewards while doing it! Share your referral link today and start inviting others to be a part of the revolutionary platform.
                                     </p>
                                     <Link to="https://app.sevakarmy.com/" target="_blank" className="theme-btn mt-3">
                                         Start Referring and Earn Points Now!

@@ -42,7 +42,7 @@ const Services = [
     title: "Find Tasks that Match Your Skills",
     slug: "2",
     description:
-      "We offer a variety of tasks that suit your skills and interests - whether you want to teach, organise events, help with community work, or support environmental projects. You can easily search for tasks that fit what you enjoy and have time for.",
+      "We offer a variety of tasks that suit your skills and interests - whether you want to teach, organise events, help with community work, or support environmental projects. You can quickly find tasks that match your interests and availability.",
   },
   {
     Id: "03",
@@ -51,7 +51,7 @@ const Services = [
     title: "Volunteer when it’s Convenient for You",
     slug: "3",
     description:
-      "With Sevak Army, you can volunteer at your own pace. Whether you have just a few hours or want to help regularly, we have tasks that fit your schedule. Volunteering has never been this flexible!",
+      "With SevakArmy, you can volunteer at your own pace. Whether you have just a few hours or want to help regularly, we have tasks that fit your schedule. Volunteering has never been this flexible!",
   },
   {
     Id: "04",
@@ -87,7 +87,7 @@ const Services = [
     title: "Be Part of a Supportive Community",
     slug: "4",
     description:
-      "Sevak Army is more than just a platform - it’s a community. You’ll connect with like-minded volunteers and NGOs who are all passionate about making a difference. You will never feel alone in your mission to help others.",
+      "SevakArmy is more than just a platform - it’s a community. You’ll connect with like-minded volunteers and NGOs who are all passionate about making a difference. You will never feel alone in your mission to help others.",
   },
   {
     Id: "08",
@@ -96,7 +96,7 @@ const Services = [
     title: "Invite Friends and Earn Points",
     slug: "4",
     description:
-      "Do you know someone who would like to volunteer, too? Invite them to join Sevak Army and you’ll earn points for each person who signs up. It’s a great way to expand our community and get rewarded for it!",
+      "Do you know someone who would like to volunteer, too? Invite them to join SevakArmy and you’ll earn points for each person who signs up. It’s a great way to expand our community and get rewarded for it!",
   },
   {
     Id: "09",
@@ -145,7 +145,7 @@ const VolunteerKeyFeaturesPage = (props) => {
       <div className="container section-padding">
         <div className="row justify-content-center">
           <div className="col-lg-6 col-md-12 col-12">
-            <SectionTitle subtitle="Empower Your Impact, Connect with Purpose!" title="Key Features of Sevak Army" paragarap=" Here’s what makes our platform stand out and why it’s the right
+            <SectionTitle subtitle="Empower Your Impact, Connect with Purpose!" title="Key Features of SevakArmy" paragarap=" Here’s what makes our platform stand out and why it’s the right
             choice for you." />
           </div>
         </div>
@@ -183,7 +183,7 @@ const VolunteerKeyFeaturesPage = (props) => {
               <div className="row justify-content-center">
                 <div className="col-lg-8">
                   <div className="cta-wrap">
-                    <h2>Join Sevak Army Today</h2>
+                    <h2>Join SevakArmy Today</h2>
                     <p
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}

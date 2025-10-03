@@ -9,21 +9,21 @@ import Image from "next/image";
 const Testimonial = [
   {
     id: "01",
-    text: "When I joined Sevak Army, I realised volunteering could transform my life. Teaching underprivileged children in remote villages was especially rewarding,  giving me a profound sense of purpose and fulfillment.",
+    text: "When I joined SevakArmy, I realised volunteering could transform my life. Teaching underprivileged children in remote villages was especially rewarding,  giving me a profound sense of purpose and fulfillment.",
     title: "Aarav M.",
     subtitle: "Volunteer",
     image: image1,
   },
   {
     id: "02",
-    text: "Before joining Sevak Army, I felt something was missing in my life. Volunteering with an NGO that supports elderly care ignited a passion within me, allowing me to rediscover my purpose through sharing laughter and stories.",
+    text: "Before joining SevakArmy, I felt something was missing in my life. Volunteering with an NGO that supports elderly care ignited a passion within me, allowing me to rediscover my purpose through sharing laughter and stories.",
     title: "Priya S.",
     subtitle: "Volunteer",
     image: image2,
   },
   {
     id: "03",
-    text: "As a busy professional, Rahul found deeper meaning and fulfillment through Sevak Army by teaching digital literacy to underprivileged youth, empowering them with essential computer skills for better career opportunities.",
+    text: "As a busy professional, Rahul found deeper meaning and fulfillment through SevakArmy by teaching digital literacy to underprivileged youth, empowering them with essential computer skills for better career opportunities.",
     title: "Rahul V.",
     subtitle: "Volunteer",
     image: image3,

@@ -24,7 +24,7 @@ const VolunteerBlogsComponent = (props) => {
   const blogs = [
     {
       id: "1",
-      title: "Join the Movement: How One Small Task Can Create Lasting Impact through Sevak Army",
+      title: "Join the Movement: How One Small Task Can Create Lasting Impact through SevakArmy",
       slug: "1",
       subtitle: "The Power of Small Actions",
       create_at: "25 Jan, 24",
@@ -40,9 +40,9 @@ const VolunteerBlogsComponent = (props) => {
     },
     {
       id: "2",
-      title: "Sevak Army 101: A Guide for New Volunteers to Start Making a Difference",
+      title: "SevakArmy 101: A Guide for New Volunteers to Start Making a Difference",
       slug: "2",
-      subtitle: "Understanding Sevak Army",
+      subtitle: "Understanding SevakArmy",
       create_at: "25 Jan, 24",
       screens: blogImg2,
       bsing: blog2,
@@ -56,7 +56,7 @@ const VolunteerBlogsComponent = (props) => {
     },
     {
       id: "3",
-      title: "Sevak Army 101: Unleash Your Skills for Good - How Sevak Army Helps You Make Real Change",
+      title: "SevakArmy 101: Unleash Your Skills for Good - How SevakArmy Helps You Make Real Change",
       slug: "3",
       subtitle: "Understanding the Power of Your Skills",
       create_at: "25 Jan, 24",
@@ -72,7 +72,7 @@ const VolunteerBlogsComponent = (props) => {
     },
     {
       id: "4",
-      title: "The Power of Volunteering: Transforming Communities with Sevak Army",
+      title: "The Power of Volunteering: Transforming Communities with SevakArmy",
       slug: "3",
       subtitle: "The Transformative Impact of Volunteering",
       create_at: "25 Jan, 24",
@@ -88,7 +88,7 @@ const VolunteerBlogsComponent = (props) => {
     },
     {
       id: "5",
-      title: "Turning Passion into Impact: How Sevak Army Bridges Volunteers and Meaningful Projects",
+      title: "Turning Passion into Impact: How SevakArmy Bridges Volunteers and Meaningful Projects",
       slug: "3",
       subtitle: "Finding the Right Fit: Matching Volunteers with Purpose",
       create_at: "25 Jan, 24",
@@ -138,7 +138,7 @@ const VolunteerBlogsComponent = (props) => {
                     <h2>Explore Our Blog for Insights and Updates</h2>
                   </div>
                   <p>
-                    Welcome to the Blog section of  Sevak Army Organisation Portal. Here, you’ll find a wealth of
+                    Welcome to the Blog section of  SevakArmy Organisation Portal. Here, you’ll find a wealth of
                     information designed to keep you updated on the latest trends in corporate social responsibility,
                     volunteering best practices and success stories from our network. Our blog is a valuable resource
                     for organisations looking to enhance their CSR efforts, engage employees and make a positive impact

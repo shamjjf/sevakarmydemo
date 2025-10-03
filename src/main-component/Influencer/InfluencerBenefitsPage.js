@@ -49,7 +49,7 @@ const Services = [
 
         title: 'Earn Points and Climb the Leaderboard',
         slug: '2',
-        description: 'For every follower who signs up and volunteers through your referral link, you earn points that help you rise on  Sevak Army leaderboard. The more impact you generate, the higher you go.',
+        description: 'For every follower who signs up and volunteers through your referral link, you earn points that help you rise on  SevakArmy leaderboard. The more impact you generate, the higher you go.',
     },
     {
         Id: '03',
@@ -82,7 +82,7 @@ const Services = [
 
         title: 'Track Your Collective Impact',
         slug: '4',
-        description: 'With Sevak Army’s platform, you can easily track the number of volunteers who have joined through your referral link, the tasks they’ve completed and the overall impact you’ve created together.',
+        description: 'With SevakArmy’s platform, you can easily track the number of volunteers who have joined through your referral link, the tasks they’ve completed and the overall impact you’ve created together.',
     },
     {
         Id: '07',
@@ -98,7 +98,7 @@ const Services = [
 
         title: 'Earn Extra Points for Referrals',
         slug: '4',
-        description: 'Every time you refer someone to  Sevak Army, you earn extra points, giving you even more opportunities to move up the leaderboard and gain greater recognition within the platform.',
+        description: 'Every time you refer someone to  SevakArmy, you earn extra points, giving you even more opportunities to move up the leaderboard and gain greater recognition within the platform.',
     },
     {
         Id: '09',
@@ -114,7 +114,7 @@ const Services = [
 
         title: 'Engage with Trusted NGOs',
         slug: '4',
-        description: 'You’ll encourage your followers to join as volunteers at Sevak Army, guiding them toward working with verified, trusted NGOs. This means you can confidently promote volunteering opportunities, knowing they’re contributing to impactful and legitimate causes.',
+        description: 'You’ll encourage your followers to join as volunteers at SevakArmy, guiding them toward working with verified, trusted NGOs. This means you can confidently promote volunteering opportunities, knowing they’re contributing to impactful and legitimate causes.',
     },
     // {
     //     Id: '11',
@@ -138,7 +138,7 @@ const Services = [
 
         title: 'Inspire and Lead Others',
         slug: '4',
-        description: 'Your role in encouraging followers to join  Sevak Army puts you in a leadership position. You’re not just promoting a product - you’re inspiring your community to take action and make a difference, further solidifying your status as a changemaker.',
+        description: 'Your role in encouraging followers to join  SevakArmy puts you in a leadership position. You’re not just promoting a product - you’re inspiring your community to take action and make a difference, further solidifying your status as a changemaker.',
     },
 ]
 
@@ -166,11 +166,11 @@ const InfluencerBenefitsPage = (props) => {
             <div className="container section-padding">
                 <div className="row justify-content-center">
                     <div className="col-lg-6 col-md-12 col-12">
-                        <SectionTitle subtitle="Benefits" title="Benefits for Influencers on Sevak Army" />
+                        <SectionTitle subtitle="Benefits" title="Benefits for Influencers on SevakArmy" />
                     </div>
                 </div>
                 <div className="service-wrap">
-                    <p className="w-100 text-center pt-3 pb-3 fs-4">Here’s why joining as a Sevak Army influencer is the right choice: </p>
+                    <p className="w-100 text-center pt-3 pb-3 fs-4">Here’s why joining as a SevakArmy influencer is the right choice: </p>
                     <div className="row justify-content-center column-gappp align-items-stretch gy-3">
                         {Services.slice(0, 19).map((Service, sitem) => (
                             <div className="col col-xl-4 col-lg-5 col-md-6 col-sm-8 col-12" key={sitem}>
@@ -191,7 +191,7 @@ const InfluencerBenefitsPage = (props) => {
                             <div className="row justify-content-center">
                                 <div className="col-lg-8">
                                     <div className="cta-wrap">
-                                        <h2 className="mb-2">Join Sevak Army Today</h2>
+                                        <h2 className="mb-2">Join SevakArmy Today</h2>
                                         <p
                                             className="text-center pt-2 px-2"
                                             style={{ textAlign: "justify", color: "white" }}

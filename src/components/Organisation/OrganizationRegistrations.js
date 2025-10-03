@@ -194,7 +194,7 @@ const OrganisationRegistration = (props) => {
               <div className="w-lg-50 w-100 order-lg-2 d-flex justify-content-center">
                 <div className="wpo-about-img-s5">
                   <div className="image">
-                    <Image className="" src={About4} priority={true} height="auto" style={{height:'auto', objectFit:'contain'}} alt="Volunteering with Sevak Army made easy" />
+                    <Image className="" src={About4} priority={true} height="auto" style={{height:'auto', objectFit:'contain'}} alt="Volunteering with SevakArmy made easy" />
                   </div>
                   <div className="wpo-supporter">
                     <div className="wpo-supporter-text">
@@ -214,13 +214,13 @@ const OrganisationRegistration = (props) => {
               <div className=" order-lg-1">
                 <div className="wpo-about-text">
                   <div className="wpo-section-title">
-                    <span>Register with Sevak Army</span>
+                    <span>Register with SevakArmy</span>
                     <h2 className="about-heading-third text-titleeee">
                       Making Corporate Social Responsibility Easy
                     </h2>
                   </div>
                   <p>
-                    At Sevak Army, we believe every organisation can make an
+                    At SevakArmy, we believe every organisation can make an
                     impact on society. Our platform helps organisations register
                     and encourage their employees to participate in volunteer
                     activities posted by NGOs. Whether you&apos;re a small business
@@ -246,7 +246,7 @@ const OrganisationRegistration = (props) => {
               <div className="col-lg-10 col-md-12 col-12">
                 <SectionTitle
                   title="Register Your Organisation and Make a Difference"
-                  paragarap="Joining Sevak Army is quick and straightforward. Simply fill out our Organisation Registration Form with your basic details. Once you’ve completed the form, you’ll gain access to your organisation’s dashboard."
+                  paragarap="Joining SevakArmy is quick and straightforward. Simply fill out our Organisation Registration Form with your basic details. Once you’ve completed the form, you’ll gain access to your organisation’s dashboard."
                 />
               </div>
             </div>
@@ -327,7 +327,7 @@ const OrganisationRegistration = (props) => {
                       <b>Volunteering History:</b> As your employees complete
                       volunteer tasks, their contributions will be tracked and
                       displayed in your organisation’s history, showcasing the
-                      impact made through  Sevak Army platform.
+                      impact made through  SevakArmy platform.
                     </p>
                     <p className="mb-0"> This profile helps you manage your volunteer efforts and
                       serves as a public commitment to social good, enhancing your
@@ -342,7 +342,7 @@ const OrganisationRegistration = (props) => {
                     <Image src={abImg2} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-0">
-                    <Image src={abImg1} width={512} height={700} alt="Setup Your organisation’s Profile with Sevak Army" />
+                    <Image src={abImg1} width={512} height={700} alt="Setup Your organisation’s Profile with SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -372,7 +372,7 @@ const OrganisationRegistration = (props) => {
                     </div>
                     <div>
                       <p className="mb-0"> Getting your employees involved in volunteering is easy
-                        with Sevak Army. After registering your organisation, you
+                        with SevakArmy. After registering your organisation, you
                         can send Employee Registration Invitations directly from
                         our platform. Invite them to join your CSR initiatives.{" "}</p>
                       <span className="mb-2">Employees can: </span>
@@ -427,8 +427,8 @@ const OrganisationRegistration = (props) => {
             <div className="row justify-content-center">
               <div className="col-lg-10 col-md-12 col-12">
                 <SectionTitle
-                  title="Why Register with Sevak Army?"
-                  paragarap="When you register for Sevak Army, you unlock features to boost
+                  title="Why Register with SevakArmy?"
+                  paragarap="When you register for SevakArmy, you unlock features to boost
                   your CSR efforts."
                 />
               </div>
@@ -476,7 +476,7 @@ const OrganisationRegistration = (props) => {
               <SectionTitle
                 // subtitle="Why Choose Us?"
                 title="Why Choose Us?"
-                paragarap="At Sevak Army, we offer a unique approach to corporate social responsibility that stands out from the rest. Here’s why your organisation should register with us."
+                paragarap="At SevakArmy, we offer a unique approach to corporate social responsibility that stands out from the rest. Here’s why your organisation should register with us."
               />
             </div>
           </div>
@@ -513,7 +513,7 @@ const OrganisationRegistration = (props) => {
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
                     >
-                      Join Sevak Army today and amplify your Organisation impact!
+                      Join SevakArmy today and amplify your Organisation impact!
                       By registering, your Organisation can collaborate with changemakers, participate in community-driven initiatives, and gain access to a network of passionate volunteers. Get involved and make a difference in your community!
                     </p>
                     <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">

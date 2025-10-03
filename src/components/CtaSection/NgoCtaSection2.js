@@ -26,7 +26,7 @@ const NgoCtaSection2 = () => {
                                 <div className="cta-wrap">
                                     <span className="subtitle">Unlock Potential, Achieve Greater Change</span>
                                     <h2 className="my-3 text-white" style={{fontSize:'32px'}}>Expand Your Reach, Empower Your Mission</h2>
-                                    <p style={{ color: 'whitesmoke' }}>Join Sevak Army to connect with skilled volunteers who are passionate about supporting your cause. Register your NGO, post tasks and find the right people to help you make a greater impact. Together, we can achieve more and drive real change in communities across India.</p>
+                                    <p style={{ color: 'whitesmoke' }}>Join SevakArmy to connect with skilled volunteers who are passionate about supporting your cause. Register your NGO, post tasks and find the right people to help you make a greater impact. Together, we can achieve more and drive real change in communities across India.</p>
                                     <Link  to="https://app.sevakarmy.com/" target="_blank" className="theme-btn-cta">
                                         Register Your NGO Today
                                     </Link>

@@ -72,7 +72,7 @@ const ForgotPassword = ({ defaultSign = "register", show, setShow }) => {
             <div className="w-full d-flex justify-content-center align-items-center" style={{ height: '100vh' }}>
                 <div className="d-flex justify-content-between gap-5 flex-lg-row flex-column p-4 div-shadoww" style={{ width: 'fit-content', height: 'fit-content' }}>
                     <div className="">
-                        <Image src={Img1} className="h-100" width={600} alt="Sevak Army" />
+                        <Image src={Img1} className="h-100" width={600} alt="SevakArmy" />
                     </div>
                     <div style={{ width: "100%" }} className="d-flex flex-column w-100 justify-content-center align-items-center">
                         <h3 className="my-3 w-100 text-center" style={{ fontSize: "32px", fontWeight: "700" }}>

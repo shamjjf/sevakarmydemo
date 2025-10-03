@@ -59,7 +59,7 @@ const Services2 = [
     title: "Leaderboard",
     slug: "2",
     description:
-      "Schools and colleges can also nominate influential students or ambassadors who inspire others to join the platform. Points are awarded for every student they bring to Sevak Army platform. Influencers can share referral links and each successful registration through their link adds points to their tally.",
+      "Schools and colleges can also nominate influential students or ambassadors who inspire others to join the platform. Points are awarded for every student they bring to SevakArmy platform. Influencers can share referral links and each successful registration through their link adds points to their tally.",
   },
 ];
 
@@ -68,7 +68,7 @@ const featuresData = [
     iconClass: "flaticon-volunteer",
     title: "Points for Participation",
     img: About2,
-    alt: 'Earn Coins for Participation with Sevak Army',
+    alt: 'Earn Coins for Participation with SevakArmy',
     description:
       "Every task that a student completes as a volunteer earns them points. Different tasks may carry different point values based on their complexity or time commitment. For example, a short-term task might earn fewer points compared to a long-term project or a more complex challenge.",
   },
@@ -85,7 +85,7 @@ const featuresData1 = [
   {
     iconClass: "flaticon-volunteer",
     img: Img1,
-    alt: 'Get recognised for performance with Sevak Army',
+    alt: 'Get recognised for performance with SevakArmy',
     title: "Weekly Leaderboard",
     description:
       "Provides short-term motivation for students and schools to perform well and gain immediate recognition.",
@@ -136,7 +136,7 @@ const SchoolCollegeLeaderboardPage = (props) => {
               <div className="col-lg-6 col-md-12 col-12">
                 <div className="wpo-about-img">
                   <div className="wpo-about-right pt-3">
-                    <Image width={580} src={LeaderboardWorking} alt="Leader Board - School & Colleges - Sevak Army" />
+                    <Image width={580} src={LeaderboardWorking} alt="Leader Board - School & Colleges - SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -145,12 +145,12 @@ const SchoolCollegeLeaderboardPage = (props) => {
                   <div className="wpo-section-title mt-0 mb-3 pb-0">
                     {/* <div className="custom-panell"> */}
                     <h2 className="about-heading-second text-titleeee mb-0 pb-0">
-                      Sevak Army School/Colleges Leaderboard
+                      SevakArmy School/Colleges Leaderboard
                     </h2>
                     {/* </div> */}
                   </div>
                   <p style={{ textAlign: "justify" }}>
-                    Sevak Army Leaderboard for schools and colleges is an
+                    SevakArmy Leaderboard for schools and colleges is an
                     exciting feature designed to inspire competition, track
                     volunteer performance and recognise the efforts of students
                     across different educational institutions. Through this
@@ -175,14 +175,14 @@ const SchoolCollegeLeaderboardPage = (props) => {
                     </h2>
                   </div>
                   <p style={{ textAlign: "justify" }}>
-                    Sevak Army Leaderboard is a dynamic tracking system that
+                    SevakArmy Leaderboard is a dynamic tracking system that
                     ranks students, schools and colleges based on their
                     participation in volunteer activities. It’s a tool that
                     encourages healthy competition by assigning points for each
                     task completed by student volunteers. These points
                     accumulate over time, allowing participants to see where
                     they stand compared to others in their institution or across
-                    the broader Sevak Army network.
+                    the broader SevakArmy network.
                   </p>
                 </div>
               </div>
@@ -192,7 +192,7 @@ const SchoolCollegeLeaderboardPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3 pt-lg-5">
-                    <Image src={abImg7} height={383} alt="Leader Board - School & Colleges - Sevak Army" />
+                    <Image src={abImg7} height={383} alt="Leader Board - School & Colleges - SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -279,7 +279,7 @@ const SchoolCollegeLeaderboardPage = (props) => {
               <SectionTitle
                 subtitle="Track Your Progress"
                 title="Weekly, Monthly and Yearly Rankings"
-                paragarap="Sevak Army updates leaderboards weekly, monthly, and yearly, driving continuous improvement and engagement. This system offers regular recognition opportunities, motivating students and institutions to stay active throughout the year."
+                paragarap="SevakArmy updates leaderboards weekly, monthly, and yearly, driving continuous improvement and engagement. This system offers regular recognition opportunities, motivating students and institutions to stay active throughout the year."
               />
             </div>
           </div>
@@ -315,7 +315,7 @@ const SchoolCollegeLeaderboardPage = (props) => {
           <div className="Gamification and Rewards">
             <SectionTitle
               title="Gamification and Rewards"
-              paragarap="To make volunteering fun and rewarding, the leaderboard leverages gamification. Much like in a mobile game, where players accumulate points and move up levels, Sevak Army’s leaderboard offers a similar sense of achievement and competition."
+              paragarap="To make volunteering fun and rewarding, the leaderboard leverages gamification. Much like in a mobile game, where players accumulate points and move up levels, SevakArmy’s leaderboard offers a similar sense of achievement and competition."
             />
           </div>
         </div>
@@ -387,7 +387,7 @@ const SchoolCollegeLeaderboardPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3">
-                    <Image src={Referalimg} alt="Earn Referrals & Recognisation with Sevak Army" width={400} />
+                    <Image src={Referalimg} alt="Earn Referrals & Recognisation with SevakArmy" width={400} />
                   </div>
                 </div>
               </div>
@@ -448,7 +448,7 @@ const SchoolCollegeLeaderboardPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3 pt-lg-5">
-                    <Image src={Compimg} alt="Inspiring Healthy Competition for volunteering with Sevak Army" />
+                    <Image src={Compimg} alt="Inspiring Healthy Competition for volunteering with SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -462,7 +462,7 @@ const SchoolCollegeLeaderboardPage = (props) => {
           <div className="col-lg-8 col-md-12 col-12">
             <SectionTitle
               title="Why the Leaderboard Matters for Schools and Colleges?"
-              paragarap="For schools and colleges, the leaderboard offers a unique way to measure and promote their students’ involvement in social causes. By engaging students through Sevak Army platform, institutions can:"
+              paragarap="For schools and colleges, the leaderboard offers a unique way to measure and promote their students’ involvement in social causes. By engaging students through SevakArmy platform, institutions can:"
             />
           </div>
         </div>
@@ -561,7 +561,7 @@ const SchoolCollegeLeaderboardPage = (props) => {
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
                     >
-                      Join Sevak Army Leaderboard and see how your school or
+                      Join SevakArmy Leaderboard and see how your school or
                       college can rise to the top. Encourage your students to
                       engage in meaningful volunteer work, track their progress,
                       and celebrate their achievements on a platform that values

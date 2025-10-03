@@ -37,20 +37,20 @@ function NgoBenefitsSection(props) {
                                 <div className="col-lg-6 col-md-12 col-12">
                                     <div className="wpo-about-img">
                                         <div className="wpo-about-right pt-0">
-                                            <Image src={SocialImpact} priority={true} width={539} height={470} alt="Why Should NGOs Register on Sevak Army?" />
+                                            <Image src={SocialImpact} priority={true} width={539} height={470} alt="Why Should NGOs Register on SevakArmy?" />
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-lg-6 col-md-12 col-12">
                                     <div className="wpo-about-text mt-1">
                                         <div className="wpo-section-title mb-3">
-                                            <span>Amplify Your Reach with Sevak Army</span>
+                                            <span>Amplify Your Reach with SevakArmy</span>
                                             <h2 className="about-heading-second text-titleeee mt-0">
-                                                Why Should NGOs Register on Sevak Army?
+                                                Why Should NGOs Register on SevakArmy?
                                             </h2>
                                         </div>
                                         <p style={{ textAlign: "justify" }}>
-                                            Sevak Army is more than just a platform; it's a powerful tool designed to connect NGOs with dedicated volunteers across India. By joining Sevak Army, your organisation gains access to passionate individuals, streamlined task management and increased visibility - all to help you make a bigger, more lasting impact.
+                                            SevakArmy is more than just a platform; it's a powerful tool designed to connect NGOs with dedicated volunteers across India. By joining SevakArmy, your organisation gains access to passionate individuals, streamlined task management and increased visibility - all to help you make a bigger, more lasting impact.
                                         </p>
 
                                     </div>
@@ -63,7 +63,7 @@ function NgoBenefitsSection(props) {
                 <section className="wpo-causes-section-s2 pb-5 pt-5">
                     <div className="causes-wrap">
                         <div className="container">
-                            <h3 className="text-center">Here's why you should register your NGO with Sevak Army:  </h3>
+                            <h3 className="text-center">Here's why you should register your NGO with SevakArmy:  </h3>
 
                             <section className="container mt-3">
                                 <div className="">
@@ -79,7 +79,7 @@ function NgoBenefitsSection(props) {
                                                                 </div>
                                                             </div>
                                                             <h2 className="text-center">No Cost for Registration</h2>
-                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>Registering your NGO on Sevak Army is free, allowing you to connect with volunteers without any financial burden.</p>
+                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>Registering your NGO on SevakArmy is free, allowing you to connect with volunteers without any financial burden.</p>
                                                         </div>
                                                     </div>
                                                     <div className="service-item px-4 py-4 col-xl-3 col-lg-4 col-md-8 col-sm-10 col-11 sevak-custom-carddd mb-0" style={{ minHeight: '100%' }}>
@@ -101,7 +101,7 @@ function NgoBenefitsSection(props) {
                                                                 </div>
                                                             </div>
                                                             <h2 className="text-center">Expand Your Reach Across India </h2>
-                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>Sevak Army brings visibility to NGOs nationwide, helping you reach volunteers from cities, towns and rural areas who might otherwise not have known about your organisation.</p>
+                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>SevakArmy brings visibility to NGOs nationwide, helping you reach volunteers from cities, towns and rural areas who might otherwise not have known about your organisation.</p>
                                                         </div>
                                                     </div>
                                                     <div className="service-item px-4 py-4 col-xl-3 col-lg-4 col-md-8 col-sm-10 col-11 sevak-custom-carddd mb-0" style={{ minHeight: '100%' }}>
@@ -145,7 +145,7 @@ function NgoBenefitsSection(props) {
                                                                 </div>
                                                             </div>
                                                             <h2 className="text-center">Efficient Volunteer Matching</h2>
-                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>Save time on recruitment. Sevak Army helps match your tasks with volunteers who have the skills and passion to meet your needs.</p>
+                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>Save time on recruitment. SevakArmy helps match your tasks with volunteers who have the skills and passion to meet your needs.</p>
                                                         </div>
                                                     </div>
                                                     <div className="service-item px-4 py-4 col-xl-3 col-lg-4 col-md-8 col-sm-10 col-11 sevak-custom-carddd mb-0" style={{ minHeight: '100%' }}>
@@ -200,7 +200,7 @@ function NgoBenefitsSection(props) {
                                                                 </div>
                                                             </div>
                                                             <h2 className="text-center">Reliable and Verified Volunteers</h2>
-                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>All volunteers on Sevak Army are verified, so you can trust that you’re connecting with genuine, motivated individuals who are committed to helping.</p>
+                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>All volunteers on SevakArmy are verified, so you can trust that you’re connecting with genuine, motivated individuals who are committed to helping.</p>
                                                         </div>
                                                     </div>
                                                     <div className="service-item px-4 py-4 col-xl-3 col-lg-4 col-md-8 col-sm-10 col-11 sevak-custom-carddd mb-0" style={{ minHeight: '100%' }}>
@@ -211,7 +211,7 @@ function NgoBenefitsSection(props) {
                                                                 </div>
                                                             </div>
                                                             <h2 className="text-center">Gamified Leaderboards for Engagement</h2>
-                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>Sevak Army’s leaderboard feature encourages volunteers to stay active and engaged. NGOs can also see which tasks are most popular and learn from top performers.</p>
+                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>SevakArmy’s leaderboard feature encourages volunteers to stay active and engaged. NGOs can also see which tasks are most popular and learn from top performers.</p>
                                                         </div>
                                                     </div>
                                                     <div className="service-item px-4 py-4 col-xl-3 col-lg-4 col-md-8 col-sm-10 col-11 sevak-custom-carddd mb-0" style={{ minHeight: '100%' }}>
@@ -222,7 +222,7 @@ function NgoBenefitsSection(props) {
                                                                 </div>
                                                             </div>
                                                             <h2 className="text-center">Promote Your Events & Initiatives</h2>
-                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>Easily share information about your NGO’s events, drives or campaigns on Sevak Army, attracting more volunteers and gaining wider support.</p>
+                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>Easily share information about your NGO’s events, drives or campaigns on SevakArmy, attracting more volunteers and gaining wider support.</p>
                                                         </div>
                                                     </div>
                                                     <div className="service-item px-4 py-4 col-xl-3 col-lg-4 col-md-8 col-sm-10 col-11 sevak-custom-carddd mb-0" style={{ minHeight: '100%' }}>
@@ -244,7 +244,7 @@ function NgoBenefitsSection(props) {
                                                                 </div>
                                                             </div>
                                                             <h2 className="text-center">Effortless Project Coordination</h2>
-                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>Manage various projects simultaneously with user-friendly tools. Focus on your core mission while Sevak Army simplifies volunteer coordination and task tracking.</p>
+                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>Manage various projects simultaneously with user-friendly tools. Focus on your core mission while SevakArmy simplifies volunteer coordination and task tracking.</p>
                                                         </div>
                                                     </div>
                                                     <div className="service-item px-4 py-4 col-xl-3 col-lg-4 col-md-8 col-sm-10 col-11 sevak-custom-carddd mb-0" style={{ minHeight: '100%' }}>
@@ -255,7 +255,7 @@ function NgoBenefitsSection(props) {
                                                                 </div>
                                                             </div>
                                                             <h2 className="text-center">Support for Urban & Rural Initiatives</h2>
-                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>Whether you operate in a city or a village, Sevak Army helps you reach volunteers who are ready to support your local projects.</p>
+                                                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>Whether you operate in a city or a village, SevakArmy helps you reach volunteers who are ready to support your local projects.</p>
                                                         </div>
                                                     </div>
                                                     <div className="service-item px-4 py-4 col-xl-3 col-lg-4 col-md-8 col-sm-10 col-11 sevak-custom-carddd mb-0" style={{ minHeight: '100%' }}>
@@ -292,7 +292,7 @@ function NgoBenefitsSection(props) {
                                                 className="text-center pt-2 px-2"
                                                 style={{ textAlign: "justify", color: "white" }}
                                             >
-                                                Join Sevak Army today and start connecting with volunteers who share your passion for making a difference. Together, we can drive real, positive change.
+                                                Join SevakArmy today and start connecting with volunteers who share your passion for making a difference. Together, we can drive real, positive change.
                                             </p>
                                             <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
                                                 <span>Ready to Empower Your Mission?</span>

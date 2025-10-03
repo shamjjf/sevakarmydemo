@@ -47,7 +47,7 @@ function RegisterYourCompany({show, setShow}) {
         <div className="container pt-3">
             <div className="row justify-content-center">
                 <div className="col-lg-10 col-md-12 col-12">
-                    <SectionTitle title="Register Your organisation and Make a Difference" paragarap="Joining Sevak Army is quick and straightforward. Simply fill out our Company Registration Form with your basic details and we’ll guide you through the rest. Once you’ve completed the form, you’ll gain access to our platform’s full suite of CSR tools and resources." />
+                    <SectionTitle title="Register Your organisation and Make a Difference" paragarap="Joining SevakArmy is quick and straightforward. Simply fill out our Company Registration Form with your basic details and we’ll guide you through the rest. Once you’ve completed the form, you’ll gain access to our platform’s full suite of CSR tools and resources." />
                 </div>
             </div>
             <div className="service-wrap mt-3">

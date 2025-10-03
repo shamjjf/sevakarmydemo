@@ -98,7 +98,7 @@ const Services = [
     title: "Secure and Trusted Platform",
     slug: "4",
     description:
-      "Work with verified volunteers on a trusted platform. Sevak Army ensures both NGOs and volunteers are authentic, creating a safe and reliable environment for collaboration.",
+      "Work with verified volunteers on a trusted platform. SevakArmy ensures both NGOs and volunteers are authentic, creating a safe and reliable environment for collaboration.",
   },
   {
     Id: "10",
@@ -124,7 +124,7 @@ function NgoKeyFeaturesSection(props) {
                 <div className="col-lg-6 col-md-12 col-12">
                   <div className="wpo-about-img">
                     <div className="wpo-about-right pt-0">
-                      <Image src={Tools} width={544} height={332} alt="Efficient Tools for NGOs to Manage Volunteers- Sevak Army" />
+                      <Image src={Tools} width={544} height={332} alt="Efficient Tools for NGOs to Manage Volunteers- SevakArmy" />
                     </div>
                   </div>
                 </div>
@@ -137,7 +137,7 @@ function NgoKeyFeaturesSection(props) {
                       </h2>
                     </div>
                     <p style={{ textAlign: "justify" }}>
-                      Sevak Army equips NGOs with powerful, easy-to-use tools to
+                      SevakArmy equips NGOs with powerful, easy-to-use tools to
                       simplify volunteer management. With features like
                       customisable task posting, detailed reports and smooth
                       communication, NGOs can focus on their mission rather than
@@ -159,7 +159,7 @@ function NgoKeyFeaturesSection(props) {
               <div className="col-lg-6 col-md-12 col-12">
                 <SectionTitle
                   subtitle="Built for NGOs to Achieve More"
-                  title="Key Features of Sevak Army for NGOs"
+                  title="Key Features of SevakArmy for NGOs"
                 />
               </div>
             </div>
@@ -203,7 +203,7 @@ function NgoKeyFeaturesSection(props) {
                         the real impact your NGO can make.
                       </p>
                       <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
-                        <span> Ready to Empower Your NGO with Sevak Army?</span>
+                        <span> Ready to Empower Your NGO with SevakArmy?</span>
                         <Link
                            to="https://app.sevakarmy.com/" target="_blank"
                           className="theme-btn"

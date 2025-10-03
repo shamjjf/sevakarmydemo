@@ -29,7 +29,7 @@ const NgoCtaSection = () => {
                   >
                     <span>Stay Informed, Stay Inspired</span>
                     <h2 className="about-heading-second w-100">
-                      Stay Connected with Sevak Army{" "}
+                      Stay Connected with SevakArmy{" "}
                     </h2>
                   </div>
                   <p style={{ textAlign: "justify" }}>
@@ -65,7 +65,7 @@ const NgoCtaSection = () => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3 pt-lg-5">
-                    <Image src={Inform} width={580} alt="Subscribe to our Newsletter Stay Connected with Sevak Army" />
+                    <Image src={Inform} width={580} alt="Subscribe to our Newsletter Stay Connected with SevakArmy" />
                   </div>
                 </div>
               </div>

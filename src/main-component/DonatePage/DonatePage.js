@@ -9,7 +9,7 @@ import useMetaTags from "../../app/hooks/useMetaTags";
 
 const EventPagetwo = () => {
   useMetaTags({
-    title: "Support the Sevak Army – Be the Change"
+    title: "Support the SevakArmy – Be the Change"
   })
   return (
     <Fragment>

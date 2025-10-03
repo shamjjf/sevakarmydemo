@@ -76,7 +76,7 @@ const Services = [
     Id: "05",
     sImg: cImg5,
 
-    title: "Register with Sevak Army",
+    title: "Register with SevakArmy",
     slug: "5",
     description:
       "Institutions can register seamlessly, encouraging students to volunteer in a wide range of volunteering tasks.",
@@ -106,7 +106,7 @@ const Services = [
     title: "Earn Points and Track Progress on the Leaderboard",
     slug: "8",
     description:
-      "Every completed task contributes points to your institution’s ranking on Sevak Army’s leaderboard. More engagement leads to a higher institutional rank!",
+      "Every completed task contributes points to your institution’s ranking on SevakArmy’s leaderboard. More engagement leads to a higher institutional rank!",
   },
   {
     Id: "09",
@@ -142,7 +142,7 @@ const Services = [
     title: "Track Collective Impact Easily",
     slug: "12",
     description:
-      "Use Sevak Army’s platform to monitor student participation, completed tasks and the overall community impact created by your institution.",
+      "Use SevakArmy’s platform to monitor student participation, completed tasks and the overall community impact created by your institution.",
   },
   {
     Id: "13",
@@ -187,7 +187,7 @@ const Services = [
     title: "Connect Students with Trusted NGOs",
     slug: "17",
     description:
-      "Partner students with verified NGOs through Sevak Army, ensuring their efforts go to impactful, trustworthy causes.",
+      "Partner students with verified NGOs through SevakArmy, ensuring their efforts go to impactful, trustworthy causes.",
   },
   {
     Id: "18",
@@ -252,7 +252,7 @@ const SchoolCollegeBenefitsPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3">
-                    <Image src={Path} alt="Benefits to Register Your Institute - Sevak Army" />
+                    <Image src={Path} alt="Benefits to Register Your Institute - SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -265,9 +265,9 @@ const SchoolCollegeBenefitsPage = (props) => {
                     </h2>
                   </div>
                   <p className="mt-0 pt-0" style={{ textAlign: "justify" }}>
-                    Sevak Army offers schools and colleges a platform to
+                    SevakArmy offers schools and colleges a platform to
                     register and connect students with meaningful volunteer
-                    opportunities. By registering with Sevak Army,
+                    opportunities. By registering with SevakArmy,
                     institutions can provide students with real-world
                     experiences that foster leadership, teamwork and social
                     responsibility. This platform simplifies the process of
@@ -323,7 +323,7 @@ const SchoolCollegeBenefitsPage = (props) => {
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
                     >
-                      Partner with Sevak Army and empower students to lead, serve, and create impact!
+                      Partner with SevakArmy and empower students to lead, serve, and create impact!
                       Our volunteer programs provide hands-on learning, leadership development, and community engagement opportunities—enhancing student resumes while fostering a culture of social responsibility.
                     </p>
                     <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">

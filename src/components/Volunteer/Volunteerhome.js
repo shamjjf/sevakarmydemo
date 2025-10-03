@@ -80,7 +80,7 @@ const howWorksData = [
     iconClass: "flaticon-volunteer",
     img: Imgs1,
     title: "Register",
-    description: "Register on Sevak Army and create your volunteer profile.",
+    description: "Register on SevakArmy and create your volunteer profile.",
   },
   {
     iconClass: "flaticon-charity",
@@ -112,7 +112,7 @@ const howWorksData = [
   },
 ];
 
-const Volunteerhome = ({ path }) => {
+  const Volunteerhome = ({ path }) => {
   const [shownewsletter, setShowNewsletter] = useState(false);
   const [metaData, setMetaData] = useState({title: "Loading...."})
 
@@ -125,7 +125,7 @@ const Volunteerhome = ({ path }) => {
     
       if (!data) {
         data =  {
-           title: "Page Not Found - Sevak Army",
+           title: "Page Not Found - SevakArmy",
            description: "The page you are looking for does not exist.",
            robots: "noindex, nofollow",
          }
@@ -147,12 +147,10 @@ const Volunteerhome = ({ path }) => {
   }, []);
 
   
-
-
   return (
     <>
       {/* <Helmet>
-        <title>Volunteer | Sevak Army</title>
+        <title>Volunteer | SevakArmy</title>
         <meta name="keywords" content="NGO, volunteer, social work" />
         <link rel="canonical" href="https://sevakarmy.com/volunteer" />
       </Helmet> */}
@@ -168,12 +166,12 @@ const Volunteerhome = ({ path }) => {
                 </div>
                 <div className="slide-title">
                   <h2 className="slide-heading">
-                    Find Your Perfect Role in Volunteering with Sevak Army
+                    Find Your Perfect Role in Volunteering with SevakArmy
                   </h2>
                 </div>
                 <div className="slide-text">
                   <p style={{ textAlign: "justify" }}>
-                    Sevak Army makes it easy for you to find the right volunteer
+                    SevakArmy makes it easy for you to find the right volunteer
                     opportunity. We connect passionate individuals with verified
                     NGOs to match your skills, interests and availability.
                   </p>
@@ -181,16 +179,16 @@ const Volunteerhome = ({ path }) => {
                 <div className="clearfix"></div>
                 <div data-swiper-parallax="500" className="slide-video-content">
                   <div className="slide-video-img">
-                    <Image src={Videobg} width={152} height={151} alt="Volunteers for NGO - Sevak Army" />
+                    <Image src={Videobg} width={152} height={151} alt="Volunteers for NGO - SevakArmy" />
                   </div>
                   <div className="slide-video-text">
                     <h4 className="slide-video-text-show">
-                      Join Us Today and Start Making a Real Difference!
+                    Be Part of the Change and Create Lasting Impact!
                     </h4>
                     <p className="slide-video-para">
-                      Explore volunteering opportunities in various fields like
-                      education, healthcare, community outreach or
-                      environmental work and make your contribution count!
+                      Discover volunteering roles in education, healthcare,
+                      community service, and environmental projects – and let
+                      your efforts truly matter! 
                     </p>
                   </div>
                 </div>
@@ -235,7 +233,7 @@ const Volunteerhome = ({ path }) => {
               <div className="row justify-content-center">
                 <div className="col-lg-8">
                   <div className="cta-wrap">
-                    <span>Join Sevak Army</span>
+                    <span>Join SevakArmy</span>
                     <h2>Register Now and Start Volunteering</h2>
                     <p
                       className="px-2 text-center"
@@ -266,7 +264,7 @@ const Volunteerhome = ({ path }) => {
           <section className="section-padding pb-0">
             <div className="row justify-content-center">
               <div className="col-lg-6 col-md-12 col-12">
-                <SectionTitle subtitle="Serve with Impact" title="Step Into Purpose with Sevak Army" />
+                <SectionTitle subtitle="Serve with Impact" title="Step Into Purpose with SevakArmy" />
               </div>
             </div>
 
@@ -327,7 +325,7 @@ const Volunteerhome = ({ path }) => {
                       </h2>
                     </div>
                     <p className="volunteer-home-text">
-                      Sevak Army connects people of all ages, including
+                      SevakArmy connects people of all ages, including
                       students, professionals and retirees, with verified NGOs
                       to make a lasting social impact. Everyone has something to
                       offer, whether a few hours or a long-term commitment.
@@ -407,7 +405,7 @@ const Volunteerhome = ({ path }) => {
                   <div className="col-lg-8">
                     <div className="cta-wrap">
                       <span>Lend a Hand, Change a Life</span>
-                      <h2>Join Sevak Army and Make Your Contribution Count.</h2>
+                      <h2>Join SevakArmy and Make Your Contribution Count.</h2>
                       <Link
                         to="https://app.sevakarmy.com/" target="_blank"
                         className="theme-btn"
@@ -424,7 +422,7 @@ const Volunteerhome = ({ path }) => {
           <div className="service-wrap mt-2">
             <SectionTitle
               subtitle="Empower. Engage. Impact."
-              title="Why Volunteer with Sevak Army?"
+              title="Why Volunteer with SevakArmy?"
             />
             <div className="row justify-content-center mt-0 align-items-stretch gy-4">
               {volunteerhomeEvents.slice(0, 10).map((Service, sitem) => (
@@ -521,21 +519,21 @@ const Volunteerhome = ({ path }) => {
                 <div className="col-lg-6 col-md-12 col-12">
                   <div className="wpo-about-img">
                     <div className="wpo-about-right pt-0">
-                      <Image src={InspireOthers} width={530} height={530} alt="Become a Sevak Army Brand Ambassador" />
+                      <Image src={InspireOthers} width={530} height={530} alt="Become a SevakArmy Brand Ambassador" />
                     </div>
                   </div>
                 </div>
                 <div className="col-lg-6 col-md-12 col-12">
                   <div className="wpo-about-text p-3 mt-0 pb-1 pb-lg-2 pt-1 pt-lg-2">
                     <div className="wpo-section-title mt-0">
-                      <span>Become a Sevak Army Ambassador</span>
+                      <span>Become a SevakArmy Ambassador</span>
                       <h2 className="about-heading-second text-titleeee">
                         Lead the Change, Inspire Others
                       </h2>
                     </div>
                     <p style={{ textAlign: "justify" }}>
                       Take your volunteer journey to the next level by becoming
-                      a Sevak Army Ambassador. Share your passion, promote
+                      a SevakArmy Ambassador. Share your passion, promote
                       volunteering opportunities and help expand our community
                       of change-makers. As an ambassador, you will be a leader,
                       inspiring others to join and make a real difference.
@@ -543,7 +541,7 @@ const Volunteerhome = ({ path }) => {
 
                     <h3>Ready to Lead?</h3>
                     <p>
-                      Become a Sevak Army Ambassador today and inspire others to
+                      Become a SevakArmy Ambassador today and inspire others to
                       serve!
                     </p>
                     <div>
@@ -566,7 +564,7 @@ const Volunteerhome = ({ path }) => {
                 <div className="col-lg-6 col-md-12 col-12">
                   <div className="wpo-about-text p-3 pt-md-3 pt-0 mt-0">
                     <div className="wpo-section-title mt-0">
-                      <span>Stay Connected with Sevak Army</span>
+                      <span>Stay Connected with SevakArmy</span>
                       <h2 className="about-heading-second text-titleeee w-100">
                         Join Our Volunteer Community Newsletter{" "}
                       </h2>
@@ -576,12 +574,12 @@ const Volunteerhome = ({ path }) => {
                       stories, volunteer highlights, updates on social impact,
                       and tips on making the most of your service. Stay informed
                       about the amazing work being done and how you can stay
-                      engaged with Sevak Army.
+                      engaged with SevakArmy.
                     </p>
                     <h3>Keep the Spirit Alive!</h3>
                     <p>
                       Subscribe now to stay updated with all the latest news and
-                      inspiration from Sevak Army.
+                      inspiration from SevakArmy.
                     </p>
                     <div>
                       <button
@@ -599,7 +597,7 @@ const Volunteerhome = ({ path }) => {
                   <div className="wpo-about-img">
 
                     <div className="wpo-about-right pt-3 pt-lg-5">
-                      <Image src={Newsletter} width={440} height={440} alt="Stay Connected with Community - Sevak Army" />
+                      <Image src={Newsletter} width={440} height={440} alt="Stay Connected with Community - SevakArmy" />
                     </div>
                   </div>
                 </div>
@@ -617,7 +615,7 @@ const Volunteerhome = ({ path }) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                     <div className="wpo-about-right pt-0 pt-md-1 pb-5">
-                      <Image src={ShareInspire} alt="Social Media and Referrals Earn Points with Sevak Army" />
+                      <Image src={ShareInspire} alt="Social Media and Referrals Earn Points with SevakArmy" />
                     </div>
                   </div>
                 </div>
@@ -628,7 +626,7 @@ const Volunteerhome = ({ path }) => {
                         Make a Bigger Impact through Social Media and Referrals
                       </span>
                       <h2 className="about-heading-second text-titleeee">
-                        Share, Inspire and Earn Points with Sevak Army{" "}
+                        Share, Inspire and Earn Points with SevakArmy{" "}
                       </h2>
                     </div>
                     <p style={{ textAlign: "justify" }}>
@@ -664,7 +662,7 @@ const Volunteerhome = ({ path }) => {
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
                     >
-                      Sevak Army understands that everyone’s time is unique.
+                      SevakArmy understands that everyone’s time is unique.
                       Whether you're a student, a working professional or a
                       retiree, we offer tasks that fit into your schedule—from
                       one-time events to ongoing projects. You decide how you

@@ -103,7 +103,7 @@ const NewsletterPopup = ({ shownewsletter, setShowNewsletter }) => {
                   src={Img1}
                   className="h-100"
                   width={600}
-                  alt="Sevak Army"
+                  alt="SevakArmy"
                 />
               </div>
               <div className="w-100 d-flex flex-column align-items-center justify-content-center">
@@ -116,7 +116,7 @@ const NewsletterPopup = ({ shownewsletter, setShowNewsletter }) => {
                 >
                   Stay Informed, Stay Inspired: <br />
                   <span className="secondary-headerrrr">
-                    Join  Sevak Army Newsletter!
+                    Join  SevakArmy Newsletter!
                   </span>
                 </h2>
                 <form className="mt-5 w-100 px-5" onSubmit={handleSubmit}>

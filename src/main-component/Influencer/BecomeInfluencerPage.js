@@ -97,17 +97,16 @@ const BecomeInfluencerPage = (props) => {
                 <div className="wpo-about-text p-3 pb-0 mt-0">
                   <div className="wpo-section-title mt-0 mb-3">
                     <span>
-                      Join Sevak Army through Your Influencer Link and Start
+                      Join SevakArmy through Your Influencer Link and Start
                       Creating Impact Together!
                     </span>
                     <h2 className="about-heading-second text-titleeee">
-                      Encourage Your Followers to Make a Difference with Sevak
-                      Army
+                      Guide Your Followers to Contribute Meaningfully with SevakArmy 
                     </h2>
                   </div>
                   <p className="mt-0 mb-0 pt-0" style={{ textAlign: "justify" }}>
                     As an influencer, you have the power to inspire change. By
-                    encouraging your followers to join Sevak Army, you can
+                    encouraging your followers to join SevakArmy, you can
                     help bring passionate volunteers to meaningful causes. Every
                     volunteer who joins through your personal referral link will
                     contribute to impactful tasks that match their skills and
@@ -125,8 +124,8 @@ const BecomeInfluencerPage = (props) => {
           <div className="wpo-event-details-text pt-0 mt-3">
             <SectionTitle
               subtitle="How It Works?"
-              title="From Sign-Up to Inspiring Others Through Sevak Army"
-              paragarap="As an influencer, you play a vital role in bringing your followers into a community dedicated to making a difference. Here’s how you can easily join Sevak Army, inspire others and create a positive impact together."
+              title="From Sign-Up to Inspiring Others Through SevakArmy"
+              paragarap="As an influencer, you play a vital role in bringing your followers into a community dedicated to making a difference. Here’s how you can easily join SevakArmy, inspire others and create a positive impact together."
             />
           </div>
         </div>
@@ -138,13 +137,13 @@ const BecomeInfluencerPage = (props) => {
                 <div className="wpo-about-text p-3 mt-0 pb-1 pb-lg-2 pt-1 pt-lg-2">
                   {/* <div className="wpo-section-title mt-0 mb-5">
                                         <span>Become a Volunteer</span>
-                                        <h2 className="about-heading-second">Join Sevak Army: Your Path to Make a Difference</h2>
+                                        <h2 className="about-heading-second">Join SevakArmy: Your Path to Make a Difference</h2>
                                     </div> */}
                   <div className="custom-panell">
-                    <h3>Step 1: Register as an Influencer on Sevak Army</h3>
+                    <h3>Step 1: Register as an Influencer on SevakArmy</h3>
                   </div>
                   <p className="mt-0 pt-0" style={{ textAlign: "justify" }}>
-                    Begin by registering on Sevak Army platform as an
+                    Begin by registering on SevakArmy platform as an
                     influencer. Fill in your details and create a profile that
                     highlights your passion for social causes and the difference
                     you’re aiming to make. This profile helps NGOs and their
@@ -157,7 +156,7 @@ const BecomeInfluencerPage = (props) => {
                 <div className="wpo-about-img d-flex w-100 justify-content-center">
                   <div className="wpo-about-right pt-lg-4">
                     {/* <Image src={abImg7} alt="img" /> */}
-                    <Image src={SignUp} alt="Sign-up to Sevak Army" width={450} />
+                    <Image src={SignUp} alt="Sign-up to SevakArmy" width={450} />
                   </div>
                 </div>
               </div>
@@ -172,7 +171,7 @@ const BecomeInfluencerPage = (props) => {
                 <div className="wpo-about-img d-flex w-100 justify-content-center">
                   <div className="wpo-about-right pt-lg-0">
                     {/* <Image src={abImg7} alt="img" /> */}
-                    <Image src={ShareLink} alt="Influncer referral Sevak Army" width={450} />
+                    <Image src={ShareLink} alt="Influncer referral SevakArmy" width={450} />
                   </div>
                 </div>
               </div>
@@ -184,7 +183,7 @@ const BecomeInfluencerPage = (props) => {
                   <p className="mt-0 pt-0" style={{ textAlign: "justify" }}>
                     Once registered, you’ll receive a unique referral link. This
                     link is your personal invitation for your followers to join
-                    Sevak Army, connect with causes they care about and
+                    SevakArmy, connect with causes they care about and
                     volunteer for impactful tasks.
                   </p>
                 </div>
@@ -220,7 +219,7 @@ const BecomeInfluencerPage = (props) => {
                       src={BrowseTask}
                       width={500}
                       height={240}
-                      alt="Promote Link & Encorage follower - Sevak Army"
+                      alt="Promote Link & Encorage follower - SevakArmy"
                     />
                     {/* <Image src="https://placehold.co/324x324/png" alt="Register" /> */}
                   </div>
@@ -236,7 +235,7 @@ const BecomeInfluencerPage = (props) => {
               <div className="col-lg-6 col-md-12 col-12">
                 <div className="wpo-about-img d-flex w-100 justify-content-center">
                   <div className="wpo-about-right pt-3">
-                    <Image src={Inspirepeople} width={500} alt="Inspire Followers to find volunteer oppertunities - Sevak Army" />
+                    <Image src={Inspirepeople} width={500} alt="Inspire Followers to find volunteer oppertunities - SevakArmy" />
                     {/* <Image src="https://placehold.co/324x324/png" alt="Register" /> */}
                   </div>
                 </div>
@@ -245,7 +244,7 @@ const BecomeInfluencerPage = (props) => {
                 <div className="wpo-about-text p-3 mt-0 pb-1 pb-lg-2 pt-1 pt-lg-2">
                   {/* <div className="wpo-section-title mt-0 mb-5">
                                         <span>Become a Volunteer</span>
-                                        <h2 className="about-heading-second">Join Sevak Army: Your Path to Make a Difference</h2>
+                                        <h2 className="about-heading-second">Join SevakArmy: Your Path to Make a Difference</h2>
                                     </div> */}
                   <div className="custom-panell">
                     <h3>
@@ -254,7 +253,7 @@ const BecomeInfluencerPage = (props) => {
                   </div>
                   <p className="mt-0 pt-0" style={{ textAlign: "justify" }}>
                     Guide your followers on how to explore tasks that match
-                    their skills, availability and passions on Sevak Army
+                    their skills, availability and passions on SevakArmy
                     platform. Your endorsement helps them feel confident that
                     they’re joining a meaningful platform supported by someone
                     they trust.
@@ -272,7 +271,7 @@ const BecomeInfluencerPage = (props) => {
                 <div className="wpo-about-text p-3 mt-0 pb-1 pb-lg-2 pt-1 pt-lg-2">
                   {/* <div className="wpo-section-title mt-0 mb-5">
                                         <span>Become a Volunteer</span>
-                                        <h2 className="about-heading-second">Join Sevak Army: Your Path to Make a Difference</h2>
+                                        <h2 className="about-heading-second">Join SevakArmy: Your Path to Make a Difference</h2>
                                     </div> */}
                   <div className="custom-panell">
                     <h3>Step 5: Track Your Impact and Inspire More Change</h3>
@@ -289,7 +288,7 @@ const BecomeInfluencerPage = (props) => {
               <div className="col-lg-6 col-md-12 col-12">
                 <div className="wpo-about-img d-flex w-100 justify-content-center">
                   <div className="wpo-about-right pt-lg-5">
-                    <Image src={Connect} width={450} alt="Track your impact with Sevak Army" />
+                    <Image src={Connect} width={450} alt="Track your impact with SevakArmy" />
                     {/* <Image src="https://placehold.co/324x324/png" alt="Register" /> */}
                   </div>
                 </div>
@@ -308,7 +307,7 @@ const BecomeInfluencerPage = (props) => {
         </div>
         <div className="row justify-content-center">
           <div className="col-lg-6 col-md-12 col-12">
-            <SectionTitle subtitle="Lead with Purpose" title="Why Join as an Influencer on Sevak Army?" />
+            <SectionTitle subtitle="Lead with Purpose" title="Why Join as an Influencer on SevakArmy?" />
           </div>
         </div>
 
@@ -371,7 +370,7 @@ const BecomeInfluencerPage = (props) => {
                 <div className="cta-wrap">
                   <h2 className="mb-2"> Start Inspiring Today</h2>
                   <p className="pt-3 px-2" style={{ color: "whitesmoke" }}>
-                    Register as an influencer with Sevak Army, share your link,
+                    Register as an influencer with SevakArmy, share your link,
                     and let’s create meaningful change, one task at a time.
                     Together, we’re building a stronger, more connected
                     community for social good.
@@ -396,7 +395,7 @@ const BecomeInfluencerPage = (props) => {
               <div className="row justify-content-center">
                 <div className="col-lg-8">
                   <div className="cta-wrap">
-                    <h2 className="mb-2">Subscribe to Sevak Army</h2>
+                    <h2 className="mb-2">Subscribe to SevakArmy</h2>
                     <p
                       className="px-2"
                       style={{ textAlign: "center", color: "white" }}
@@ -404,7 +403,7 @@ const BecomeInfluencerPage = (props) => {
                       Stay connected and inspired by subscribing to our updates
                       for influencers. Be the first to know about new volunteer
                       opportunities and campaigns that need your voice. Help
-                      motivate your followers to join Sevak Army and make a
+                      motivate your followers to join SevakArmy and make a
                       real difference.
                     </p>
                     <Link

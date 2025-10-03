@@ -135,7 +135,7 @@ const ContactSectionMain = (props) => {
             <div className=" justify-content-center container">
                 <div className="w-100 d-flex justify-content-center">
                     <div className="col-lg-8 col-md-10 col-12">
-                        <SectionTitle subtitle="" title="We're Here to Assist You!" paragarap="We value your questions, feedback and support requests at Sevak Army. Whether you're a volunteer, NGO,  school/college organisation or influencer we’re just a message away. Feel free to contact us and we’ll reply promptly." />
+                        <SectionTitle subtitle="" title="We're Here to Assist You!" paragarap="We value your questions, feedback and support requests at SevakArmy. Whether you're a volunteer, NGO,  school/college organisation or influencer we’re just a message away. Feel free to contact us and we’ll reply promptly." />
                     </div>
                 </div>
                 <div className="row pt-3">

@@ -36,7 +36,7 @@ const Services = [
     title: "Boost Your Rank with Referrals",
     slug: "2",
     description:
-      "Help grow  Sevak Army by referring others to the platform. You will earn additional points that boost your position on the leaderboard for every person who registers as a volunteer through your referral link. It's a great way to encourage others to get involved while increasing your own impact.",
+      "Help grow  SevakArmy by referring others to the platform. You will earn additional points that boost your position on the leaderboard for every person who registers as a volunteer through your referral link. It's a great way to encourage others to get involved while increasing your own impact.",
   },
   {
     Id: "03",
@@ -45,7 +45,7 @@ const Services = [
     title: "Why the Leaderboard Matters?",
     slug: "3",
     description:
-      "Sevak Army Leaderboard isn’t just about competition - it’s about celebrating your dedication and contribution to social good. The more you volunteer, the higher you climb and the more recognition you earn for your efforts. Plus, it helps you set personal goals and stay motivated as you serve your community.",
+      "SevakArmy Leaderboard isn’t just about competition - it’s about celebrating your dedication and contribution to social good. The more you volunteer, the higher you climb and the more recognition you earn for your efforts. Plus, it helps you set personal goals and stay motivated as you serve your community.",
   },
   {
     Id: "04",
@@ -63,7 +63,7 @@ const Services = [
     title: "Stay Motivated and Keep Giving Back",
     slug: "4",
     description:
-      "Whether aiming for the top spot or just wanting to track your volunteer hours,  Sevak Army Leaderboard keeps you engaged and inspired. It’s more than just point - it’s about building a legacy of service and making a difference, one task at a time.",
+      "Whether aiming for the top spot or just wanting to track your volunteer hours,  SevakArmy Leaderboard keeps you engaged and inspired. It’s more than just points - it’s about building a legacy of service and making a difference, one task at a time.",
   },
 ];
 
@@ -203,7 +203,7 @@ const VolunteerLeaderboardPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3">
-                    <Image width={580} src={LeaderboardWorking} alt="Volunteers Leader Board - Sevak Army" />
+                    <Image width={580} src={LeaderboardWorking} alt="Volunteers Leader Board - SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -212,7 +212,7 @@ const VolunteerLeaderboardPage = (props) => {
                   <div className="wpo-section-title mt-0">
                     {/* <div className="custom-panell"> */}
                     <h2 className="about-heading-second text-titleeee">
-                      How Sevak Army Leaderboard Works
+                      How SevakArmy Leaderboard Works
                     </h2>
                     {/* </div> */}
                   </div>
@@ -221,7 +221,7 @@ const VolunteerLeaderboardPage = (props) => {
                     Rewards
                   </h3>
                   <p className="mb-0" style={{ textAlign: "justify" }}>
-                    At Sevak Army, we believe in recognising and celebrating the
+                    At SevakArmy, we believe in recognising and celebrating the
                     contributions of our volunteers. Our Leaderboard tracks your
                     progress, showing where you stand among other volunteers and
                     motivating you to continue making an impact. You will earn
@@ -260,7 +260,7 @@ const VolunteerLeaderboardPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3">
-                    <Image src={abImg7} width={556} height={316} alt="Earn points for Every Task - Sevak Army" />
+                    <Image src={abImg7} width={556} height={316} alt="Earn points for Every Task - SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -364,7 +364,7 @@ const VolunteerLeaderboardPage = (props) => {
           <div className="col-lg-6 col-md-12 col-12">
             <SectionTitle
               subtitle="Earn Points, Get Recognised"
-              title="Track Your Impact with Sevak Army Leaderboard"
+              title="Track Your Impact with SevakArmy Leaderboard"
             />
           </div>
         </div>
@@ -403,7 +403,7 @@ const VolunteerLeaderboardPage = (props) => {
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
                     >
-                      Become a Sevak Army volunteer and earn points for every
+                      Become a SevakArmy volunteer and earn points for every
                       task you complete. Track your progress, climb the ranks,
                       and gain recognition for the meaningful work you do.
                     </p>

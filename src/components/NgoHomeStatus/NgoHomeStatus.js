@@ -12,7 +12,7 @@ function NgoHomeStatus({ hclass }) {
             <div className="col-lg-8 col-md-12 col-12">
               <SectionTitle
                 subtitle="Ready to make a difference?"
-                title="Join Sevak Army today, where volunteers unite with NGOs for impactful change"
+                title="Join SevakArmy today, where volunteers unite with NGOs for impactful change"
               />
             </div>
           </div>

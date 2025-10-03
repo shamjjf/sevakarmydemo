@@ -55,7 +55,7 @@ function NgoPromotes(props) {
       raisedAmount: 2500,
       goalAmount: 3000,
       description:
-        "Boost awareness and visibility for your projects through Sevak Army, attracting volunteers, engaging donors and raising impactful awareness.",
+        "Boost awareness and visibility for your projects through SevakArmy, attracting volunteers, engaging donors and raising impactful awareness.",
     },
     {
       id: 4,
@@ -77,7 +77,7 @@ function NgoPromotes(props) {
           <div className="container">
             <div className="row justify-content-center">
               <div className="col col-lg-12 col-md-12 col-12">
-                <SectionTitle subtitle="Why Join Sevak Army?" title="Join Sevak Army to easily connect with skilled volunteers and boost your impact" />
+                <SectionTitle subtitle="Why Join SevakArmy?" title="Join SevakArmy to easily connect with skilled volunteers and boost your impact" />
               </div>
             </div>
 
@@ -128,7 +128,7 @@ function NgoPromotes(props) {
                               </div>
                             </div>
                             <h2 className="text-center">Save Time and Effort</h2>
-                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>Spend less time searching for volunteers - let them find you on Sevak Army.</p>
+                            <p className="w-100 text-center ms-0" style={{ maxWidth: '100%' }}>Spend less time searching for volunteers - let them find you on SevakArmy.</p>
                           </div>
                         </div>
                         <div className="service-item px-4 py-4 col-xl-3 col-lg-4 col-md-7 col-sm-8 col-12 sevak-custom-carddd mb-0">
@@ -172,7 +172,7 @@ function NgoPromotes(props) {
                 <div className="cta-wrap">
                   <span>Strengthen Your Cause Today</span>
                   <h2 className="mb-3 mt-2">
-                    Boost Your Impact – Join Sevak Army!
+                    Boost Your Impact – Join SevakArmy!
                   </h2>
                   <p className="text-center" style={{ color: 'whitesmoke' }}>Register now to find reliable volunteers and take your projects to the next level. </p>
                   <Link to="https://app.sevakarmy.com/" target="_blank" className="theme-btn">

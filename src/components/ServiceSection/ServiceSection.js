@@ -11,7 +11,7 @@ const ServiceSection = (props) => {
           <div className="col-lg-12 col-md-12 col-12">
             <SectionTitle
               subtitle="How Does It Work?"
-              title="Sevak Army makes volunteer management easy and rewarding."
+              title="SevakArmy makes volunteer management easy and rewarding."
             />
           </div>
         </div>

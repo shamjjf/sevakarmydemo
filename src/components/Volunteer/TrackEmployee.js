@@ -43,7 +43,7 @@ function TrackEmployee() {
         <div className="container">
             <div className="row justify-content-center">
                 <div className="col-lg-10 col-md-12 col-12">
-                    <SectionTitle title="Easily Track Employee Volunteering" paragarap="Sevak Army makes it simple to see how your employees are helping. Our Volunteer Progress dashboard lets you track and understand your team’s contributions." />
+                    <SectionTitle title="Easily Track Employee Volunteering" paragarap="SevakArmy makes it simple to see how your employees are helping. Our Volunteer Progress dashboard lets you track and understand your team’s contributions." />
                 </div>
             </div>
             <div className="service-wrap mt-3">

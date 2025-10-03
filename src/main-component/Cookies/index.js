@@ -25,7 +25,7 @@ const Cookies = () => {
         
           if (!data) {
             data = {
-              title: "Page Not Found - Sevak Army",
+              title: "Page Not Found - SevakArmy",
               description: "The page you are looking for does not exist.",
               robots: "noindex, nofollow",
             }

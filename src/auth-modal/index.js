@@ -246,7 +246,7 @@ const AuthModal = ({ show, setShow, defaultSign = "register" }) => {
             >
               <div className="modal-header w-100 d-flex justify-content-end">
                 {/* <h3 className=" slide-title-sub fs-2" style={{ fontWeight: "700" }}>
-              <Image src={Logo} width={60} alt="Header"/>  Sevak Army
+              <Image src={Logo} width={60} alt="Header"/>  SevakArmy
               </h3> */}
                 <div>
                   <svg
@@ -271,7 +271,7 @@ const AuthModal = ({ show, setShow, defaultSign = "register" }) => {
                       src={Img1}
                       className="h-100"
                       width={600}
-                      alt="Sevak Army"
+                      alt="SevakArmy"
                     />
                   </div>
                   <div style={{ width: "100%" }}>
@@ -572,7 +572,7 @@ const AuthModal = ({ show, setShow, defaultSign = "register" }) => {
                         src={Img1}
                         className="h-100"
                         width={600}
-                        alt="Sevak Army"
+                        alt="SevakArmy"
                       />
                     </div>
 
@@ -585,7 +585,7 @@ const AuthModal = ({ show, setShow, defaultSign = "register" }) => {
                         style={{ fontSize: "40px", fontWeight: "700" }}
                       >
                         Join
-                        <span className="secondary-headerrrr"> Sevak Army</span>
+                        <span className="secondary-headerrrr"> SevakArmy</span>
                         : Empower Communities, Make a Difference!
                       </h2>
                       <div className="mt-4">

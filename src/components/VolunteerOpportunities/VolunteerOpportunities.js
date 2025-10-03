@@ -90,14 +90,14 @@ const VolunteerOpportunities = (props) => {
               <div className="col-lg-6 col-md-12 col-12">
                 <div className="wpo-about-text mt-0 p-3">
                   <div className="wpo-section-title">
-                    <span>Welcome to Sevak Army!</span>
+                    <span>Welcome to SevakArmy!</span>
                     <h2 className="about-heading-third text-titleeee">
-                      Join Sevak Army: Making Corporate Social Responsibility Simple.
+                      Join SevakArmy: Making Corporate Social Responsibility Simple.
                     </h2>
                   </div>
                   <p>
                     Discover tasks that align with your skills and passion. Whether you are interested in teaching,
-                    designing or event management community outreach, Sevak Army offers a variety of volunteer
+                    designing or event management community outreach, SevakArmy offers a variety of volunteer
                     opportunities across different sectors.<br></br>
                     <b>How it Works:</b>
                   </p>
@@ -178,7 +178,7 @@ const VolunteerOpportunities = (props) => {
                     <h2 className="about-heading-second">Volunteer Stories</h2>
                   </div>
                   <p>
-                    Be inspired by volunteers who’ve made a real difference through Sevak Army.<br></br>
+                    Be inspired by volunteers who’ve made a real difference through SevakArmy.<br></br>
                     <b>Aarti</b> , a software developer, used her coding skills to build a website for an NGO, making
                     their work more visible online.<br></br>
                     <b>Sanjay</b> , a college student, helped organise a blood donation drive in his community, bringing
@@ -211,7 +211,7 @@ const VolunteerOpportunities = (props) => {
                           <ul>
                             <li className="about-section-list">
                               <p className="about-section-paragraph-list">
-                                Volunteering with Sevak Army is simple and rewarding. Follow these steps:{" "}
+                                Volunteering with SevakArmy is simple and rewarding. Follow these steps:{" "}
                               </p>
                             </li>
 
@@ -273,7 +273,7 @@ const VolunteerOpportunities = (props) => {
                           <ul>
                             <li className="about-section-list">
                               <p className="about-section-paragraph-list">
-                                At Sevak Army, we believe everyone has valuable skills to offer. Whether you're a
+                                At SevakArmy, we believe everyone has valuable skills to offer. Whether you're a
                                 graphic designer, teacher, accountant or a event organiser, we provide opportunities
                                 that match your expertise.
                               </p>
@@ -333,7 +333,7 @@ const VolunteerOpportunities = (props) => {
                     <h2 className="about-heading-second text-titleeee">Corporate Volunteering</h2>
                   </div>
                   <p>
-                    Corporate volunteering enables businesses to contribute to social good. Sevak Army partners with
+                    Corporate volunteering enables businesses to contribute to social good. SevakArmy partners with
                     companies looking to engage employees in impactful service projects.
                     <br></br>
                     <b>Team Building:</b> Engage your workforce in group volunteer tasks like organising events or
@@ -362,7 +362,7 @@ const VolunteerOpportunities = (props) => {
                     <h2 className="about-heading-second text-titleeee mt-0">Volunteer Training Programs</h2>
                   </div>
                   <p>
-                    Sevak Army offers volunteer training for individuals looking to upskill or enhance their
+                    SevakArmy offers volunteer training for individuals looking to upskill or enhance their
                     volunteering experience.
                     <br></br>
                     <b>Workshops on Leadership:</b> Learn how to lead and organise community initiatives.
@@ -405,7 +405,7 @@ const VolunteerOpportunities = (props) => {
                         <ul>
                           <li className="about-section-list">
                             <p className="about-section-paragraph-list">
-                              Sevak Army’s internship programs provide students with hands-on experience in volunteer
+                              SevakArmy’s internship programs provide students with hands-on experience in volunteer
                               management and social work.
                             </p>
                           </li>
@@ -496,7 +496,7 @@ const VolunteerOpportunities = (props) => {
               <div className="">
                 <div className="wpo-about-text mt-0">
                   <div className="wpo-section-title p-3 pt-0">
-                    {/* <span>Welcome to Sevak Army!</span> */}
+                    {/* <span>Welcome to SevakArmy!</span> */}
                     <h2 className="about-heading-third text-titleeee">Long-Term Projects</h2>
                   </div>
                   <p style={{marginLeft:'20px'}}>
@@ -599,7 +599,7 @@ const VolunteerOpportunities = (props) => {
                     <h2 className="about-heading-second text-titleeee">Short-Term Projects</h2>
                   </div>
                   <p>
-                    For those looking for quick, impactful engagements, Sevak Army offers short-term volunteering
+                    For those looking for quick, impactful engagements, SevakArmy offers short-term volunteering
                     projects.
                     <br></br>
                     <b>Duration:</b> Tasks can range from a few hours to a week.

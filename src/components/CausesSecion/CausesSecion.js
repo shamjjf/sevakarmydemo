@@ -28,7 +28,7 @@ const CausesSecion = (props) => {
                     </Link>
                   </h2>
                   <p>
-                    We’ve designed  Sevak Army platform to be intuitive and easy to use, ensuring that your company
+                    We’ve designed  SevakArmy platform to be intuitive and easy to use, ensuring that your company
                     can seamlessly integrate volunteerism into your operations. Here's how it works.
                   </p>
                 </div>

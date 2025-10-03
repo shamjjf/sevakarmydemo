@@ -143,7 +143,7 @@ const TermsAndConditionsContent = () => {
                 <h4>2. AGE RESTRICTION</h4>
                 <ol>
                   <li style={{ display: 'flex', gap: '8px', flexWrap:'nowrap', justifyContent:'flex-start' }}>
-                    <span>1. </span> You must be at least 18 (eighteen) years of age to use this Website or any Services contained herein. By using this Website, You represent and warrant that You are at least 18 years of age and may legally agree to these Terms of Service. (Please note that social projects extend to all ages, that is from 5. Sevak Army any age, Life saver army 18 years, Reform Army 18 years, Young jains any age, My Food Checker 16, Mind Unload any age, Akshaynetra 18 years, Pledge my Organs 18 years.)
+                    <span>1. </span> You must be at least 18 (eighteen) years of age to use this Website or any Services contained herein. By using this Website, You represent and warrant that You are at least 18 years of age and may legally agree to these Terms of Service. (Please note that social projects extend to all ages, that is from 5. SevakArmy any age, Life saver army 18 years, Reform Army 18 years, Young jains any age, My Food Checker 16, Mind Unload any age, Akshaynetra 18 years, Pledge my Organs 18 years.)
                   </li>
                   <li style={{ display: 'flex', gap: '8px', flexWrap:'nowrap', justifyContent:'flex-start' }}>
                     <span>2.</span> The Owner assumes no responsibility or liability for any misrepresentation of Your age.

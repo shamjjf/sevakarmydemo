@@ -48,7 +48,7 @@ function NgoBenifits() {
               <div className="wpo-benefits-section">
                 <h2>NGO Benefits</h2>
                 <p>
-                  Partnering with Sevak Army offers a range of benefits that can enhance your organisation’s
+                  Partnering with SevakArmy offers a range of benefits that can enhance your organisation’s
                   effectiveness and reach:
                 </p>
                 <div className="row">

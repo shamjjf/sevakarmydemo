@@ -43,7 +43,7 @@ function WhyChooseSevak() {
       title: "Employee Engagement Made Easy",
       slug: "4",
       description:
-        "Sevak Army’s intuitive tools empower your employees to get involved, increasing engagement, morale and retention. When your employees give back, they feel more connected to the company’s values.",
+        "SevakArmy’s intuitive tools empower your employees to get involved, increasing engagement, morale and retention. When your employees give back, they feel more connected to the company’s values.",
     },
     {
       Id: "05",
@@ -59,9 +59,9 @@ function WhyChooseSevak() {
     <div className="container">
       <div className="row justify-content-center">
         <div className="col-lg-10 col-md-12 col-12">
-          <SectionTitle title="Why Choose Sevak Army?" />
+          <SectionTitle title="Why Choose SevakArmy?" />
           <p className="text-center">
-            Choosing Sevak Army as your CSR partner offers your organisation a
+            Choosing SevakArmy as your CSR partner offers your organisation a
             wealth of benefits that go beyond traditional volunteer platforms.
             Here’s why businesses across industries trust us to lead their
             volunteer efforts.

@@ -12,7 +12,7 @@ function Referral() {
             
             title: 'Refer Fellow Influencers',
             slug: '2',
-            description: "Spread the word about Sevak Army to other influencers in your network, earn points as they join and amplify your impact together.",
+            description: "Spread the word about SevakArmy to other influencers in your network, earn points as they join and amplify your impact together.",
         },
         {
             Id: '02',

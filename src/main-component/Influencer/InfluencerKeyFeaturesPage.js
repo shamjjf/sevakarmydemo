@@ -31,7 +31,7 @@ const Services = [
     title: "Inspire Action with Your Unique Referral Link",
     slug: "1",
     description:
-      "You’ll receive a personalised referral link that makes it easy for your followers to join  Sevak Army. Each volunteer who signs up through your link contributes to positive change and you can track the collective impact of your community.",
+      "You’ll receive a personalised referral link that makes it easy for your followers to join  SevakArmy. Each volunteer who signs up through your link contributes to positive change and you can track the collective impact of your community.",
   },
   {
     Id: "02",
@@ -67,7 +67,7 @@ const Services = [
     title: "Track Your Influence and Impact",
     slug: "4",
     description:
-      "Sevak Army provides tools for you to see how many followers have joined and contributed through your referral link. This gives you tangible results of your influence and helps you grow your status as a leader in driving social good.",
+      "SevakArmy provides tools for you to see how many followers have joined and contributed through your referral link. This gives you tangible results of your influence and helps you grow your status as a leader in driving social good.",
   },
   {
     Id: "06",
@@ -112,7 +112,7 @@ const Services = [
     title: "Amplify Your Reach by Inviting More Followers",
     slug: "4",
     description:
-      "You can easily invite more followers to join  Sevak Army through your link, expanding your network of change agents. The more people you inspire to volunteer, the greater your influence and rewards.",
+      "You can easily invite more followers to join  SevakArmy through your link, expanding your network of change agents. The more people you inspire to volunteer, the greater your influence and rewards.",
   },
 ];
 
@@ -145,13 +145,13 @@ const InfluencerKeyFeaturesPage = (props) => {
           <div className="col-lg-6 col-md-12 col-12">
             <SectionTitle
               subtitle="Key Features"
-              title="Key Features for Influencers on Sevak Army"
+              title="Key Features for Influencers on SevakArmy"
             />
           </div>
         </div>
         <div className="service-wrap">
           <p className="w-100 text-center pb-2 pt-2 fs-4 p-1">
-            Here’s what makes Sevak Army the ideal platform for influencers:
+            Here’s what makes SevakArmy the ideal platform for influencers:
           </p>
           <div className="row justify-content-center column-gappp gy-2 align-items-stretch">
             {Services.slice(0, 10).map((Service, sitem) => (
@@ -186,7 +186,7 @@ const InfluencerKeyFeaturesPage = (props) => {
                   <div className="cta-wrap">
                     <h2 className="mb-2">
                       {" "}
-                      Join  Sevak Army and Inspire Your Followers Today!
+                      Join  SevakArmy and Inspire Your Followers Today!
                     </h2>
                     <p
                       className="text-center pt-2 px-2"

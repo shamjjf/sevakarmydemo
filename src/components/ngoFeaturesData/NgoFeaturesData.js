@@ -36,7 +36,7 @@ function NgoFeaturesData() {
             // iconClass: 'flaticon-volunteer',
             svg: Approval,
             title: 'Simple Registration & Approval',
-            description: 'Register your NGO, get approved by Sevak Army and start posting tasks right away.'
+            description: 'Register your NGO, get approved by SevakArmy and start posting tasks right away.'
         },
         {
             // iconClass: 'flaticon-volunteer',
@@ -57,7 +57,7 @@ function NgoFeaturesData() {
             <div className='container'>
                 <div className="row justify-content-center">
                     <div className="col-lg-6 col-md-12 col-12">
-                        <SectionTitle title="Empower Your NGO with Sevak Army" />
+                        <SectionTitle title="Empower Your NGO with SevakArmy" />
                     </div>
                 </div>
 

@@ -56,7 +56,7 @@ function RangeOfTasks() {
             <div className="row justify-content-center">
                 <div className="col-lg-10 col-md-12 col-12">
                     <SectionTitle title="Explore a Range of Tasks for Your Employees." />
-                    <p className='text-center'>At Sevak Army, we understand that volunteerism is not one-size-fits-all. That’s why we offer a diverse array of Volunteering Opportunities tailored to different industries, causes and company cultures.</p>
+                    <p className='text-center'>At SevakArmy, we understand that volunteerism is not one-size-fits-all. That’s why we offer a diverse array of Volunteering Opportunities tailored to different industries, causes and company cultures.</p>
                 </div>
             </div>
             <div className="service-wrap mt-3">
@@ -73,7 +73,7 @@ function RangeOfTasks() {
             </div>
             <div className="row justify-content-center mt-3">
                 <div className="col-xl-8 col-lg-10 col-md-12 col-12">
-                    <p className='text-center'>By offering a wide range of volunteering opportunities, Sevak Army ensures that every company can find tasks that align with their mission and values, while also giving employees the chance to volunteer for causes they are passionate about.</p>
+                    <p className='text-center'>By offering a wide range of volunteering opportunities, SevakArmy ensures that every company can find tasks that align with their mission and values, while also giving employees the chance to volunteer for causes they are passionate about.</p>
                 </div>
             </div>
         </div>

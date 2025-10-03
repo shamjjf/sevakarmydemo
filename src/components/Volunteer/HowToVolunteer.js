@@ -56,7 +56,7 @@ function HowToVolunteer() {
         <div className="container">
             <div className="row justify-content-center">
                 <div className="col-lg-6 col-md-12 col-12">
-                    <SectionTitle subtitle="How to Volunteer?" title="Volunteering with Sevak Army is simple and rewarding." />
+                    <SectionTitle subtitle="How to Volunteer?" title="Volunteering with SevakArmy is simple and rewarding." />
                 </div>
             </div>
             <div className="service-wrap mt-3">

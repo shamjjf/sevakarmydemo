@@ -44,7 +44,7 @@ const Services = [
     title: "Local Leadership",
     slug: "1",
     description:
-      "Ambassadors serve as the primary point of contact between Sevak Army and their institution, representing the platform’s values and goals. They are responsible for guiding students in selecting volunteer opportunities and managing the collaboration between students and NGOs.",
+      "Ambassadors serve as the primary point of contact between SevakArmy and their institution, representing the platform’s values and goals. They are responsible for guiding students in selecting volunteer opportunities and managing the collaboration between students and NGOs.",
   },
   {
     Id: "02",
@@ -101,7 +101,7 @@ const Services2 = [
     title: "Gain Recognition and digital certification",
     slug: "2",
     description:
-      "Ambassadors receive official digital certificates of recognition for their contribution to Sevak Army platform and their role in promoting volunteerism. This recognition not only enhances their CVs but also showcases their commitment to community service.",
+      "Ambassadors receive official digital certificates of recognition for their contribution to SevakArmy platform and their role in promoting volunteerism. This recognition not only enhances their CVs but also showcases their commitment to community service.",
   },
   {
     Id: "03",
@@ -154,7 +154,7 @@ const SchoolCollegeAmbassadorPage = (props) => {
               <div className="col-lg-6 col-md-12 col-12">
                 <div className="wpo-about-img">
                   <div className="wpo-about-right pt-3">
-                    <Image src={Path} height={400} alt="Sevak Army School-College Ambassador Program" />
+                    <Image src={Path} height={400} alt="SevakArmy School-College Ambassador Program" />
                   </div>
                 </div>
               </div>
@@ -163,11 +163,11 @@ const SchoolCollegeAmbassadorPage = (props) => {
                   <div className="wpo-section-title mt-0 mb-3">
                     {/* <span>Benefits</span> */}
                     <h2 className="about-heading-second text-titleeee">
-                      Sevak Army School/College Ambassador Programme
+                      SevakArmy School/College Ambassador Programme
                     </h2>
                   </div>
                   <p className="mt-0 pt-0" style={{ textAlign: "justify" }}>
-                    Sevak Army School/College Ambassador Programme provides
+                    SevakArmy School/College Ambassador Programme provides
                     a unique opportunity for schools and colleges to nominate
                     enthusiastic students to lead volunteering efforts in their
                     institutions. These ambassadors will connect students, NGOs,
@@ -196,7 +196,7 @@ const SchoolCollegeAmbassadorPage = (props) => {
                   <p className="mt-0 pt-0" style={{ textAlign: "justify" }}>
                     The Ambassador Programme is designed to empower students to
                     take on leadership roles in their schools and colleges by
-                    promoting volunteer work through Sevak Army. Ambassadors are
+                    promoting volunteer work through SevakArmy. Ambassadors are
                     the face of the platform within their institution,
                     responsible for managing volunteer activities, promoting
                     events and motivating their peers to contribute to
@@ -213,7 +213,7 @@ const SchoolCollegeAmbassadorPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3 pt-lg-5">
-                    <Image src={Ambassador} height={384} alt="Ambassador Program for School & College - Sevak Army" />
+                    <Image src={Ambassador} height={384} alt="Ambassador Program for School & College - SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -257,7 +257,7 @@ const SchoolCollegeAmbassadorPage = (props) => {
             <SectionTitle
               subtitle="Unlock Leadership "
               title="Why Become an Ambassador?"
-            // paragarap="Sevak Army Ambassador Programme offers students more than just volunteer opportunities – it’s a leadership development platform that enhances personal growth and makes a lasting impact in society. By becoming an ambassador, students will: "
+            // paragarap="SevakArmy Ambassador Programme offers students more than just volunteer opportunities – it’s a leadership development platform that enhances personal growth and makes a lasting impact in society. By becoming an ambassador, students will: "
             />
           </div>
         </div>
@@ -301,7 +301,7 @@ const SchoolCollegeAmbassadorPage = (props) => {
                   <h3>Build a Culture of Service</h3>
                 </div>
                 <p className="mt-0 pt-0" style={{ textAlign: "justify" }}>
-                  Schools and colleges that participate in Sevak Army
+                  Schools and colleges that participate in SevakArmy
                   Ambassador Programme will foster a sense of responsibility and
                   service in their students. The programme encourages students
                   to become actively involved in the betterment of society,
@@ -312,7 +312,7 @@ const SchoolCollegeAmbassadorPage = (props) => {
             <div className="col-lg-6 col-md-12 col-12">
               <div className="wpo-about-img d-flex w-100 justify-content-end">
                 <div className="wpo-about-right">
-                  <Image src={Networking} width={500} alt="Networking & Community Building Sevak Army" />
+                  <Image src={Networking} width={500} alt="Networking & Community Building SevakArmy" />
                 </div>
               </div>
             </div>
@@ -324,7 +324,7 @@ const SchoolCollegeAmbassadorPage = (props) => {
             <div className="col-lg-6 col-md-12 col-12">
               <div className="wpo-about-img d-flex w-100 justify-content-start">
                 <div className="wpo-about-right pt-lg-3">
-                  <Image src={Reputationn} width={500} alt="Schools & Colleges Volunteers & Social Responsibilities - Sevak Army" />
+                  <Image src={Reputationn} width={500} alt="Schools & Colleges Volunteers & Social Responsibilities - SevakArmy" />
                   {/* <Image src="https://placehold.co/324x304/png" alt="Register" /> */}
                 </div>
               </div>
@@ -365,7 +365,7 @@ const SchoolCollegeAmbassadorPage = (props) => {
             <div className="col-lg-6 col-md-12 col-12">
               <div className="wpo-about-img d-flex w-100 justify-content-end">
                 <div className="wpo-about-right pt-lg-3">
-                  <Image src={Institute} width={500} alt="Recognition for Institutions - Sevak Army" />
+                  <Image src={Institute} width={500} alt="Recognition for Institutions - SevakArmy" />
                   {/* <Image src="https://placehold.co/324x304/png" alt="Register" /> */}
                 </div>
               </div>
@@ -384,7 +384,7 @@ const SchoolCollegeAmbassadorPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-0">
-                    <Image src={StudentLeadership} height={383} alt="Become Ambassadors & Volunteer for change with Sevak Army" />
+                    <Image src={StudentLeadership} height={383} alt="Become Ambassadors & Volunteer for change with SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -402,14 +402,14 @@ const SchoolCollegeAmbassadorPage = (props) => {
                     selected, these ambassadors will be responsible for creating
                     volunteer teams, promoting upcoming projects and ensuring
                     active participation in events. They will work alongside
-                    Sevak Army team and NGOs to organise and manage tasks that
+                    SevakArmy team and NGOs to organise and manage tasks that
                     align with the goals of the institution. <br />
-                    By joining Sevak Army Ambassador Programme, schools and
+                    By joining SevakArmy Ambassador Programme, schools and
                     colleges provide their students with a valuable platform to
                     grow, learn and make meaningful contributions to society.
                   </p>
                   {/* <p>
-                                        Become a Sevak Army Ambassador today and inspire others to
+                                        Become a SevakArmy Ambassador today and inspire others to
                                         serve!
                                     </p> */}
                   {/* <div>
@@ -440,7 +440,7 @@ const SchoolCollegeAmbassadorPage = (props) => {
                     </h2>
                   </div>
                   <p style={{ textAlign: "justify" }}>
-                    Sevak Army Ambassador Programme for schools and colleges
+                    SevakArmy Ambassador Programme for schools and colleges
                     is an exceptional initiative that not only promotes
                     volunteerism but also empowers students to step up as
                     leaders and changemakers. It offers a structured way for
@@ -494,7 +494,7 @@ const SchoolCollegeAmbassadorPage = (props) => {
                     <Image src={abImg5} alt="img" />
                   </div> */}
                   <div className="wpo-about-right pt-3 pt-lg-5">
-                    <Image src={Newsletter} width={440} alt="Key Responsibilities of Ambassadors Sevak Army" />
+                    <Image src={Newsletter} width={440} alt="Key Responsibilities of Ambassadors SevakArmy" />
                   </div>
                 </div>
               </div>
@@ -515,7 +515,7 @@ const SchoolCollegeAmbassadorPage = (props) => {
                       className="text-center pt-2 px-2"
                       style={{ textAlign: "justify", color: "white" }}
                     >
-                      Become an ambassador with Sevak Army and take on a leadership role that empowers you to inspire the next generation of student leaders. Gain valuable skills, create social impact, and represent your institution in meaningful ways.
+                      Become an ambassador with SevakArmy and take on a leadership role that empowers you to inspire the next generation of student leaders. Gain valuable skills, create social impact, and represent your institution in meaningful ways.
                     </p>
                     <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100 mt-3">
                       <Link

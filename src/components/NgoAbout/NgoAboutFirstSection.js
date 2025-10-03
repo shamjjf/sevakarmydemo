@@ -61,7 +61,7 @@ function NgoAboutFirstSection() {
       img: About2,
       description: (
         <>
-          Our mission is to support NGOs by connecting them with the resources they need. Sevak Army simplifies the process, making it easier for NGOs to succeed in their initiatives.
+          Our mission is to support NGOs by connecting them with the resources they need. SevakArmy simplifies the process, making it easier for NGOs to succeed in their initiatives.
         </>
       ),
     },
@@ -72,7 +72,7 @@ function NgoAboutFirstSection() {
       img: About3,
       description: (
         <>
-          By 2025, Sevak Army aims to be the platform of choice for NGOs across India, helping them achieve 2 million hours of impactful project work. We strive to empower NGOs to build stronger, more connected communities, creating a brighter future for all.
+          By 2025, SevakArmy aims to be the platform of choice for NGOs across India, helping them achieve 2 million hours of impactful project work. We strive to empower NGOs to build stronger, more connected communities, creating a brighter future for all.
         </>
       ),
     },
@@ -89,7 +89,7 @@ function NgoAboutFirstSection() {
                 <div className="">
                   <div className="wpo-about-img">
                     <div className="bg-image">
-                      <Image src={About1} width={650} priority={true} style={{height:'auto'}} alt="About Us - NGO Sevak Army" />
+                      <Image src={About1} width={650} priority={true} style={{height:'auto'}} alt="About Us - NGO SevakArmy" />
                     </div>
                   </div>
                 </div>
@@ -99,7 +99,7 @@ function NgoAboutFirstSection() {
                       <h2 className="text-titleeee">About Us</h2>
                     </div>
                     <p className="volunteer-home-text">
-                      Sevak Army is a platform that connects NGOs with volunteers from all walks of life. We make it simple for NGOs to find passionate and skilled volunteers who can help with various tasks, from teaching to organising events and more. We aim to create a space where NGOs can easily find the right volunteers for their needs. Our goal is to solve the challenges NGOs face in recruiting committed volunteers and to provide volunteers with diverse opportunities to use their skills meaningfully.
+                      SevakArmy is a platform that connects NGOs with volunteers from all walks of life. We make it simple for NGOs to find passionate and skilled volunteers who can help with various tasks, from teaching to organising events and more. We aim to create a space where NGOs can easily find the right volunteers for their needs. Our goal is to solve the challenges NGOs face in recruiting committed volunteers and to provide volunteers with diverse opportunities to use their skills meaningfully.
                     </p>
 
                   </div>

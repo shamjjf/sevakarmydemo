@@ -117,8 +117,8 @@ const Footer = (props) => {
               <div className="widget" style={{ width: "fit-content" }}>
                 <div className="logo" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                   <Link className="navbar-brand mr-0" to="/" onClick={ClickHandler} style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
-                    <Image src={Logo} alt="Sevak Army Logo" width={80} />
-                    <span className="text-white mt-1">Sevak Army</span>
+                    <Image src={Logo} alt="SevakArmy Logo" width={80} />
+                    <span className="text-white mt-1">SevakArmy</span>
                   </Link>
                 </div>
               </div>
@@ -156,11 +156,11 @@ const Footer = (props) => {
               <div className="widget about-widget">
                 <div className="d-flex flex-column mt-2">
                   <Link to="/refer-and-earn" onClick={ClickHandler} className="footer-linksssss" style={{ fontSize: '22px' }}>Refer and Earn</Link>
-                  <span style={{ fontSize: '14px', color: 'whitesmoke' }}>Invite friends to join Sevak Army and earn points for every referral.</span>
+                  <span style={{ fontSize: '14px', color: 'whitesmoke' }}>Invite friends to join SevakArmy and earn points for every referral.</span>
                 </div>
                 {/* <div className="d-flex flex-column mt-2">
                   <Link to="/download-resources" onClick={ClickHandler} className="footer-linksssss" style={{ fontSize: '22px' }}>Download Resources</Link>
-                  <span style={{ fontSize: '14px', color: 'whitesmoke' }}>Access promotional materials to support and spread the word about Sevak Army.</span>
+                  <span style={{ fontSize: '14px', color: 'whitesmoke' }}>Access promotional materials to support and spread the word about SevakArmy.</span>
                 </div> */}
                 <div className="d-flex flex-column mt-2">
                   <Link to="/contact-us" className="footer-linksssss" onClick={ClickHandler} style={{ fontSize: '22px' }}>Contact Us</Link>
@@ -280,7 +280,7 @@ const Footer = (props) => {
               <ul>
                 <li className="d-flex" style={{ justifyContent: "center", width: "100%" }}>
                   &copy; 2024 - {new Date().getFullYear()}<a href="https://sevakarmy.com/" target="_blank" className="mx-2 footer-auth-link">
-                    Sevak Army</a> - An Initiative by <a href="https://jjfindia.com/" target="_blank" className="ps-1 footer-auth-link"> Jainam Jivika Foundation</a>. All rights reserved.
+                    SevakArmy</a> - An Initiative by <a href="https://jjfindia.com/" target="_blank" className="ps-1 footer-auth-link"> Jainam Jivika Foundation</a>. All rights reserved.
                 </li>
               </ul>
             </div>

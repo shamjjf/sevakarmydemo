@@ -27,7 +27,7 @@ const Services = [
         // 
         title: 'Step 1: Register and Create Your NGO Profile',
         slug: '1',
-        description: 'Begin by registering your NGO on Sevak Army. Simply register by providing basic details about your organisation, such as your NGO’s name, mission, contact information and the support you need. After registering, you’ll create a profile that showcases your NGO’s work, goals and the tasks you need help with.',
+        description: 'Begin by registering your NGO on SevakArmy. Simply register by providing basic details about your organisation, such as your NGO’s name, mission, contact information and the support you need. After registering, you’ll create a profile that showcases your NGO’s work, goals and the tasks you need help with.',
     },
     {
         Id: '02',
@@ -35,7 +35,7 @@ const Services = [
         // 
         title: 'Step 2: Post and Customise Your Volunteer Tasks',
         slug: '2',
-        description: 'Once your NGO profile is complete, you can start posting volunteer tasks. Customise each task by setting specific qualifications, deadlines and requirements to ensure you find the right volunteers for each role. Whether you need help with event planning, logistics or community outreach, Sevak Army lets you post tasks that match your organisation’s needs.',
+        description: 'Once your NGO profile is complete, you can start posting volunteer tasks. Customise each task by setting specific qualifications, deadlines and requirements to ensure you find the right volunteers for each role. Whether you need help with event planning, logistics or community outreach, SevakArmy lets you post tasks that match your organisation’s needs.',
     },
     {
         Id: '03',
@@ -52,7 +52,7 @@ const Services = [
         // 
         title: 'Step 4: Direct Communication with Volunteers',
         slug: '4',
-        description: 'Once you’ve selected your volunteers, Sevak Army’s in-platform messaging system allows you to communicate directly with them. Coordinate task details, ask questions and provide updates all in one place. This feature ensures smooth collaboration and makes it easy to manage your volunteers.',
+        description: 'Once you’ve selected your volunteers, SevakArmy’s in-platform messaging system allows you to communicate directly with them. Coordinate task details, ask questions and provide updates all in one place. This feature ensures smooth collaboration and makes it easy to manage your volunteers.',
     },
     {
         Id: '05',
@@ -60,7 +60,7 @@ const Services = [
         // 
         title: 'Step 5: Track Progress and Manage Tasks',
         slug: '4',
-        description: 'As your volunteers begin working on their tasks, you can track their progress through Sevak Army’s Dashboard. This helps you stay organised and ensures tasks are completed on time. You can also log volunteer hours and evaluate the impact they’ve had on your projects.',
+        description: 'As your volunteers begin working on their tasks, you can track their progress through SevakArmy’s Dashboard. This helps you stay organised and ensures tasks are completed on time. You can also log volunteer hours and evaluate the impact they’ve had on your projects.',
     },
     {
         Id: '06',
@@ -117,7 +117,7 @@ function NgoRegistrationProcessSection(props) {
                                 <div className="col-lg-6 col-md-12 col-12">
                                     <div className="wpo-about-img">
                                         <div className="wpo-about-right pt-0">
-                                            <Image src={VolunteerRegistration} width={646} height={310} alt="Register Your NGO with Sevak Army" />
+                                            <Image src={VolunteerRegistration} width={646} height={310} alt="Register Your NGO with SevakArmy" />
                                         </div>
                                     </div>
                                 </div>
@@ -126,11 +126,11 @@ function NgoRegistrationProcessSection(props) {
                                         <div className="wpo-section-title mb-3">
                                             <span>Register Process</span>
                                             <h2 className="about-heading-second text-titleeee mt-0">
-                                                Register Your NGO with Sevak Army: Empower Your Mission
+                                                Register Your NGO with SevakArmy: Empower Your Mission
                                             </h2>
                                         </div>
                                         <p style={{ textAlign: "justify" }}>
-                                            Sevak Army is here to help NGOs like yours find dedicated volunteers, simplify task management and create lasting change. Register today and gain access to a platform designed to connect your NGO with the right people, make simpler operations and amplify your impact.
+                                            SevakArmy is here to help NGOs like yours find dedicated volunteers, simplify task management and create lasting change. Register today and gain access to a platform designed to connect your NGO with the right people, make simpler operations and amplify your impact.
                                         </p>
 
                                     </div>
@@ -160,7 +160,7 @@ function NgoRegistrationProcessSection(props) {
 
                             </div>
                         </div>
-                        <p className="text-center mb-0 mb-md-3" style={{ fontWeight: '600' }}>We’ve made it simple for NGOs to join Sevak Army, post tasks and connect with volunteers passionate about making a difference.</p>
+                        <p className="text-center mb-0 mb-md-3" style={{ fontWeight: '600' }}>We’ve made it simple for NGOs to join SevakArmy, post tasks and connect with volunteers passionate about making a difference.</p>
                     </div>
                 </section>
 
@@ -169,7 +169,7 @@ function NgoRegistrationProcessSection(props) {
                     <div className='container'>
                         <div className="row justify-content-center">
                             <div className="col-lg-6 col-md-12 col-12">
-                                <SectionTitle subtitle="Make an Impact" title="Why Register Your NGO with Sevak Army?" />
+                                <SectionTitle subtitle="Make an Impact" title="Why Register Your NGO with SevakArmy?" />
                             </div>
                         </div>
 
@@ -212,7 +212,7 @@ function NgoRegistrationProcessSection(props) {
                                                 className="text-center pt-2 px-2"
                                                 style={{ textAlign: "justify", color: "white" }}
                                             >
-                                                Join Sevak Army and connect with passionate volunteers ready to support your cause. It only takes a few minutes to register and post tasks to help your NGO make a bigger impact.
+                                                Join SevakArmy and connect with passionate volunteers ready to support your cause. It only takes a few minutes to register and post tasks to help your NGO make a bigger impact.
                                             </p>
                                             <div className="d-flex flex-column gap-3 justify-content-center align-items-center w-100">
                                                 <Link

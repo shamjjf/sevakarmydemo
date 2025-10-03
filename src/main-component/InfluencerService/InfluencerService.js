@@ -86,10 +86,10 @@ const InfluencerService = (props) => {
                 </div>
                 <div className="slide-text">
                   <p>
-                    At Sevak Army Influencer, we believe that influencers have the power to amplify social causes, raise
+                    At SevakArmy Influencer, we believe that influencers have the power to amplify social causes, raise
                     awareness and inspire real action. By leveraging your platform and unique voice, you can contribute
                     to initiatives that uplift communities, empower individuals and drive social progress. Here’s how
-                    you, as an influencer, can make a difference with Sevak Army.
+                    you, as an influencer, can make a difference with SevakArmy.
                   </p>
                 </div>
                 <div className="hero-btn">
@@ -154,7 +154,7 @@ const InfluencerService = (props) => {
             <div className="container">
                 <div className="row justify-content-center">
                     <div className="col-lg-6 col-md-12 col-12">
-                        <SectionTitle subtitle="How Does It Work?" title="Sevak Army makes volunteer management easy and rewarding." />
+                        <SectionTitle subtitle="How Does It Work?" title="SevakArmy makes volunteer management easy and rewarding." />
                     </div>
                 </div>
                 <div className="service-wrap">
@@ -191,7 +191,7 @@ const InfluencerService = (props) => {
                     </div>
                     <p>
                       As an influencer, your platform can be a beacon of awareness for pressing issues. Partner with
-                      Sevak Army to promote causes that align with your values, whether education, healthcare, women’s
+                      SevakArmy to promote causes that align with your values, whether education, healthcare, women’s
                       empowerment or environmental sustainability. You’ll receive access to:
                     </p>
 
@@ -298,7 +298,7 @@ const InfluencerService = (props) => {
                     <div className="icon">
                       <Image src={Cta2} alt="Influencer Service" />
                     </div>
-                    <span>Subscribe to Sevak Army.</span>
+                    <span>Subscribe to SevakArmy.</span>
                     <h2>Stay informed and inspired by subscribing to our Influencers updates.</h2>
                     <Link onClick={() => props.setShow(true)} to="#" className="theme-btn-cta">
                       Subscribe now
@@ -332,7 +332,7 @@ const InfluencerService = (props) => {
                       <h2 className="about-heading-second text-titleeee">Influence with Purpose: Lead by Example</h2>
                     </div>
                     <p>
-                      By collaborating with Sevak Army, you can influence others to participate in community service.
+                      By collaborating with SevakArmy, you can influence others to participate in community service.
                       Your followers look up to you and your active participation in social causes can inspire them to
                       contribute to a greater cause. Here’s how you can lead by example:
                     </p>
@@ -397,13 +397,13 @@ const InfluencerService = (props) => {
                 <div className="">
                   <div className="wpo-about-text p-3 mt-0 pb-1 pb-lg-2 pt-1 pt-lg-2">
                     <div className="wpo-section-title mt-0">
-                      {/* <span>Welcome to Sevak Army!</span> */}
+                      {/* <span>Welcome to SevakArmy!</span> */}
                       <h2 className="about-heading-third text-titleeee">Referral programme: Grow the Movement</h2>
                     </div>
                     <p>
-                      Expand the reach of Sevak Army by referring fellow influencers to the platform. Every referral
+                      Expand the reach of SevakArmy by referring fellow influencers to the platform. Every referral
                       contributes to growing our community and as an influencer, you'll earn recognition for bringing
-                      more voices into the fold. With  Sevak Army Referral programme, you can:
+                      more voices into the fold. With  SevakArmy Referral programme, you can:
                     </p>
                   </div>
 
@@ -412,7 +412,7 @@ const InfluencerService = (props) => {
                         <div className="about-info-text">
                           <h4>Refer Fellow Influencers</h4>
                           <p className="mission-paragraph">
-                            Spread the word about Sevak Army to other influencers in your network and earn points as
+                            Spread the word about SevakArmy to other influencers in your network and earn points as
                             they join.
                           </p>
                         </div>
@@ -499,7 +499,7 @@ const InfluencerService = (props) => {
                       <h2 className="about-heading-second text-titleeee">Exclusive Resources for Influencers</h2>
                     </div>
                     <p>
-                      Sevak Army provides influencers with a wealth of resources to help create powerful, engaging
+                      SevakArmy provides influencers with a wealth of resources to help create powerful, engaging
                       content. You’ll have access to:
                     </p>
 
@@ -546,13 +546,13 @@ const InfluencerService = (props) => {
                 <div className="">
                   <div className="wpo-about-text p-3">
                     <div className="wpo-section-title">
-                      {/* <span>Welcome to Sevak Army!</span> */}
+                      {/* <span>Welcome to SevakArmy!</span> */}
                       <h2 className="about-heading-third text-titleeee">Lead with Influence, Inspire with Action</h2>
                     </div>
                     <p>
-                      By partnering with Sevak Army, you can transform your platform into a force for good. Whether it’s
+                      By partnering with SevakArmy, you can transform your platform into a force for good. Whether it’s
                       raising awareness, driving donations or inspiring volunteerism, your influence can directly impact
-                      lives and bring about positive change. As part of  Sevak Army Influencer community, you’ll have
+                      lives and bring about positive change. As part of  SevakArmy Influencer community, you’ll have
                       the tools, partnerships and opportunities to turn your passion into action.
                     </p>
                   </div>
