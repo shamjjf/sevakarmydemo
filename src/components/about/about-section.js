@@ -3,7 +3,6 @@ import React from "react";
 import Difference from "../../../public/assets/new-images/organizations/make-deference.jpg";
 // import Helporg from "../../../public/assets/images1/organisation/home/help.png";
 import Helporg from "../../../public/assets/new-images/common/our-mission.jpg";
-
 // import abImg5 from "../../../public/assets/images1/organisation/about-us/sevak-army-organization-about-us-5.jpg";
 import abImg5 from "../../../public/assets/new-images/common/our-vision.jpg";
 import Image from "next/image";
@@ -112,7 +111,6 @@ const AboutSection = (props) => {
                     a wave of positive action that changes lives. By joining Sevak
                     Army, your organisation can be part of this change.
                   </p>
-
                 </div>
               </div>
             </div>
